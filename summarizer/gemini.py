@@ -22,7 +22,7 @@ def summarize_articles(articles):
     prompt += "---\n결과물은 디스코드 채널로 전송될 것입니다. 가독성이 좋도록 이모지(🌟, 📰 등)를 활용하며, 불필요한 서문 없이 본론만 마크다운 포맷으로 깔끔하게 작성해주세요."
     prompt += "기사별 원문 링크는 반드시 포함되어야 합니다."
     
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
     headers = {'Content-Type': 'application/json'}
     payload = {
         "contents": [{"parts": [{"text": prompt}]}]
