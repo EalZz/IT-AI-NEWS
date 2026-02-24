@@ -6,9 +6,12 @@ on:
       - master
       - main
   schedule:
-    # 매일 한국 시간(KST) 오전 8시 실행 (UTC 기준 23시)
-    - cron: '0 23 * * *'
-  workflow_dispatch: # GitHub Repository 웹사이트 Action 탭에서 수동 실행(Run workflow) 버튼 표시
+    # 매 시간 0분마다 실행 (1시간 간격 폴링)
+    - cron: '0 * * * *'
+  workflow_dispatch: # GitHub Repository 웹사이트 Action 탭에서 수동 실행 버튼 표시
+
+permissions:
+  contents: write # 봇이 저장소에 메모리 파일을 저장할 수 있는 쓰기 권한
 
 jobs:
   run-daily-summary:
@@ -28,10 +31,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: 뉴스 에이전트 구동 (크롤링 -> Gemini 요약 -> 디스코드 알림)
+      - name: 뉴스 에이전트 구동 (크롤링 -> 단기기억 필터 -> Gemini 평가/요약 -> 디스코드 알림)
         env:
-          # GitHub Secrets에 등록된 값을 주입받아 스크립트 실행
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           python main.py
+
+      - name: 메모리(보낸 뉴스 상태)를 GitHub 저장소에 동기화
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add sent_articles.json || echo "No state file to add"
+          git commit -m "chore: save sent articles state" || echo "No changes to commit"
+          git push
