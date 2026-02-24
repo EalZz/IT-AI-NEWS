@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 def get_latest_news():
     """PyTorch KR 뉴스(Discourse)에서 최신 글 3개를 가져옵니다 (RSS 기준)."""
     # PyTorch KR 커뮤니티 뉴스는 Discourse 기반이므로 RSS 피드가 가장 안정적입니다.
-    url = "https://news.pytorch.kr/latest.rss"
+    url = "https://discuss.pytorch.kr/latest.rss"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
