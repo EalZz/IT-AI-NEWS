@@ -1,0 +1,33 @@
+name: Daily Zero-Cost AI News Pipeline
+
+on:
+  schedule:
+    # 매일 한국 시간(KST) 오전 8시 실행 (UTC 기준 23시)
+    - cron: '0 23 * * *'
+  workflow_dispatch: # GitHub Repository 웹사이트 Action 탭에서 수동 실행(Run workflow) 버튼 표시
+
+jobs:
+  run-daily-summary:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 저장소 코드 체크아웃 (가져오기)
+        uses: actions/checkout@v3
+
+      - name: Python 3.10 환경 설정
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 파이프라인 구동용 라이브러리 설치
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 뉴스 에이전트 구동 (크롤링 -> Gemini 요약 -> 디스코드 알림)
+        env:
+          # GitHub Secrets에 등록된 값을 주입받아 스크립트 실행
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python main.py

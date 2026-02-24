@@ -1,0 +1,16 @@
+# .env 파일은 절대로 GitHub 등의 퍼블릭 저장소에 올라가면 안 됩니다. 
+# API 키나 비밀번호가 탈취될 수 있습니다.
+.env
+
+# Python 가상환경 및 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.pytest_cache/
+
+# VSCode 등 에디터 설정
+.vscode/
+.idea/
