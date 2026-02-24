@@ -23,18 +23,52 @@ def summarize_articles(articles):
     prompt += "기사별 원문 링크는 반드시 포함되어야 합니다."
     
     try:
-        # 최신 공식 라이브러리인 google-genai 방식 사용
         client = genai.Client(api_key=api_key)
+        
+        # 1. API 키로 접근 가능한 실제 모델 목록을 동적으로 조회
+        available_models = []
+        for m in client.models.list():
+            available_models.append(m.name)
+            
+        print("[디버그] 사용 가능한 모델 목록:", available_models)
+        
+        # 2. 'flash'가 포함된 가장 안정적인 무료 모델 자동 선택
+        target_model = 'gemini-1.5-flash'
+        
+        # 만약 기본 모델이 안 보인다면, 목록에 있는 첫 번째 flash 모델이나 기본 모델 선택
+        flash_models = [m for m in available_models if 'flash' in m.lower()]
+        if flash_models:
+            target_model = flash_models[0]
+        elif available_models:
+            target_model = available_models[0] # 임의의 가능한 모델 선택
+            
+        # 모델 이름 앞의 'models/' 제거 (SDK가 자동으로 붙이므로 중복 방지)
+        if target_model.startswith('models/'):
+            target_model = target_model.replace('models/', '')
+            
+        print(f"[진행] 선택된 모델명: {target_model}")
+        
+        # 3. 요약 수행
         response = client.models.generate_content(
-            model='gemini-1.5-flash-8b', # 무료 티어가 확실하게 지원되는 특정 버전(8b) 지정
+            model=target_model,
             contents=prompt,
         )
         
         if not response.text:
-            print("[Error] Gemini API 응답에서 텍스트를 찾을 수 없습니다.")
             return "요약 실패: 결과 텍스트 없음"
             
         return response.text
+        
     except Exception as e:
-        print(f"[Error] Gemini API 호출 중 오류 발생: {e}")
-        return "요약 실패: API 오류 발생"
+        error_msg = str(e)
+        print(f"[Error] Gemini API 호출 중 오류 발생: {error_msg}")
+        
+        # 429 Limit 0 에러 감지 시 원인 안내
+        if '429' in error_msg and 'limit: 0' in error_msg.lower():
+            print("\n========================================================")
+            print("[중요] Google Gemini API의 무료 티어(Free Tier) 국가 제한에 걸렸습니다!")
+            print("현재 GitHub Actions 서버가 구글 무료 API 사용이 금지된 지역(예: 유럽 등)에 배정되었기 때문입니다.")
+            print("해결 방법: 구글 클라우드 콘솔에서 API 키 프로젝트에 '결제 수단(신용카드)'을 등록하여 한도를 푸셔야 합니다. (소량 사용 시 요금은 청구되지 않습니다.)")
+            print("========================================================\n")
+            
+        return f"요약 실패: API 오류 발생 ({target_model})"
