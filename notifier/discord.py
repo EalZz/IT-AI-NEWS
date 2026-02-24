@@ -13,7 +13,7 @@ def send_message(message):
         
     data = {
         "content": message,
-        "username": "뉴스 요약 봇 (무료)",
+        "username": "뉴스 요약 봇",
         "avatar_url": "https://cdn-icons-png.flaticon.com/512/3260/3260838.png"  # 임의의 뉴스 봇 아이콘
     }
     
