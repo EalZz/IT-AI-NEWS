@@ -26,7 +26,7 @@ def summarize_articles(articles):
         # 최신 공식 라이브러리인 google-genai 방식 사용
         client = genai.Client(api_key=api_key)
         response = client.models.generate_content(
-            model='gemini-1.5-flash', # 무료 티어가 확실하게 지원되는 1.5-flash 사용
+            model='gemini-1.5-flash-8b', # 무료 티어가 확실하게 지원되는 특정 버전(8b) 지정
             contents=prompt,
         )
         
