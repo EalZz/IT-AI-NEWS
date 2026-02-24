@@ -1,6 +1,10 @@
 name: Daily Zero-Cost AI News Pipeline
 
 on:
+  push:
+    branches:
+      - master
+      - main
   schedule:
     # 매일 한국 시간(KST) 오전 8시 실행 (UTC 기준 23시)
     - cron: '0 23 * * *'
