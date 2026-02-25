@@ -11,12 +11,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def main():
-    # 현재 시간 확인 (UTC 22시는 KST 07시 50분 실행 시점)
+    # 현재 시간 확인 (UTC 22시는 KST 07시 10분 실행 시점)
     now_utc = datetime.datetime.now(datetime.timezone.utc)
     is_morning_briefing = (now_utc.hour == 22)
     
     if is_morning_briefing:
-        print("--- [시작] 오전 7시 50분 정기 뉴스 브리핑 모드 ---")
+        print("--- [시작] 오전 7시 10분 정기 뉴스 브리핑 모드 ---")
     else:
         print("--- [시작] 실시간 급상승 뉴스 에이전트 모드 (1시간 주기) ---")
         
