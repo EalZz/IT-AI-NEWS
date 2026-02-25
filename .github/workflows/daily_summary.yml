@@ -6,9 +6,9 @@ on:
       - master
       - main
   schedule:
-    # KST 07시 10분(UTC 22시 10분)부터 23시 10분(UTC 14시 10분)까지만 매시 10분 실행
-    # KST 00시 10분~06시 10분은 수면 모드
-    - cron: '10 22,23,0-14 * * *'
+    # KST 07시 10분(UTC 22시 10분)부터 다음날 00시 10분(UTC 15시 10분)까지만 매시 10분 실행
+    # KST 01시 10분~06시 10분은 수면 모드
+    - cron: '10 22,23,0-15 * * *'
   workflow_dispatch: # GitHub Repository 웹사이트 Action 탭에서 수동 실행 버튼 표시
 
 permissions:
