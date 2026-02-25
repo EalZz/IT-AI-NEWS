@@ -6,8 +6,9 @@ on:
       - master
       - main
   schedule:
-    # 매 시간 0분마다 실행 (1시간 간격 폴링)
-    - cron: '0 * * * *'
+    # KST 08시(UTC 23시)부터 24시(UTC 15시)까지만 정각 실행
+    # KST 01시~07시는 수면 모드 (실행 안 함)
+    - cron: '0 23,0-15 * * *'
   workflow_dispatch: # GitHub Repository 웹사이트 Action 탭에서 수동 실행 버튼 표시
 
 permissions:
