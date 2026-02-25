@@ -17,7 +17,7 @@ def get_latest_news():
         root = ET.fromstring(response.content)
         
         # 주로 channel 하위의 item들을 찾습니다.
-        for item in root.findall('.//item')[:3]:
+        for item in root.findall('.//item')[:5]:
             title_elem = item.find('title')
             link_elem = item.find('link')
             desc_elem = item.find('description')

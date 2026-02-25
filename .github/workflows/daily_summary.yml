@@ -44,6 +44,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add sent_articles.json || echo "No state file to add"
+          git add *.json || echo "No state file to add"
           git commit -m "chore: save sent articles state" || echo "No changes to commit"
           git push

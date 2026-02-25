@@ -17,7 +17,7 @@ def get_latest_news():
         root = ET.fromstring(response.content)
         
         # RSS <channel> 안의 <item> 속성 파싱
-        for item in root.findall('./channel/item')[:3]:
+        for item in root.findall('./channel/item')[:5]:
             title = item.find('title').text
             link = item.find('link').text
             # HTML 태그가 섞여 있을 수 있으므로 앞부분만 사용
