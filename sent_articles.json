@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=207297",
-    "https://www.aitimes.com/news/articleView.html?idxno=207290",
-    "https://www.aitimes.com/news/articleView.html?idxno=207295",
     "https://www.aitimes.com/news/articleView.html?idxno=207291",
     "https://www.aitimes.com/news/articleView.html?idxno=207318",
     "https://www.aitimes.com/news/articleView.html?idxno=207317",
@@ -98,5 +95,8 @@
     "https://discuss.pytorch.kr/t/perplexity-pplx-embed-2/9108",
     "https://www.aitimes.com/news/articleView.html?idxno=207436",
     "https://www.aitimes.com/news/articleView.html?idxno=207435",
-    "https://www.aitimes.com/news/articleView.html?idxno=207433"
+    "https://www.aitimes.com/news/articleView.html?idxno=207433",
+    "https://www.aitimes.com/news/articleView.html?idxno=207432",
+    "https://www.aitimes.com/news/articleView.html?idxno=207434",
+    "https://discuss.pytorch.kr/t/mimiclaw-5-esp32-s3-mcu-os-less-ai/9113"
 ]
