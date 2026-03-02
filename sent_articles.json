@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=207285",
-    "https://www.aitimes.com/news/articleView.html?idxno=207283",
     "https://www.aitimes.com/news/articleView.html?idxno=207272",
     "https://www.aitimes.com/news/articleView.html?idxno=207273",
     "https://www.aitimes.com/news/articleView.html?idxno=207293",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/2026-02-23-03-01-ai-ml/9112",
     "https://www.aitimes.com/news/articleView.html?idxno=207430",
     "https://www.aitimes.com/news/articleView.html?idxno=207429",
-    "https://www.aitimes.com/news/articleView.html?idxno=207431"
+    "https://www.aitimes.com/news/articleView.html?idxno=207431",
+    "https://www.aitimes.com/news/articleView.html?idxno=207405",
+    "https://discuss.pytorch.kr/t/perplexity-pplx-embed-2/9108"
 ]
