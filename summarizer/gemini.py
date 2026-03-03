@@ -73,32 +73,50 @@ def summarize_articles(articles, mode="hourly"):
             
         print("[디버그] 사용 가능한 모델 목록:", available_models)
         
-        # 2. 'flash'가 포함된 가장 안정적인 무료 모델 자동 선택
-        target_model = 'gemini-1.5-flash'
+        # 2. 모델 후보군 선정 (목록 순서대로 시도, flash 모델 우선)
+        candidate_models = ['gemini-1.5-flash']
         
         # 만약 기본 모델이 안 보인다면, 목록에 있는 첫 번째 flash 모델이나 기본 모델 선택
         flash_models = [m for m in available_models if 'flash' in m.lower()]
         if flash_models:
-            target_model = flash_models[0]
+            candidate_models = flash_models
         elif available_models:
-            target_model = available_models[0] # 임의의 가능한 모델 선택
+            candidate_models = [available_models[0]] # 임의의 가능한 모델 선택
             
-        # 모델 이름 앞의 'models/' 제거 (SDK가 자동으로 붙이므로 중복 방지)
-        if target_model.startswith('models/'):
-            target_model = target_model.replace('models/', '')
+        # 3. 요약 수행 (Fallback 로직: 상위 모델 우선 시도 후 실패 시 하위 모델로 순차 시도)
+        last_error = None
+        for model_name in candidate_models:
+            target_model = model_name
+            # 모델 이름 앞의 'models/' 제거 (SDK가 자동으로 붙이므로 중복 방지)
+            if target_model.startswith('models/'):
+                target_model = target_model.replace('models/', '')
+                
+            print(f"[진행] 시도 중인 모델명: {target_model}")
             
-        print(f"[진행] 선택된 모델명: {target_model}")
-        
-        # 3. 요약 수행
-        response = client.models.generate_content(
-            model=target_model,
-            contents=prompt,
-        )
-        
-        if not response.text:
-            return "요약 실패: 결과 텍스트 없음"
-            
-        return response.text
+            try:
+                response = client.models.generate_content(
+                    model=target_model,
+                    contents=prompt,
+                )
+                
+                if not response.text:
+                    last_error = "결과 텍스트 없음"
+                    print(f"[경고] {target_model} 응답 없음. 다음 모델 시도 중...")
+                    continue
+                    
+                return response.text
+                
+            except Exception as e:
+                error_msg = str(e)
+                last_error = error_msg
+                print(f"[경고] {target_model} 호출 실패 ({error_msg}). 다음 모델로 내려갑니다...")
+                
+                # 429 에러는 계정/할당량 자체 문제이므로 폴백 없이 바로 예외 발생
+                if '429' in error_msg and 'limit: 0' in error_msg.lower():
+                    raise e
+                    
+        # 모든 후보 모델이 실패한 경우 예외를 발생시켜 최종 처리단으로 전달
+        raise Exception(f"목록에 있는 모든 모델 시도 실패. 최종 오류: {last_error}")
         
     except Exception as e:
         error_msg = str(e)
@@ -112,4 +130,4 @@ def summarize_articles(articles, mode="hourly"):
             print("해결 방법: 구글 클라우드 콘솔에서 API 키 프로젝트에 '결제 수단(신용카드)'을 등록하여 한도를 푸셔야 합니다. (소량 사용 시 요금은 청구되지 않습니다.)")
             print("========================================================\n")
             
-        return f"요약 실패: API 오류 발생 ({target_model})"
+        return "요약 실패: API 오류 발생 (모든 시도 실패)"
