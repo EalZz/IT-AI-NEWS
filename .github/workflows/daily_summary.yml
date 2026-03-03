@@ -44,4 +44,5 @@ jobs:
           git config --local user.name "GitHub Action Bot"
           git add *.json || echo "No state file to add"
           git commit -m "chore: save sent articles state" || echo "No changes to commit"
+          git pull --rebase origin master
           git push
