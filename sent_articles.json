@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208068",
-    "https://www.aitimes.com/news/articleView.html?idxno=208071",
     "https://www.aitimes.com/news/articleView.html?idxno=208105",
     "https://www.aitimes.com/news/articleView.html?idxno=208096",
     "https://www.aitimes.com/news/articleView.html?idxno=208090",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=208234",
     "https://www.aitimes.com/news/articleView.html?idxno=208229",
     "https://www.aitimes.com/news/articleView.html?idxno=208223",
-    "https://discuss.pytorch.kr/t/code-review-graph-claude-code/9331"
+    "https://discuss.pytorch.kr/t/code-review-graph-claude-code/9331",
+    "https://www.aitimes.com/news/articleView.html?idxno=208244",
+    "https://discuss.pytorch.kr/t/deerflow-v2-superagent-harness-feat-bytedance/9325"
 ]
