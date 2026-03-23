@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208025",
     "https://www.aitimes.com/news/articleView.html?idxno=208017",
     "https://www.aitimes.com/news/articleView.html?idxno=208038",
     "https://discuss.pytorch.kr/t/gemini-voyager-google-gemini/9262",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=208189",
     "https://www.aitimes.com/news/articleView.html?idxno=208187",
     "https://www.aitimes.com/news/articleView.html?idxno=208185",
-    "https://discuss.pytorch.kr/t/2026-03-16-22-ai-ml/9313"
+    "https://discuss.pytorch.kr/t/2026-03-16-22-ai-ml/9313",
+    "https://discuss.pytorch.kr/t/flash-moe-c-metal-m3-max-397b-moe/9315"
 ]
