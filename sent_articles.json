@@ -1,10 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/gn-ai-via-hackernews/9267",
-    "https://www.aitimes.com/news/articleView.html?idxno=208076",
-    "https://www.aitimes.com/news/articleView.html?idxno=208083",
-    "https://www.aitimes.com/news/articleView.html?idxno=208089",
-    "https://www.aitimes.com/news/articleView.html?idxno=208066",
-    "https://www.aitimes.com/news/articleView.html?idxno=208091",
     "https://www.aitimes.com/news/articleView.html?idxno=208073",
     "https://www.aitimes.com/news/articleView.html?idxno=208107",
     "https://www.aitimes.com/news/articleView.html?idxno=208095",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=208215",
     "https://www.aitimes.com/news/articleView.html?idxno=208213",
     "https://www.aitimes.com/news/articleView.html?idxno=208217",
-    "https://discuss.pytorch.kr/t/topic/9324"
+    "https://discuss.pytorch.kr/t/topic/9324",
+    "https://www.aitimes.com/news/articleView.html?idxno=208237",
+    "https://www.aitimes.com/news/articleView.html?idxno=208228",
+    "https://www.aitimes.com/news/articleView.html?idxno=208240",
+    "https://www.aitimes.com/news/articleView.html?idxno=208227",
+    "https://www.aitimes.com/news/articleView.html?idxno=208230",
+    "https://discuss.pytorch.kr/t/data-chunking-llm/9326"
 ]
