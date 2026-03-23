@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208073",
-    "https://www.aitimes.com/news/articleView.html?idxno=208107",
-    "https://www.aitimes.com/news/articleView.html?idxno=208095",
-    "https://www.aitimes.com/news/articleView.html?idxno=208103",
-    "https://www.aitimes.com/news/articleView.html?idxno=208087",
-    "https://www.aitimes.com/news/articleView.html?idxno=208098",
     "https://www.aitimes.com/news/articleView.html?idxno=208068",
     "https://www.aitimes.com/news/articleView.html?idxno=208071",
     "https://www.aitimes.com/news/articleView.html?idxno=208105",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=208240",
     "https://www.aitimes.com/news/articleView.html?idxno=208227",
     "https://www.aitimes.com/news/articleView.html?idxno=208230",
-    "https://discuss.pytorch.kr/t/data-chunking-llm/9326"
+    "https://discuss.pytorch.kr/t/data-chunking-llm/9326",
+    "https://www.aitimes.com/news/articleView.html?idxno=208205",
+    "https://www.aitimes.com/news/articleView.html?idxno=208232",
+    "https://www.aitimes.com/news/articleView.html?idxno=208234",
+    "https://www.aitimes.com/news/articleView.html?idxno=208229",
+    "https://www.aitimes.com/news/articleView.html?idxno=208223",
+    "https://discuss.pytorch.kr/t/code-review-graph-claude-code/9331"
 ]
