@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208240",
-    "https://www.aitimes.com/news/articleView.html?idxno=208227",
-    "https://www.aitimes.com/news/articleView.html?idxno=208230",
-    "https://discuss.pytorch.kr/t/data-chunking-llm/9326",
-    "https://www.aitimes.com/news/articleView.html?idxno=208205",
-    "https://www.aitimes.com/news/articleView.html?idxno=208232",
     "https://www.aitimes.com/news/articleView.html?idxno=208234",
     "https://www.aitimes.com/news/articleView.html?idxno=208229",
     "https://www.aitimes.com/news/articleView.html?idxno=208223",
@@ -98,5 +92,11 @@
     "https://discuss.pytorch.kr/t/anthropic-claude-code-auto-mode/9408",
     "https://discuss.pytorch.kr/t/opencli-cli-ai/9363",
     "https://www.aitimes.com/news/articleView.html?idxno=208387",
-    "https://discuss.pytorch.kr/t/topic/9412"
+    "https://discuss.pytorch.kr/t/topic/9412",
+    "https://www.aitimes.com/news/articleView.html?idxno=208397",
+    "https://www.aitimes.com/news/articleView.html?idxno=208398",
+    "https://www.aitimes.com/news/articleView.html?idxno=208395",
+    "https://www.aitimes.com/news/articleView.html?idxno=208391",
+    "https://www.aitimes.com/news/articleView.html?idxno=208393",
+    "https://discuss.pytorch.kr/t/context-hub-ai-api-feat-andrew-ng/9392"
 ]
