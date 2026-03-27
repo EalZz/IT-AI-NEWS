@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=207918",
-    "https://www.aitimes.com/news/articleView.html?idxno=207929",
-    "https://www.aitimes.com/news/articleView.html?idxno=207936",
-    "https://discuss.pytorch.kr/t/palantir-nvidia-on-premise-palantir-sovereign-ai-os/9230",
-    "https://discuss.pytorch.kr/t/open-up-26-4-1/9231",
-    "https://discuss.pytorch.kr/t/opendev-llm-ai/9227",
-    "https://discuss.pytorch.kr/t/anthropic-3-27-2-claude-2/9229",
-    "https://discuss.pytorch.kr/t/geo-seo-claude-ai-geo-seo/9228",
-    "https://www.aitimes.com/news/articleView.html?idxno=207982",
-    "https://www.aitimes.com/news/articleView.html?idxno=207987",
     "https://www.aitimes.com/news/articleView.html?idxno=207995",
     "https://www.aitimes.com/news/articleView.html?idxno=208009",
     "https://www.aitimes.com/news/articleView.html?idxno=208008",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/gn-data-is-the-only-moat/9409",
     "https://discuss.pytorch.kr/t/llm-feat-google-research-cornell-harvard/9402",
     "https://discuss.pytorch.kr/t/context-hub-ai-api-feat-andrew-ng/9392",
-    "https://discuss.pytorch.kr/t/topic/9412"
+    "https://discuss.pytorch.kr/t/topic/9412",
+    "https://www.aitimes.com/news/articleView.html?idxno=208486",
+    "https://www.aitimes.com/news/articleView.html?idxno=208437",
+    "https://www.aitimes.com/news/articleView.html?idxno=208472",
+    "https://www.aitimes.com/news/articleView.html?idxno=208459",
+    "https://www.aitimes.com/news/articleView.html?idxno=208453",
+    "https://discuss.pytorch.kr/t/nightingale-ml/9349",
+    "https://discuss.pytorch.kr/t/holyclaude-claude-code-ai-docker-web-ui/9423",
+    "https://discuss.pytorch.kr/t/attention-residuals-moonshotai/9362",
+    "https://discuss.pytorch.kr/t/cli-stripe-projects/9428",
+    "https://discuss.pytorch.kr/t/mistral-vibe-mistral-ai/9413"
 ]
