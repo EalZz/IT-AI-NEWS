@@ -1,11 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=207995",
-    "https://www.aitimes.com/news/articleView.html?idxno=208009",
-    "https://www.aitimes.com/news/articleView.html?idxno=208008",
-    "https://discuss.pytorch.kr/t/greyhaven-ai-autocontext-ai/9238",
-    "https://discuss.pytorch.kr/t/gn-llm-how-i-write-software-with-llms/9239",
-    "https://discuss.pytorch.kr/t/ship-to-production-5/9245",
-    "https://discuss.pytorch.kr/t/anthropic-ai-anthropic-institute/9240",
     "https://discuss.pytorch.kr/t/llm-llm-architecture-gallery-sebastian-raschka-gpt-2-llm/9241",
     "https://www.aitimes.com/news/articleView.html?idxno=208063",
     "https://www.aitimes.com/news/articleView.html?idxno=208013",
@@ -98,5 +91,12 @@
     "https://discuss.pytorch.kr/t/holyclaude-claude-code-ai-docker-web-ui/9423",
     "https://discuss.pytorch.kr/t/attention-residuals-moonshotai/9362",
     "https://discuss.pytorch.kr/t/cli-stripe-projects/9428",
-    "https://discuss.pytorch.kr/t/mistral-vibe-mistral-ai/9413"
+    "https://discuss.pytorch.kr/t/mistral-vibe-mistral-ai/9413",
+    "https://www.aitimes.com/news/articleView.html?idxno=208500",
+    "https://www.aitimes.com/news/articleView.html?idxno=208499",
+    "https://www.aitimes.com/news/articleView.html?idxno=208498",
+    "https://www.aitimes.com/news/articleView.html?idxno=208497",
+    "https://www.aitimes.com/news/articleView.html?idxno=208496",
+    "https://discuss.pytorch.kr/t/gn-claude-code-how-im-productive-with-claude-code/9431",
+    "https://discuss.pytorch.kr/t/understand-anything-claude-code/9418"
 ]
