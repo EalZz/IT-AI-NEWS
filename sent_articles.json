@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208392",
     "https://www.aitimes.com/news/articleView.html?idxno=208396",
     "https://www.aitimes.com/news/articleView.html?idxno=208419",
     "https://www.aitimes.com/news/articleView.html?idxno=208421",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/meta-2-sam-3-1/9453",
     "https://www.aitimes.com/news/articleView.html?idxno=208533",
     "https://www.aitimes.com/news/articleView.html?idxno=208518",
-    "https://www.aitimes.com/news/articleView.html?idxno=208523"
+    "https://www.aitimes.com/news/articleView.html?idxno=208523",
+    "https://discuss.pytorch.kr/t/llm-mcp/9464"
 ]
