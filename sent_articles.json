@@ -1,10 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/nightingale-ml/9349",
-    "https://www.aitimes.com/news/articleView.html?idxno=208438",
-    "https://www.aitimes.com/news/articleView.html?idxno=208474",
-    "https://www.aitimes.com/news/articleView.html?idxno=208469",
-    "https://www.aitimes.com/news/articleView.html?idxno=208449",
-    "https://www.aitimes.com/news/articleView.html?idxno=208473",
     "https://www.aitimes.com/news/articleView.html?idxno=208488",
     "https://www.aitimes.com/news/articleView.html?idxno=208493",
     "https://www.aitimes.com/news/articleView.html?idxno=208471",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=208644",
     "https://www.aitimes.com/news/articleView.html?idxno=208627",
     "https://www.aitimes.com/news/articleView.html?idxno=208640",
-    "https://www.aitimes.com/news/articleView.html?idxno=208642"
+    "https://www.aitimes.com/news/articleView.html?idxno=208642",
+    "https://www.aitimes.com/news/articleView.html?idxno=208618",
+    "https://www.aitimes.com/news/articleView.html?idxno=208619",
+    "https://www.aitimes.com/news/articleView.html?idxno=208629",
+    "https://www.aitimes.com/news/articleView.html?idxno=208628",
+    "https://www.aitimes.com/news/articleView.html?idxno=208643",
+    "https://discuss.pytorch.kr/t/cohere-huggingface-open-asr-1-transcribe/9472"
 ]
