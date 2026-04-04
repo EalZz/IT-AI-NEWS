@@ -1,12 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/data-chunking-llm/9326",
-    "https://discuss.pytorch.kr/t/topic/9324",
-    "https://discuss.pytorch.kr/t/kimodo-nvidia-3d/9310",
-    "https://www.aitimes.com/news/articleView.html?idxno=208285",
-    "https://www.aitimes.com/news/articleView.html?idxno=208264",
-    "https://www.aitimes.com/news/articleView.html?idxno=208275",
-    "https://www.aitimes.com/news/articleView.html?idxno=208299",
-    "https://www.aitimes.com/news/articleView.html?idxno=208298",
     "https://discuss.pytorch.kr/t/ai-feat-anthropic/9347",
     "https://discuss.pytorch.kr/t/pytorch-2-11/9355",
     "https://discuss.pytorch.kr/t/openyak-100-ai/9337",
@@ -98,5 +90,13 @@
     "https://discuss.pytorch.kr/t/vibevoice-60-asr-tts-microsoft-ai/9536",
     "https://discuss.pytorch.kr/t/modly-3d-feat-lightning-pixel/9352",
     "https://discuss.pytorch.kr/t/kg-whisper-kg-asr-feat-hyuk/9547",
-    "https://discuss.pytorch.kr/t/google-deepmind-gemma-4/9548"
+    "https://discuss.pytorch.kr/t/google-deepmind-gemma-4/9548",
+    "https://www.aitimes.com/news/articleView.html?idxno=208804",
+    "https://www.aitimes.com/news/articleView.html?idxno=208806",
+    "https://www.aitimes.com/news/articleView.html?idxno=208808",
+    "https://www.aitimes.com/news/articleView.html?idxno=208767",
+    "https://www.aitimes.com/news/articleView.html?idxno=208809",
+    "https://discuss.pytorch.kr/t/anthropic-claude-4-17/9566",
+    "https://discuss.pytorch.kr/t/openharness-claude-code-44-python-ai-feat-hkuds/9559",
+    "https://discuss.pytorch.kr/t/gn-ai-2026-4/9562"
 ]
