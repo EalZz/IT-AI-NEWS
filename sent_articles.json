@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208629",
-    "https://www.aitimes.com/news/articleView.html?idxno=208628",
-    "https://www.aitimes.com/news/articleView.html?idxno=208643",
     "https://discuss.pytorch.kr/t/cohere-huggingface-open-asr-1-transcribe/9472",
     "https://discuss.pytorch.kr/t/anthropic-economic-index-2026-02-ai/9444",
     "https://www.aitimes.com/news/articleView.html?idxno=208622",
@@ -98,5 +95,8 @@
     "https://discuss.pytorch.kr/t/gn-ai-2026-4/9562",
     "https://www.aitimes.com/news/articleView.html?idxno=208786",
     "https://www.aitimes.com/news/articleView.html?idxno=208809",
-    "https://www.aitimes.com/news/articleView.html?idxno=208767"
+    "https://www.aitimes.com/news/articleView.html?idxno=208767",
+    "https://www.aitimes.com/news/articleView.html?idxno=208808",
+    "https://discuss.pytorch.kr/t/anthropic-claude-4-17/9566",
+    "https://discuss.pytorch.kr/t/openharness-claude-code-44-python-ai-feat-hkuds/9559"
 ]
