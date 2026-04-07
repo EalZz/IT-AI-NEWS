@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208417",
-    "https://discuss.pytorch.kr/t/vibe-physics-ai-2-feat-anthropic/9356",
-    "https://discuss.pytorch.kr/t/gn-data-is-the-only-moat/9409",
-    "https://discuss.pytorch.kr/t/llm-feat-google-research-cornell-harvard/9402",
-    "https://discuss.pytorch.kr/t/context-hub-ai-api-feat-andrew-ng/9392",
-    "https://discuss.pytorch.kr/t/topic/9412",
-    "https://www.aitimes.com/news/articleView.html?idxno=208486",
-    "https://www.aitimes.com/news/articleView.html?idxno=208437",
-    "https://www.aitimes.com/news/articleView.html?idxno=208472",
-    "https://www.aitimes.com/news/articleView.html?idxno=208459",
     "https://www.aitimes.com/news/articleView.html?idxno=208453",
     "https://discuss.pytorch.kr/t/nightingale-ml/9349",
     "https://discuss.pytorch.kr/t/holyclaude-claude-code-ai-docker-web-ui/9423",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/emdash-ai-git-ade/9495",
     "https://discuss.pytorch.kr/t/skills-4-30/9588",
     "https://discuss.pytorch.kr/t/latent/9560",
-    "https://discuss.pytorch.kr/t/ai-5-4/9584"
+    "https://discuss.pytorch.kr/t/ai-5-4/9584",
+    "https://www.aitimes.com/news/articleView.html?idxno=208903",
+    "https://www.aitimes.com/news/articleView.html?idxno=208902",
+    "https://www.aitimes.com/news/articleView.html?idxno=208901",
+    "https://www.aitimes.com/news/articleView.html?idxno=208882",
+    "https://www.aitimes.com/news/articleView.html?idxno=208878",
+    "https://discuss.pytorch.kr/t/bayesian-teaching-llm-google-research/9404",
+    "https://discuss.pytorch.kr/t/parlor-ai/9599",
+    "https://discuss.pytorch.kr/t/pageindex-db-llm-rag/9579",
+    "https://discuss.pytorch.kr/t/paper2code-arxiv-url-pytorch-claude-code/9580",
+    "https://discuss.pytorch.kr/t/ocr-hybrid/9602"
 ]
