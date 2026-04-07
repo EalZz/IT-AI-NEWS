@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208730",
-    "https://www.aitimes.com/news/articleView.html?idxno=208744",
     "https://www.aitimes.com/news/articleView.html?idxno=208753",
     "https://www.aitimes.com/news/articleView.html?idxno=208751",
     "https://www.aitimes.com/news/articleView.html?idxno=208746",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/paper2code-arxiv-url-pytorch-claude-code/9580",
     "https://www.aitimes.com/news/articleView.html?idxno=208865",
     "https://www.aitimes.com/news/articleView.html?idxno=208870",
-    "https://www.aitimes.com/news/articleView.html?idxno=208877"
+    "https://www.aitimes.com/news/articleView.html?idxno=208877",
+    "https://www.aitimes.com/news/articleView.html?idxno=208888",
+    "https://discuss.pytorch.kr/t/pageindex-db-llm-rag/9579"
 ]
