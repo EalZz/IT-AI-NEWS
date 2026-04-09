@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208839",
     "https://www.aitimes.com/news/articleView.html?idxno=208843",
     "https://www.aitimes.com/news/articleView.html?idxno=208838",
     "https://discuss.pytorch.kr/t/skills-4-30/9588",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209040",
     "https://www.aitimes.com/news/articleView.html?idxno=209027",
     "https://www.aitimes.com/news/articleView.html?idxno=209000",
-    "https://www.aitimes.com/news/articleView.html?idxno=209045"
+    "https://www.aitimes.com/news/articleView.html?idxno=209045",
+    "https://discuss.pytorch.kr/t/bidirlm-llm-omni-modal-bidirectional-encoder/9648"
 ]
