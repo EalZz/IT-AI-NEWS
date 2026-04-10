@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208506",
-    "https://discuss.pytorch.kr/t/2026-03-23-29-ai-ml/9455",
-    "https://discuss.pytorch.kr/t/gstack-y-combinator-garry-tan-claude-code-20/9434",
-    "https://discuss.pytorch.kr/t/gan-feat-anthropic/9427",
-    "https://www.aitimes.com/news/articleView.html?idxno=208524",
-    "https://www.aitimes.com/news/articleView.html?idxno=208527",
-    "https://www.aitimes.com/news/articleView.html?idxno=208575",
-    "https://www.aitimes.com/news/articleView.html?idxno=208551",
-    "https://www.aitimes.com/news/articleView.html?idxno=208578",
-    "https://discuss.pytorch.kr/t/rvllm-rust-llm-vllm/9465",
     "https://discuss.pytorch.kr/t/abtop-ai-htop-btop/9470",
     "https://discuss.pytorch.kr/t/llm-mcp/9464",
     "https://discuss.pytorch.kr/t/meta-2-sam-3-1/9453",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/mempalace-longmemeval-96-6-ai/9637",
     "https://discuss.pytorch.kr/t/ruff-uv-astral/9644",
     "https://discuss.pytorch.kr/t/ai-sw/9643",
-    "https://discuss.pytorch.kr/t/personaplex-nvidia/9613"
+    "https://discuss.pytorch.kr/t/personaplex-nvidia/9613",
+    "https://www.aitimes.com/news/articleView.html?idxno=209070",
+    "https://www.aitimes.com/news/articleView.html?idxno=209104",
+    "https://www.aitimes.com/news/articleView.html?idxno=209093",
+    "https://www.aitimes.com/news/articleView.html?idxno=209081",
+    "https://www.aitimes.com/news/articleView.html?idxno=209076",
+    "https://discuss.pytorch.kr/t/gn/9654",
+    "https://discuss.pytorch.kr/t/gemma-multimodal-fine-tuner-apple-silicon-mac-pytorch-mps-gemma-4/9636",
+    "https://discuss.pytorch.kr/t/lightrag-graphrag-rag-feat-emnlp-2025/9612",
+    "https://discuss.pytorch.kr/t/sqlite/9664",
+    "https://discuss.pytorch.kr/t/graphify-ai-knowledge-graph/9652"
 ]
