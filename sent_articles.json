@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208853",
-    "https://www.aitimes.com/news/articleView.html?idxno=208849",
-    "https://www.aitimes.com/news/articleView.html?idxno=208835",
-    "https://www.aitimes.com/news/articleView.html?idxno=208859",
-    "https://www.aitimes.com/news/articleView.html?idxno=208856",
     "https://www.aitimes.com/news/articleView.html?idxno=208852",
     "https://www.aitimes.com/news/articleView.html?idxno=208847",
     "https://discuss.pytorch.kr/t/legalize-kr-git/9596",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209080",
     "https://www.aitimes.com/news/articleView.html?idxno=209067",
     "https://www.aitimes.com/news/articleView.html?idxno=209053",
-    "https://www.aitimes.com/news/articleView.html?idxno=209054"
+    "https://www.aitimes.com/news/articleView.html?idxno=209054",
+    "https://www.aitimes.com/news/articleView.html?idxno=209085",
+    "https://www.aitimes.com/news/articleView.html?idxno=209059",
+    "https://www.aitimes.com/news/articleView.html?idxno=209073",
+    "https://www.aitimes.com/news/articleView.html?idxno=209064",
+    "https://discuss.pytorch.kr/t/gemma-multimodal-fine-tuner-apple-silicon-mac-pytorch-mps-gemma-4/9636"
 ]
