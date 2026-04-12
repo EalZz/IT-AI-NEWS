@@ -1,12 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/cloudflare-dynamic-workers-100-ai/9471",
-    "https://discuss.pytorch.kr/t/minimind-3-2-64m-gpt/9460",
-    "https://www.aitimes.com/news/articleView.html?idxno=208688",
-    "https://www.aitimes.com/news/articleView.html?idxno=208690",
-    "https://www.aitimes.com/news/articleView.html?idxno=208687",
-    "https://www.aitimes.com/news/articleView.html?idxno=208684",
-    "https://www.aitimes.com/news/articleView.html?idxno=208686",
-    "https://discuss.pytorch.kr/t/gn-claude-code/9508",
     "https://discuss.pytorch.kr/t/openspace-ai-feat-hkuds/9476",
     "https://discuss.pytorch.kr/t/topic/9503",
     "https://discuss.pytorch.kr/t/aris-ml/9419",
@@ -98,5 +90,13 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209099",
     "https://www.aitimes.com/news/articleView.html?idxno=209109",
     "https://discuss.pytorch.kr/t/gemma-gem-google-gemma-4-webgpu-ai/9660",
-    "https://discuss.pytorch.kr/t/apm-ai-feat-ibm-research-sap-oxford/9360"
+    "https://discuss.pytorch.kr/t/apm-ai-feat-ibm-research-sap-oxford/9360",
+    "https://www.aitimes.com/news/articleView.html?idxno=209131",
+    "https://www.aitimes.com/news/articleView.html?idxno=209132",
+    "https://www.aitimes.com/news/articleView.html?idxno=209130",
+    "https://www.aitimes.com/news/articleView.html?idxno=209129",
+    "https://www.aitimes.com/news/articleView.html?idxno=209120",
+    "https://discuss.pytorch.kr/t/2026-04-06-12-ai-ml/9693",
+    "https://discuss.pytorch.kr/t/cula-cuda-linear-attention-nvidia-blackwell-hopper-gpu-cuda/9658",
+    "https://discuss.pytorch.kr/t/anthropic-claude-api-opus-sonnet-haiku-advisor/9684"
 ]
