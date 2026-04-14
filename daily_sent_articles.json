@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/tradingagents-llm/9459",
-    "https://www.aitimes.com/news/articleView.html?idxno=208782",
-    "https://www.aitimes.com/news/articleView.html?idxno=208779",
-    "https://www.aitimes.com/news/articleView.html?idxno=208777",
-    "https://www.aitimes.com/news/articleView.html?idxno=208771",
-    "https://www.aitimes.com/news/articleView.html?idxno=208766",
-    "https://discuss.pytorch.kr/t/pypi-litellm-telnyx/9557",
-    "https://discuss.pytorch.kr/t/vibevoice-60-asr-tts-microsoft-ai/9536",
-    "https://discuss.pytorch.kr/t/modly-3d-feat-lightning-pixel/9352",
-    "https://discuss.pytorch.kr/t/kg-whisper-kg-asr-feat-hyuk/9547",
     "https://discuss.pytorch.kr/t/google-deepmind-gemma-4/9548",
     "https://www.aitimes.com/news/articleView.html?idxno=208804",
     "https://www.aitimes.com/news/articleView.html?idxno=208806",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/aitune-nvidia/9699",
     "https://discuss.pytorch.kr/t/topic/9707",
     "https://discuss.pytorch.kr/t/llm-claude-sonnet-4-5-feat-anthropic/9696",
-    "https://discuss.pytorch.kr/t/5-etri-6-24/9703"
+    "https://discuss.pytorch.kr/t/5-etri-6-24/9703",
+    "https://www.aitimes.com/news/articleView.html?idxno=209251",
+    "https://www.aitimes.com/news/articleView.html?idxno=209249",
+    "https://www.aitimes.com/news/articleView.html?idxno=209218",
+    "https://www.aitimes.com/news/articleView.html?idxno=209209",
+    "https://www.aitimes.com/news/articleView.html?idxno=209220",
+    "https://discuss.pytorch.kr/t/kronos-45/9726",
+    "https://discuss.pytorch.kr/t/gn-20-10k/9731",
+    "https://discuss.pytorch.kr/t/omnivoice-600-tts/9558",
+    "https://discuss.pytorch.kr/t/voxcpm2-2b-30-ai/9716",
+    "https://discuss.pytorch.kr/t/pixelle-video-ai/9717"
 ]
