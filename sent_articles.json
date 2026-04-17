@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209205",
     "https://www.aitimes.com/news/articleView.html?idxno=209192",
     "https://discuss.pytorch.kr/t/pixelle-video-ai/9717",
     "https://www.aitimes.com/news/articleView.html?idxno=209206",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209366",
     "https://www.aitimes.com/news/articleView.html?idxno=209371",
     "https://discuss.pytorch.kr/t/anthropic-claude-opus-4-7/9767",
-    "https://discuss.pytorch.kr/t/llm-internals-flash-attention-llm/9745"
+    "https://discuss.pytorch.kr/t/llm-internals-flash-attention-llm/9745",
+    "https://discuss.pytorch.kr/t/ai/9769"
 ]
