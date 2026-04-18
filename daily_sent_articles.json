@@ -1,11 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=208902",
-    "https://www.aitimes.com/news/articleView.html?idxno=208901",
-    "https://www.aitimes.com/news/articleView.html?idxno=208882",
-    "https://www.aitimes.com/news/articleView.html?idxno=208878",
-    "https://discuss.pytorch.kr/t/bayesian-teaching-llm-google-research/9404",
-    "https://discuss.pytorch.kr/t/parlor-ai/9599",
-    "https://discuss.pytorch.kr/t/pageindex-db-llm-rag/9579",
     "https://discuss.pytorch.kr/t/paper2code-arxiv-url-pytorch-claude-code/9580",
     "https://discuss.pytorch.kr/t/ocr-hybrid/9602",
     "https://www.aitimes.com/news/articleView.html?idxno=208924",
@@ -98,5 +91,12 @@
     "https://discuss.pytorch.kr/t/autocli-ai-cli-feat-opencli-rs/9759",
     "https://discuss.pytorch.kr/t/browseros-chatgpt-atlas-perplexity-comet-ai/9435",
     "https://discuss.pytorch.kr/t/ai/9769",
-    "https://discuss.pytorch.kr/t/anthropic-claude-opus-4-7/9767"
+    "https://discuss.pytorch.kr/t/anthropic-claude-opus-4-7/9767",
+    "https://www.aitimes.com/news/articleView.html?idxno=209440",
+    "https://www.aitimes.com/news/articleView.html?idxno=209414",
+    "https://www.aitimes.com/news/articleView.html?idxno=209439",
+    "https://www.aitimes.com/news/articleView.html?idxno=209438",
+    "https://www.aitimes.com/news/articleView.html?idxno=209437",
+    "https://discuss.pytorch.kr/t/awesome-codex-subagents-openai-codex-136-ai/9765",
+    "https://discuss.pytorch.kr/t/openai-agents-sdk/9778"
 ]
