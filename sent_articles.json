@@ -1,6 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/ai-safety/9751",
-    "https://discuss.pytorch.kr/t/jackrong-llm-fine-tuning-guide-qwen-llama-deepseek/9735",
     "https://www.aitimes.com/news/articleView.html?idxno=209327",
     "https://www.aitimes.com/news/articleView.html?idxno=209324",
     "https://www.aitimes.com/news/articleView.html?idxno=209326",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209447",
     "https://discuss.pytorch.kr/t/gas-town-20-30-ai-git/9762",
     "https://www.aitimes.com/news/articleView.html?idxno=209449",
-    "https://discuss.pytorch.kr/t/2026-04-13-19-ai-ml/9785"
+    "https://discuss.pytorch.kr/t/2026-04-13-19-ai-ml/9785",
+    "https://discuss.pytorch.kr/t/anthropic-labs-claude-claude-design/9797",
+    "https://discuss.pytorch.kr/t/llm-1-gpu-pdf-10/9808"
 ]
