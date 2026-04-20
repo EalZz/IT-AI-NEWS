@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209371",
-    "https://discuss.pytorch.kr/t/anthropic-claude-opus-4-7/9767",
-    "https://discuss.pytorch.kr/t/llm-internals-flash-attention-llm/9745",
     "https://discuss.pytorch.kr/t/ai/9769",
     "https://www.aitimes.com/news/articleView.html?idxno=209395",
     "https://www.aitimes.com/news/articleView.html?idxno=209384",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209496",
     "https://discuss.pytorch.kr/t/pytorch-gpu/9816",
     "https://www.aitimes.com/news/articleView.html?idxno=209509",
-    "https://discuss.pytorch.kr/t/meta-harness-stanford-iris-lab-llm/9811"
+    "https://discuss.pytorch.kr/t/meta-harness-stanford-iris-lab-llm/9811",
+    "https://www.aitimes.com/news/articleView.html?idxno=209510",
+    "https://www.aitimes.com/news/articleView.html?idxno=209489",
+    "https://www.aitimes.com/news/articleView.html?idxno=209499"
 ]
