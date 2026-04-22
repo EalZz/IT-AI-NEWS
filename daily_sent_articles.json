@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/sqlite/9664",
-    "https://discuss.pytorch.kr/t/graphify-ai-knowledge-graph/9652",
-    "https://www.aitimes.com/news/articleView.html?idxno=209118",
-    "https://www.aitimes.com/news/articleView.html?idxno=209117",
-    "https://www.aitimes.com/news/articleView.html?idxno=209112",
-    "https://www.aitimes.com/news/articleView.html?idxno=209099",
-    "https://www.aitimes.com/news/articleView.html?idxno=209109",
-    "https://discuss.pytorch.kr/t/gemma-gem-google-gemma-4-webgpu-ai/9660",
-    "https://discuss.pytorch.kr/t/apm-ai-feat-ibm-research-sap-oxford/9360",
-    "https://www.aitimes.com/news/articleView.html?idxno=209131",
     "https://www.aitimes.com/news/articleView.html?idxno=209132",
     "https://www.aitimes.com/news/articleView.html?idxno=209130",
     "https://www.aitimes.com/news/articleView.html?idxno=209129",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/gn-captcha/9812",
     "https://discuss.pytorch.kr/t/cli-anything-ai-7-cli-feat-hkuds/9761",
     "https://discuss.pytorch.kr/t/guppylm-colab-5-9b/9806",
-    "https://discuss.pytorch.kr/t/cloudflare-ai-browser-run/9783"
+    "https://discuss.pytorch.kr/t/cloudflare-ai-browser-run/9783",
+    "https://www.aitimes.com/news/articleView.html?idxno=209618",
+    "https://www.aitimes.com/news/articleView.html?idxno=209617",
+    "https://www.aitimes.com/news/articleView.html?idxno=209579",
+    "https://www.aitimes.com/news/articleView.html?idxno=209616",
+    "https://www.aitimes.com/news/articleView.html?idxno=209588",
+    "https://discuss.pytorch.kr/t/agentic-inbox-cloudflare-workers-ai/9836",
+    "https://discuss.pytorch.kr/t/awesome-ai-anatomy-claude-code-dify-browser-use-15-ai/9747",
+    "https://discuss.pytorch.kr/t/sk-ai/9843",
+    "https://discuss.pytorch.kr/t/gn-claude-opus-4-6-4-7/9831",
+    "https://discuss.pytorch.kr/t/agent-skills-ai-20/9763"
 ]
