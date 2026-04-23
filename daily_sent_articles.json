@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209132",
-    "https://www.aitimes.com/news/articleView.html?idxno=209130",
-    "https://www.aitimes.com/news/articleView.html?idxno=209129",
-    "https://www.aitimes.com/news/articleView.html?idxno=209120",
-    "https://discuss.pytorch.kr/t/2026-04-06-12-ai-ml/9693",
-    "https://discuss.pytorch.kr/t/cula-cuda-linear-attention-nvidia-blackwell-hopper-gpu-cuda/9658",
-    "https://discuss.pytorch.kr/t/anthropic-claude-api-opus-sonnet-haiku-advisor/9684",
-    "https://www.aitimes.com/news/articleView.html?idxno=209150",
-    "https://www.aitimes.com/news/articleView.html?idxno=209148",
-    "https://www.aitimes.com/news/articleView.html?idxno=209186",
     "https://www.aitimes.com/news/articleView.html?idxno=209163",
     "https://www.aitimes.com/news/articleView.html?idxno=209179",
     "https://discuss.pytorch.kr/t/anthropic-ai-4-feat-anthropic/9697",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/awesome-ai-anatomy-claude-code-dify-browser-use-15-ai/9747",
     "https://discuss.pytorch.kr/t/sk-ai/9843",
     "https://discuss.pytorch.kr/t/gn-claude-opus-4-6-4-7/9831",
-    "https://discuss.pytorch.kr/t/agent-skills-ai-20/9763"
+    "https://discuss.pytorch.kr/t/agent-skills-ai-20/9763",
+    "https://www.aitimes.com/news/articleView.html?idxno=209657",
+    "https://www.aitimes.com/news/articleView.html?idxno=209656",
+    "https://www.aitimes.com/news/articleView.html?idxno=209646",
+    "https://www.aitimes.com/news/articleView.html?idxno=209676",
+    "https://www.aitimes.com/news/articleView.html?idxno=209677",
+    "https://discuss.pytorch.kr/t/reasoningbank-feat-google/9854",
+    "https://discuss.pytorch.kr/t/bitwarden-cli-npm/9865",
+    "https://discuss.pytorch.kr/t/motus-ai/9834",
+    "https://discuss.pytorch.kr/t/genericagent-3-300-llm/9850",
+    "https://discuss.pytorch.kr/t/vllm-recipes/9858"
 ]
