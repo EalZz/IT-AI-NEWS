@@ -1,11 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209163",
-    "https://www.aitimes.com/news/articleView.html?idxno=209179",
-    "https://discuss.pytorch.kr/t/anthropic-ai-4-feat-anthropic/9697",
-    "https://discuss.pytorch.kr/t/aitune-nvidia/9699",
-    "https://discuss.pytorch.kr/t/topic/9707",
-    "https://discuss.pytorch.kr/t/llm-claude-sonnet-4-5-feat-anthropic/9696",
-    "https://discuss.pytorch.kr/t/5-etri-6-24/9703",
     "https://www.aitimes.com/news/articleView.html?idxno=209251",
     "https://www.aitimes.com/news/articleView.html?idxno=209249",
     "https://www.aitimes.com/news/articleView.html?idxno=209218",
@@ -98,5 +91,12 @@
     "https://discuss.pytorch.kr/t/bitwarden-cli-npm/9865",
     "https://discuss.pytorch.kr/t/motus-ai/9834",
     "https://discuss.pytorch.kr/t/genericagent-3-300-llm/9850",
-    "https://discuss.pytorch.kr/t/vllm-recipes/9858"
+    "https://discuss.pytorch.kr/t/vllm-recipes/9858",
+    "https://www.aitimes.com/news/articleView.html?idxno=209714",
+    "https://www.aitimes.com/news/articleView.html?idxno=209726",
+    "https://www.aitimes.com/news/articleView.html?idxno=209709",
+    "https://www.aitimes.com/news/articleView.html?idxno=209716",
+    "https://www.aitimes.com/news/articleView.html?idxno=209725",
+    "https://discuss.pytorch.kr/t/google-ai-pro-ultra-ai-studio-nano-banana-pro-gemini-3-1-pro/9874",
+    "https://discuss.pytorch.kr/t/dflash-block-diffusion-llm-feat-z-ai/9849"
 ]
