@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/moss-tts-nano-cpu-0-1b-tts/9729",
-    "https://discuss.pytorch.kr/t/vibe-trading-ai-feat-hkuds/9732",
-    "https://www.aitimes.com/news/articleView.html?idxno=209325",
-    "https://www.aitimes.com/news/articleView.html?idxno=209332",
-    "https://www.aitimes.com/news/articleView.html?idxno=209352",
-    "https://www.aitimes.com/news/articleView.html?idxno=209335",
-    "https://www.aitimes.com/news/articleView.html?idxno=209346",
-    "https://discuss.pytorch.kr/t/mini-coding-agent-ai-6-feat-sebastian-raschka/9638",
-    "https://discuss.pytorch.kr/t/arxiv-cs-lg-endorsement/9758",
-    "https://discuss.pytorch.kr/t/supervision-roboflow/9675",
     "https://discuss.pytorch.kr/t/reverse-synthid-gemini-synthid/9734",
     "https://discuss.pytorch.kr/t/topic/9755",
     "https://www.aitimes.com/news/articleView.html?idxno=209400",
@@ -98,5 +88,15 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209749",
     "https://discuss.pytorch.kr/t/2026-04-20-26-ai-ml/9907",
     "https://discuss.pytorch.kr/t/gn-palantir/9888",
-    "https://discuss.pytorch.kr/t/flashkda-moonshotai-kimi-delta-attention-cuda/9881"
+    "https://discuss.pytorch.kr/t/flashkda-moonshotai-kimi-delta-attention-cuda/9881",
+    "https://www.aitimes.com/news/articleView.html?idxno=209787",
+    "https://www.aitimes.com/news/articleView.html?idxno=209779",
+    "https://www.aitimes.com/news/articleView.html?idxno=209767",
+    "https://www.aitimes.com/news/articleView.html?idxno=209793",
+    "https://www.aitimes.com/news/articleView.html?idxno=209792",
+    "https://discuss.pytorch.kr/t/torchtpu-google-pytorch-tpu-gemini-veo-pytorch/9905",
+    "https://discuss.pytorch.kr/t/llada2-0-uni/9870",
+    "https://discuss.pytorch.kr/t/crabtrap-ai-api-llm-as-a-judge-http/9880",
+    "https://discuss.pytorch.kr/t/openai-privacy-filter/9879",
+    "https://discuss.pytorch.kr/t/2026-mvp-5-13/9915"
 ]

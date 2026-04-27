@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209646",
     "https://www.aitimes.com/news/articleView.html?idxno=209676",
     "https://discuss.pytorch.kr/t/bitwarden-cli-npm/9865",
     "https://discuss.pytorch.kr/t/reasoningbank-feat-google/9854",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209767",
     "https://www.aitimes.com/news/articleView.html?idxno=209793",
     "https://www.aitimes.com/news/articleView.html?idxno=209792",
-    "https://discuss.pytorch.kr/t/llada2-0-uni/9870"
+    "https://discuss.pytorch.kr/t/llada2-0-uni/9870",
+    "https://discuss.pytorch.kr/t/torchtpu-google-pytorch-tpu-gemini-veo-pytorch/9905"
 ]
