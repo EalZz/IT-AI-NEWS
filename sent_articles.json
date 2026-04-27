@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209654",
-    "https://www.aitimes.com/news/articleView.html?idxno=209623",
-    "https://www.aitimes.com/news/articleView.html?idxno=209642",
     "https://www.aitimes.com/news/articleView.html?idxno=209649",
     "https://www.aitimes.com/news/articleView.html?idxno=209625",
     "https://discuss.pytorch.kr/t/genericagent-3-300-llm/9850",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209762",
     "https://www.aitimes.com/news/articleView.html?idxno=209773",
     "https://www.aitimes.com/news/articleView.html?idxno=209774",
-    "https://www.aitimes.com/news/articleView.html?idxno=209772"
+    "https://www.aitimes.com/news/articleView.html?idxno=209772",
+    "https://www.aitimes.com/news/articleView.html?idxno=209789",
+    "https://www.aitimes.com/news/articleView.html?idxno=209785",
+    "https://discuss.pytorch.kr/t/crabtrap-ai-api-llm-as-a-judge-http/9880"
 ]
