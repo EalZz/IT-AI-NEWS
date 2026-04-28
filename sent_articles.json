@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209648",
     "https://www.aitimes.com/news/articleView.html?idxno=209672",
     "https://discuss.pytorch.kr/t/dflash-block-diffusion-llm-feat-z-ai/9849",
     "https://www.aitimes.com/news/articleView.html?idxno=209698",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=209815",
     "https://www.aitimes.com/news/articleView.html?idxno=209768",
     "https://www.aitimes.com/news/articleView.html?idxno=209799",
-    "https://discuss.pytorch.kr/t/prompt-master-ai-claude/9910"
+    "https://discuss.pytorch.kr/t/prompt-master-ai-claude/9910",
+    "https://discuss.pytorch.kr/t/llm-2-rag-smart-chunking/9935"
 ]
