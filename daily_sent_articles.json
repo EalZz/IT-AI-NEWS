@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209447",
-    "https://www.aitimes.com/news/articleView.html?idxno=209435",
-    "https://www.aitimes.com/news/articleView.html?idxno=209444",
-    "https://www.aitimes.com/news/articleView.html?idxno=209445",
-    "https://discuss.pytorch.kr/t/2026-04-13-19-ai-ml/9785",
-    "https://discuss.pytorch.kr/t/gas-town-20-30-ai-git/9762",
-    "https://www.aitimes.com/news/articleView.html?idxno=209509",
-    "https://www.aitimes.com/news/articleView.html?idxno=209493",
-    "https://www.aitimes.com/news/articleView.html?idxno=209470",
-    "https://www.aitimes.com/news/articleView.html?idxno=209496",
     "https://www.aitimes.com/news/articleView.html?idxno=209507",
     "https://discuss.pytorch.kr/t/meta-harness-stanford-iris-lab-llm/9811",
     "https://discuss.pytorch.kr/t/pytorch-gpu/9816",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/vllm-kr-community-meetup/9971",
     "https://discuss.pytorch.kr/t/stash-ai-8/9924",
     "https://discuss.pytorch.kr/t/gn-vc-2026-ai-6-feat-bessemer-venture-partners/9920",
-    "https://discuss.pytorch.kr/t/privacy-parser-openai-1-5b-pii/9925"
+    "https://discuss.pytorch.kr/t/privacy-parser-openai-1-5b-pii/9925",
+    "https://www.aitimes.com/news/articleView.html?idxno=210000",
+    "https://www.aitimes.com/news/articleView.html?idxno=209989",
+    "https://www.aitimes.com/news/articleView.html?idxno=209986",
+    "https://www.aitimes.com/news/articleView.html?idxno=209992",
+    "https://www.aitimes.com/news/articleView.html?idxno=209991",
+    "https://discuss.pytorch.kr/t/gn-yc-requests-for-startups-2026/9963",
+    "https://discuss.pytorch.kr/t/agentic-harness-engineering-ahe/9987",
+    "https://discuss.pytorch.kr/t/thinksound-cot-neurips-2025/9869",
+    "https://discuss.pytorch.kr/t/glm-5-coding-agent-scaling-pain/9986",
+    "https://discuss.pytorch.kr/t/open-design-anthropic-claude-design-ai/9959"
 ]
