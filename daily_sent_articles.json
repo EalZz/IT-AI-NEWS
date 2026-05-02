@@ -1,11 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209565",
-    "https://www.aitimes.com/news/articleView.html?idxno=209522",
-    "https://www.aitimes.com/news/articleView.html?idxno=209526",
-    "https://www.aitimes.com/news/articleView.html?idxno=209540",
-    "https://discuss.pytorch.kr/t/notebooklm-mcp-ai-notebooklm-mcp/9820",
-    "https://discuss.pytorch.kr/t/gn-captcha/9812",
-    "https://discuss.pytorch.kr/t/cli-anything-ai-7-cli-feat-hkuds/9761",
     "https://discuss.pytorch.kr/t/guppylm-colab-5-9b/9806",
     "https://discuss.pytorch.kr/t/cloudflare-ai-browser-run/9783",
     "https://www.aitimes.com/news/articleView.html?idxno=209618",
@@ -98,5 +91,12 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210012",
     "https://www.aitimes.com/news/articleView.html?idxno=210009",
     "https://discuss.pytorch.kr/t/chromex-codex-chrome-ai/10002",
-    "https://discuss.pytorch.kr/t/cognee-ai/9852"
+    "https://discuss.pytorch.kr/t/cognee-ai/9852",
+    "https://www.aitimes.com/news/articleView.html?idxno=210031",
+    "https://www.aitimes.com/news/articleView.html?idxno=210030",
+    "https://www.aitimes.com/news/articleView.html?idxno=210029",
+    "https://www.aitimes.com/news/articleView.html?idxno=210020",
+    "https://www.aitimes.com/news/articleView.html?idxno=210027",
+    "https://discuss.pytorch.kr/t/brain-emulation-feat-mit/9989",
+    "https://discuss.pytorch.kr/t/awesome-deepseek-agent-deepseek-claude-code-github-copilot-ai/10003"
 ]
