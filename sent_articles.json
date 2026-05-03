@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209752",
     "https://www.aitimes.com/news/articleView.html?idxno=209898",
     "https://www.aitimes.com/news/articleView.html?idxno=209900",
     "https://www.aitimes.com/news/articleView.html?idxno=209925",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210034",
     "https://www.aitimes.com/news/articleView.html?idxno=210033",
     "https://www.aitimes.com/news/articleView.html?idxno=210035",
-    "https://discuss.pytorch.kr/t/gemma-4-pi-coding-agent-feat-lm-studio/10009"
+    "https://discuss.pytorch.kr/t/gemma-4-pi-coding-agent-feat-lm-studio/10009",
+    "https://discuss.pytorch.kr/t/alignment-whack-a-mole-llm/9999"
 ]
