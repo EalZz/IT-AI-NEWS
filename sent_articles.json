@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209955",
     "https://www.aitimes.com/news/articleView.html?idxno=209961",
     "https://www.aitimes.com/news/articleView.html?idxno=209966",
     "https://www.aitimes.com/news/articleView.html?idxno=209981",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210050",
     "https://www.aitimes.com/news/articleView.html?idxno=209983",
     "https://www.aitimes.com/news/articleView.html?idxno=210047",
-    "https://www.aitimes.com/news/articleView.html?idxno=210048"
+    "https://www.aitimes.com/news/articleView.html?idxno=210048",
+    "https://discuss.pytorch.kr/t/club-3090-rtx-3090-gpu-vllm-llama-cpp-sglang-llm/10021"
 ]
