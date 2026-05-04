@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/sk-ai/9843",
-    "https://discuss.pytorch.kr/t/gn-claude-opus-4-6-4-7/9831",
-    "https://discuss.pytorch.kr/t/agent-skills-ai-20/9763",
-    "https://www.aitimes.com/news/articleView.html?idxno=209657",
-    "https://www.aitimes.com/news/articleView.html?idxno=209656",
-    "https://www.aitimes.com/news/articleView.html?idxno=209646",
-    "https://www.aitimes.com/news/articleView.html?idxno=209676",
-    "https://www.aitimes.com/news/articleView.html?idxno=209677",
-    "https://discuss.pytorch.kr/t/reasoningbank-feat-google/9854",
-    "https://discuss.pytorch.kr/t/bitwarden-cli-npm/9865",
     "https://discuss.pytorch.kr/t/motus-ai/9834",
     "https://discuss.pytorch.kr/t/genericagent-3-300-llm/9850",
     "https://discuss.pytorch.kr/t/vllm-recipes/9858",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/2026-04-27-05-03-ai-ml/10032",
     "https://discuss.pytorch.kr/t/ship-to-production-open-project-season-iii/10031",
     "https://discuss.pytorch.kr/t/alignment-whack-a-mole-llm/9999",
-    "https://discuss.pytorch.kr/t/gemma-4-pi-coding-agent-feat-lm-studio/10009"
+    "https://discuss.pytorch.kr/t/gemma-4-pi-coding-agent-feat-lm-studio/10009",
+    "https://www.aitimes.com/news/articleView.html?idxno=210086",
+    "https://www.aitimes.com/news/articleView.html?idxno=210050",
+    "https://www.aitimes.com/news/articleView.html?idxno=210087",
+    "https://www.aitimes.com/news/articleView.html?idxno=209983",
+    "https://www.aitimes.com/news/articleView.html?idxno=210047",
+    "https://discuss.pytorch.kr/t/club-3090-rtx-3090-gpu-vllm-llama-cpp-sglang-llm/10021",
+    "https://discuss.pytorch.kr/t/openai-gpt-5-1-gpt-5-5/10018",
+    "https://discuss.pytorch.kr/t/ai-6-1/10047",
+    "https://discuss.pytorch.kr/t/10-5-26/10046",
+    "https://discuss.pytorch.kr/t/ellm-cpu-gpu/10023"
 ]
