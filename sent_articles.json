@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209890",
-    "https://www.aitimes.com/news/articleView.html?idxno=209913",
     "https://www.aitimes.com/news/articleView.html?idxno=209916",
     "https://www.aitimes.com/news/articleView.html?idxno=209915",
     "https://www.aitimes.com/news/articleView.html?idxno=209874",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210039",
     "https://www.aitimes.com/news/articleView.html?idxno=210040",
     "https://discuss.pytorch.kr/t/ship-to-production-open-project-season-iii/10031",
-    "https://discuss.pytorch.kr/t/2026-04-27-05-03-ai-ml/10032"
+    "https://discuss.pytorch.kr/t/2026-04-27-05-03-ai-ml/10032",
+    "https://www.aitimes.com/news/articleView.html?idxno=210044",
+    "https://discuss.pytorch.kr/t/rlhf-book-rlhf-post-training/10019"
 ]
