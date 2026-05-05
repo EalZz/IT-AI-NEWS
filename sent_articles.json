@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209975",
     "https://www.aitimes.com/news/articleView.html?idxno=209959",
     "https://www.aitimes.com/news/articleView.html?idxno=209971",
     "https://www.aitimes.com/news/articleView.html?idxno=209968",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210097",
     "https://www.aitimes.com/news/articleView.html?idxno=210098",
     "https://www.aitimes.com/news/articleView.html?idxno=210099",
-    "https://www.aitimes.com/news/articleView.html?idxno=210084"
+    "https://www.aitimes.com/news/articleView.html?idxno=210084",
+    "https://discuss.pytorch.kr/t/qwen-scope-sparse-autoencoder-llm-qwen/10020"
 ]
