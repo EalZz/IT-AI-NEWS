@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209968",
     "https://discuss.pytorch.kr/t/cognee-ai/9852",
     "https://www.aitimes.com/news/articleView.html?idxno=210003",
     "https://www.aitimes.com/news/articleView.html?idxno=209976",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210084",
     "https://discuss.pytorch.kr/t/qwen-scope-sparse-autoencoder-llm-qwen/10020",
     "https://discuss.pytorch.kr/t/gn/10050",
-    "https://www.aitimes.com/news/articleView.html?idxno=210100"
+    "https://www.aitimes.com/news/articleView.html?idxno=210100",
+    "https://discuss.pytorch.kr/t/claude-100-feat-anthropic/10029"
 ]

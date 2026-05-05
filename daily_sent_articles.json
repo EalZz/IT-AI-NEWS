@@ -1,13 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/motus-ai/9834",
-    "https://discuss.pytorch.kr/t/genericagent-3-300-llm/9850",
-    "https://discuss.pytorch.kr/t/vllm-recipes/9858",
-    "https://www.aitimes.com/news/articleView.html?idxno=209714",
-    "https://www.aitimes.com/news/articleView.html?idxno=209726",
-    "https://www.aitimes.com/news/articleView.html?idxno=209709",
-    "https://www.aitimes.com/news/articleView.html?idxno=209716",
-    "https://www.aitimes.com/news/articleView.html?idxno=209725",
-    "https://discuss.pytorch.kr/t/google-ai-pro-ultra-ai-studio-nano-banana-pro-gemini-3-1-pro/9874",
     "https://discuss.pytorch.kr/t/dflash-block-diffusion-llm-feat-z-ai/9849",
     "https://www.aitimes.com/news/articleView.html?idxno=209745",
     "https://www.aitimes.com/news/articleView.html?idxno=209707",
@@ -98,5 +89,14 @@
     "https://discuss.pytorch.kr/t/openai-gpt-5-1-gpt-5-5/10018",
     "https://discuss.pytorch.kr/t/ai-6-1/10047",
     "https://discuss.pytorch.kr/t/10-5-26/10046",
-    "https://discuss.pytorch.kr/t/ellm-cpu-gpu/10023"
+    "https://discuss.pytorch.kr/t/ellm-cpu-gpu/10023",
+    "https://www.aitimes.com/news/articleView.html?idxno=210100",
+    "https://www.aitimes.com/news/articleView.html?idxno=210084",
+    "https://www.aitimes.com/news/articleView.html?idxno=210099",
+    "https://www.aitimes.com/news/articleView.html?idxno=210097",
+    "https://www.aitimes.com/news/articleView.html?idxno=210098",
+    "https://discuss.pytorch.kr/t/claude-100-feat-anthropic/10029",
+    "https://discuss.pytorch.kr/t/gn/10050",
+    "https://discuss.pytorch.kr/t/qwen-scope-sparse-autoencoder-llm-qwen/10020",
+    "https://discuss.pytorch.kr/t/rag-anything-rag-feat-hkuds/9976"
 ]
