@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210003",
-    "https://www.aitimes.com/news/articleView.html?idxno=209976",
-    "https://www.aitimes.com/news/articleView.html?idxno=210002",
-    "https://www.aitimes.com/news/articleView.html?idxno=210005",
-    "https://www.aitimes.com/news/articleView.html?idxno=210007",
     "https://www.aitimes.com/news/articleView.html?idxno=210006",
     "https://www.aitimes.com/news/articleView.html?idxno=210004",
     "https://www.aitimes.com/news/articleView.html?idxno=210009",
@@ -98,5 +93,10 @@
     "https://discuss.pytorch.kr/t/gn/10050",
     "https://www.aitimes.com/news/articleView.html?idxno=210100",
     "https://discuss.pytorch.kr/t/claude-100-feat-anthropic/10029",
-    "https://discuss.pytorch.kr/t/karpathy-inspired-claude-code-guidelines-andrej-karpathy-llm-claude-code/9912"
+    "https://discuss.pytorch.kr/t/karpathy-inspired-claude-code-guidelines-andrej-karpathy-llm-claude-code/9912",
+    "https://www.aitimes.com/news/articleView.html?idxno=210110",
+    "https://www.aitimes.com/news/articleView.html?idxno=210090",
+    "https://www.aitimes.com/news/articleView.html?idxno=210075",
+    "https://discuss.pytorch.kr/t/gemma-4-mtp-google/10077",
+    "https://discuss.pytorch.kr/t/awesome-design-md-ai-ui-feat-voltagent/10068"
 ]
