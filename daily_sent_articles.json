@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/dflash-block-diffusion-llm-feat-z-ai/9849",
-    "https://www.aitimes.com/news/articleView.html?idxno=209745",
-    "https://www.aitimes.com/news/articleView.html?idxno=209707",
-    "https://www.aitimes.com/news/articleView.html?idxno=209744",
-    "https://www.aitimes.com/news/articleView.html?idxno=209505",
-    "https://www.aitimes.com/news/articleView.html?idxno=209738",
-    "https://discuss.pytorch.kr/t/topic/9892",
-    "https://discuss.pytorch.kr/t/deepseek-100-moe-deepseek-v4-pro-deepseek-v4-flash/9890",
-    "https://discuss.pytorch.kr/t/openchronicle-llm/9882",
-    "https://discuss.pytorch.kr/t/topic/9886",
     "https://www.aitimes.com/news/articleView.html?idxno=209748",
     "https://www.aitimes.com/news/articleView.html?idxno=209751",
     "https://www.aitimes.com/news/articleView.html?idxno=209678",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/claude-100-feat-anthropic/10029",
     "https://discuss.pytorch.kr/t/gn/10050",
     "https://discuss.pytorch.kr/t/qwen-scope-sparse-autoencoder-llm-qwen/10020",
-    "https://discuss.pytorch.kr/t/rag-anything-rag-feat-hkuds/9976"
+    "https://discuss.pytorch.kr/t/rag-anything-rag-feat-hkuds/9976",
+    "https://www.aitimes.com/news/articleView.html?idxno=210157",
+    "https://www.aitimes.com/news/articleView.html?idxno=210156",
+    "https://www.aitimes.com/news/articleView.html?idxno=210145",
+    "https://www.aitimes.com/news/articleView.html?idxno=210139",
+    "https://www.aitimes.com/news/articleView.html?idxno=210137",
+    "https://discuss.pytorch.kr/t/anthropic-claude-10-microsoft-365/10083",
+    "https://discuss.pytorch.kr/t/gn-blue-ocean-opportunities-in-the-agentic-economy/10066",
+    "https://discuss.pytorch.kr/t/llm-3-pdf-pii/10081",
+    "https://discuss.pytorch.kr/t/llm-agent/10080",
+    "https://discuss.pytorch.kr/t/openkb-llm/10058"
 ]
