@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210061",
     "https://www.aitimes.com/news/articleView.html?idxno=210059",
     "https://www.aitimes.com/news/articleView.html?idxno=210063",
     "https://www.aitimes.com/news/articleView.html?idxno=210055",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210221",
     "https://www.aitimes.com/news/articleView.html?idxno=210203",
     "https://www.aitimes.com/news/articleView.html?idxno=210217",
-    "https://discuss.pytorch.kr/t/anthropic-claude-code-2-opus-api-feat-spacex/10109"
+    "https://discuss.pytorch.kr/t/anthropic-claude-code-2-opus-api-feat-spacex/10109",
+    "https://discuss.pytorch.kr/t/gn-agentic-coding/10067"
 ]
