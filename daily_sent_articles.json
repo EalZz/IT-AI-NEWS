@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=209748",
-    "https://www.aitimes.com/news/articleView.html?idxno=209751",
-    "https://www.aitimes.com/news/articleView.html?idxno=209678",
-    "https://www.aitimes.com/news/articleView.html?idxno=209568",
-    "https://www.aitimes.com/news/articleView.html?idxno=209749",
-    "https://discuss.pytorch.kr/t/2026-04-20-26-ai-ml/9907",
-    "https://discuss.pytorch.kr/t/gn-palantir/9888",
-    "https://discuss.pytorch.kr/t/flashkda-moonshotai-kimi-delta-attention-cuda/9881",
-    "https://www.aitimes.com/news/articleView.html?idxno=209787",
-    "https://www.aitimes.com/news/articleView.html?idxno=209779",
     "https://www.aitimes.com/news/articleView.html?idxno=209767",
     "https://www.aitimes.com/news/articleView.html?idxno=209793",
     "https://www.aitimes.com/news/articleView.html?idxno=209792",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/gn-blue-ocean-opportunities-in-the-agentic-economy/10066",
     "https://discuss.pytorch.kr/t/llm-3-pdf-pii/10081",
     "https://discuss.pytorch.kr/t/llm-agent/10080",
-    "https://discuss.pytorch.kr/t/openkb-llm/10058"
+    "https://discuss.pytorch.kr/t/openkb-llm/10058",
+    "https://www.aitimes.com/news/articleView.html?idxno=210184",
+    "https://www.aitimes.com/news/articleView.html?idxno=210194",
+    "https://www.aitimes.com/news/articleView.html?idxno=210221",
+    "https://www.aitimes.com/news/articleView.html?idxno=210203",
+    "https://www.aitimes.com/news/articleView.html?idxno=210217",
+    "https://discuss.pytorch.kr/t/runbookhermes-hermes-agent-aiops/10096",
+    "https://discuss.pytorch.kr/t/gn-agentic-coding/10067",
+    "https://discuss.pytorch.kr/t/anthropic-claude-code-2-opus-api-feat-spacex/10109",
+    "https://discuss.pytorch.kr/t/keras-francois-chollet-deep-learning-with-python-3/10102",
+    "https://discuss.pytorch.kr/t/ai-ignite-5-ai/10106"
 ]
