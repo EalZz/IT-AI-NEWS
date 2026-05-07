@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210060",
-    "https://discuss.pytorch.kr/t/ai-6-1/10047",
-    "https://discuss.pytorch.kr/t/10-5-26/10046",
-    "https://www.aitimes.com/news/articleView.html?idxno=210045",
-    "https://www.aitimes.com/news/articleView.html?idxno=210053",
-    "https://www.aitimes.com/news/articleView.html?idxno=210058",
     "https://www.aitimes.com/news/articleView.html?idxno=210061",
     "https://www.aitimes.com/news/articleView.html?idxno=210059",
     "https://www.aitimes.com/news/articleView.html?idxno=210063",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210220",
     "https://www.aitimes.com/news/articleView.html?idxno=210213",
     "https://www.aitimes.com/news/articleView.html?idxno=210206",
-    "https://www.aitimes.com/news/articleView.html?idxno=210219"
+    "https://www.aitimes.com/news/articleView.html?idxno=210219",
+    "https://www.aitimes.com/news/articleView.html?idxno=210184",
+    "https://www.aitimes.com/news/articleView.html?idxno=210194",
+    "https://www.aitimes.com/news/articleView.html?idxno=210221",
+    "https://www.aitimes.com/news/articleView.html?idxno=210203",
+    "https://www.aitimes.com/news/articleView.html?idxno=210217",
+    "https://discuss.pytorch.kr/t/anthropic-claude-code-2-opus-api-feat-spacex/10109"
 ]
