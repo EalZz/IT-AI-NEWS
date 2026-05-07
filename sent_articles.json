@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210037",
     "https://www.aitimes.com/news/articleView.html?idxno=210036",
     "https://www.aitimes.com/news/articleView.html?idxno=210034",
     "https://www.aitimes.com/news/articleView.html?idxno=210033",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/gn-blue-ocean-opportunities-in-the-agentic-economy/10066",
     "https://discuss.pytorch.kr/t/anthropic-claude-10-microsoft-365/10083",
     "https://www.aitimes.com/news/articleView.html?idxno=210148",
-    "https://www.aitimes.com/news/articleView.html?idxno=210122"
+    "https://www.aitimes.com/news/articleView.html?idxno=210122",
+    "https://discuss.pytorch.kr/t/llm-from-scratch-gpt/10070"
 ]
