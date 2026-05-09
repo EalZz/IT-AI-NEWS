@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210118",
-    "https://www.aitimes.com/news/articleView.html?idxno=210121",
-    "https://www.aitimes.com/news/articleView.html?idxno=210111",
     "https://www.aitimes.com/news/articleView.html?idxno=210101",
     "https://www.aitimes.com/news/articleView.html?idxno=210134",
     "https://www.aitimes.com/news/articleView.html?idxno=210129",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210284",
     "https://www.aitimes.com/news/articleView.html?idxno=210225",
     "https://www.aitimes.com/news/articleView.html?idxno=210286",
-    "https://www.aitimes.com/news/articleView.html?idxno=210287"
+    "https://www.aitimes.com/news/articleView.html?idxno=210287",
+    "https://www.aitimes.com/news/articleView.html?idxno=210256",
+    "https://www.aitimes.com/news/articleView.html?idxno=210281",
+    "https://discuss.pytorch.kr/t/anthropic-petri-meridian-labs-petri-3-0/10125"
 ]
