@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210189",
-    "https://www.aitimes.com/news/articleView.html?idxno=210125",
-    "https://www.aitimes.com/news/articleView.html?idxno=210162",
-    "https://www.aitimes.com/news/articleView.html?idxno=210183",
-    "https://www.aitimes.com/news/articleView.html?idxno=210201",
-    "https://www.aitimes.com/news/articleView.html?idxno=210200",
     "https://www.aitimes.com/news/articleView.html?idxno=210197",
     "https://www.aitimes.com/news/articleView.html?idxno=210190",
     "https://www.aitimes.com/news/articleView.html?idxno=210170",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210303",
     "https://www.aitimes.com/news/articleView.html?idxno=210305",
     "https://discuss.pytorch.kr/t/2026-05-04-10-ai-ml/10159",
-    "https://discuss.pytorch.kr/t/harmonist-186-ai/9899"
+    "https://discuss.pytorch.kr/t/harmonist-186-ai/9899",
+    "https://www.aitimes.com/news/articleView.html?idxno=210312",
+    "https://www.aitimes.com/news/articleView.html?idxno=210313",
+    "https://www.aitimes.com/news/articleView.html?idxno=210310",
+    "https://www.aitimes.com/news/articleView.html?idxno=210306",
+    "https://www.aitimes.com/news/articleView.html?idxno=210307",
+    "https://discuss.pytorch.kr/t/gpu/10167"
 ]
