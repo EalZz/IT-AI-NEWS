@@ -1,6 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/nano-world-model-diffusion-forcing/10089",
-    "https://www.aitimes.com/news/articleView.html?idxno=210248",
     "https://www.aitimes.com/news/articleView.html?idxno=210247",
     "https://www.aitimes.com/news/articleView.html?idxno=210245",
     "https://www.aitimes.com/news/articleView.html?idxno=210242",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/cider-apple-silicon-m5-int8-tensorops-llm-prefill-mlx-w8a8-sdk/10135",
     "https://www.aitimes.com/news/articleView.html?idxno=210315",
     "https://www.aitimes.com/news/articleView.html?idxno=210318",
-    "https://www.aitimes.com/news/articleView.html?idxno=210339"
+    "https://www.aitimes.com/news/articleView.html?idxno=210339",
+    "https://www.aitimes.com/news/articleView.html?idxno=210359",
+    "https://discuss.pytorch.kr/t/programbench-meta-llm/10137"
 ]

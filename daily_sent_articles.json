@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/stash-ai-8/9924",
-    "https://discuss.pytorch.kr/t/gn-vc-2026-ai-6-feat-bessemer-venture-partners/9920",
-    "https://discuss.pytorch.kr/t/privacy-parser-openai-1-5b-pii/9925",
-    "https://www.aitimes.com/news/articleView.html?idxno=210000",
-    "https://www.aitimes.com/news/articleView.html?idxno=209989",
-    "https://www.aitimes.com/news/articleView.html?idxno=209986",
-    "https://www.aitimes.com/news/articleView.html?idxno=209992",
-    "https://www.aitimes.com/news/articleView.html?idxno=209991",
-    "https://discuss.pytorch.kr/t/gn-yc-requests-for-startups-2026/9963",
-    "https://discuss.pytorch.kr/t/agentic-harness-engineering-ahe/9987",
     "https://discuss.pytorch.kr/t/thinksound-cot-neurips-2025/9869",
     "https://discuss.pytorch.kr/t/glm-5-coding-agent-scaling-pain/9986",
     "https://discuss.pytorch.kr/t/open-design-anthropic-claude-design-ai/9959",
@@ -98,5 +88,15 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210273",
     "https://discuss.pytorch.kr/t/2026-05-04-10-ai-ml/10159",
     "https://discuss.pytorch.kr/t/chainreason-ethereum-defi-llm/10142",
-    "https://discuss.pytorch.kr/t/lat-md-agent-lattice-ai/10095"
+    "https://discuss.pytorch.kr/t/lat-md-agent-lattice-ai/10095",
+    "https://www.aitimes.com/news/articleView.html?idxno=210359",
+    "https://www.aitimes.com/news/articleView.html?idxno=210315",
+    "https://www.aitimes.com/news/articleView.html?idxno=210318",
+    "https://www.aitimes.com/news/articleView.html?idxno=210339",
+    "https://www.aitimes.com/news/articleView.html?idxno=210350",
+    "https://discuss.pytorch.kr/t/programbench-meta-llm/10137",
+    "https://discuss.pytorch.kr/t/cider-apple-silicon-m5-int8-tensorops-llm-prefill-mlx-w8a8-sdk/10135",
+    "https://discuss.pytorch.kr/t/awesome-gpt-image-2-api-prompts-gpt-image-2-359-api/10134",
+    "https://discuss.pytorch.kr/t/cloudflare-stripe-ai-feat-stripe-projects/10119",
+    "https://discuss.pytorch.kr/t/jb-jb-fin-ai-challenge-6-12/10168"
 ]
