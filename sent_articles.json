@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210234",
     "https://www.aitimes.com/news/articleView.html?idxno=210249",
     "https://www.aitimes.com/news/articleView.html?idxno=210241",
     "https://www.aitimes.com/news/articleView.html?idxno=210255",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210323",
     "https://www.aitimes.com/news/articleView.html?idxno=210356",
     "https://discuss.pytorch.kr/t/mirage-ai/10141",
-    "https://discuss.pytorch.kr/t/llm-4-pdf-table-pandas/10177"
+    "https://discuss.pytorch.kr/t/llm-4-pdf-table-pandas/10177",
+    "https://discuss.pytorch.kr/t/teaching-claude-why-feat-anthropic/10176"
 ]
