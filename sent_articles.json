@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210276",
-    "https://www.aitimes.com/news/articleView.html?idxno=210271",
     "https://www.aitimes.com/news/articleView.html?idxno=210283",
     "https://www.aitimes.com/news/articleView.html?idxno=210246",
     "https://www.aitimes.com/news/articleView.html?idxno=210274",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210390",
     "https://www.aitimes.com/news/articleView.html?idxno=210377",
     "https://www.aitimes.com/news/articleView.html?idxno=210400",
-    "https://www.aitimes.com/news/articleView.html?idxno=210368"
+    "https://www.aitimes.com/news/articleView.html?idxno=210368",
+    "https://www.aitimes.com/news/articleView.html?idxno=210382",
+    "https://discuss.pytorch.kr/t/hermes-agent-self-evolution-hermes-agent-nousresearch/10136"
 ]
