@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210244",
-    "https://www.aitimes.com/news/articleView.html?idxno=210288",
-    "https://www.aitimes.com/news/articleView.html?idxno=210282",
-    "https://www.aitimes.com/news/articleView.html?idxno=210284",
-    "https://www.aitimes.com/news/articleView.html?idxno=210225",
-    "https://www.aitimes.com/news/articleView.html?idxno=210286",
     "https://www.aitimes.com/news/articleView.html?idxno=210287",
     "https://www.aitimes.com/news/articleView.html?idxno=210256",
     "https://www.aitimes.com/news/articleView.html?idxno=210281",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210413",
     "https://www.aitimes.com/news/articleView.html?idxno=210419",
     "https://www.aitimes.com/news/articleView.html?idxno=210420",
-    "https://www.aitimes.com/news/articleView.html?idxno=210392"
+    "https://www.aitimes.com/news/articleView.html?idxno=210392",
+    "https://www.aitimes.com/news/articleView.html?idxno=210399",
+    "https://www.aitimes.com/news/articleView.html?idxno=210320",
+    "https://www.aitimes.com/news/articleView.html?idxno=210375",
+    "https://www.aitimes.com/news/articleView.html?idxno=210386",
+    "https://www.aitimes.com/news/articleView.html?idxno=210412",
+    "https://discuss.pytorch.kr/t/tokenspeed-llm-feat-kimi-k2-5-nvidia-blackwell/10140"
 ]
