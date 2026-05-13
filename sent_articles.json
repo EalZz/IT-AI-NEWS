@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210291",
-    "https://www.aitimes.com/news/articleView.html?idxno=210292",
     "https://www.aitimes.com/news/articleView.html?idxno=210252",
     "https://www.aitimes.com/news/articleView.html?idxno=210270",
     "https://www.aitimes.com/news/articleView.html?idxno=210290",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/openai-codex-auto-review-feat-gpt-5-4-thinking/10180",
     "https://www.aitimes.com/news/articleView.html?idxno=210388",
     "https://www.aitimes.com/news/articleView.html?idxno=210416",
-    "https://discuss.pytorch.kr/t/artificial-analysis/10183"
+    "https://discuss.pytorch.kr/t/artificial-analysis/10183",
+    "https://www.aitimes.com/news/articleView.html?idxno=210365",
+    "https://discuss.pytorch.kr/t/claurst-claude-code-rust/10138"
 ]
