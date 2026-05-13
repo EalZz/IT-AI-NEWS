@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210312",
     "https://www.aitimes.com/news/articleView.html?idxno=210313",
     "https://www.aitimes.com/news/articleView.html?idxno=210310",
     "https://www.aitimes.com/news/articleView.html?idxno=210306",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210462",
     "https://www.aitimes.com/news/articleView.html?idxno=210467",
     "https://www.aitimes.com/news/articleView.html?idxno=210439",
-    "https://discuss.pytorch.kr/t/cheat-on-content-claude-code/10090"
+    "https://discuss.pytorch.kr/t/cheat-on-content-claude-code/10090",
+    "https://discuss.pytorch.kr/t/jina-ai-jina-embeddings-v5-omni/10207"
 ]
