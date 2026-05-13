@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210313",
-    "https://www.aitimes.com/news/articleView.html?idxno=210310",
-    "https://www.aitimes.com/news/articleView.html?idxno=210306",
     "https://www.aitimes.com/news/articleView.html?idxno=210307",
     "https://discuss.pytorch.kr/t/gpu/10167",
     "https://www.aitimes.com/news/articleView.html?idxno=210321",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210467",
     "https://www.aitimes.com/news/articleView.html?idxno=210439",
     "https://discuss.pytorch.kr/t/cheat-on-content-claude-code/10090",
-    "https://discuss.pytorch.kr/t/jina-ai-jina-embeddings-v5-omni/10207"
+    "https://discuss.pytorch.kr/t/jina-ai-jina-embeddings-v5-omni/10207",
+    "https://www.aitimes.com/news/articleView.html?idxno=210484",
+    "https://discuss.pytorch.kr/t/fast-byte-latent-transformer-fast-blt-blt-blt-d-blt-s-blt-dv-feat-meta-fair-stanford-uw/10203",
+    "https://discuss.pytorch.kr/t/i-am-the-new-guy-i-am-the-new-guy/10217"
 ]
