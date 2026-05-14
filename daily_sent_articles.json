@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210038",
-    "https://www.aitimes.com/news/articleView.html?idxno=210037",
-    "https://discuss.pytorch.kr/t/2026-04-27-05-03-ai-ml/10032",
-    "https://discuss.pytorch.kr/t/ship-to-production-open-project-season-iii/10031",
-    "https://discuss.pytorch.kr/t/alignment-whack-a-mole-llm/9999",
-    "https://discuss.pytorch.kr/t/gemma-4-pi-coding-agent-feat-lm-studio/10009",
-    "https://www.aitimes.com/news/articleView.html?idxno=210086",
-    "https://www.aitimes.com/news/articleView.html?idxno=210050",
-    "https://www.aitimes.com/news/articleView.html?idxno=210087",
-    "https://www.aitimes.com/news/articleView.html?idxno=209983",
     "https://www.aitimes.com/news/articleView.html?idxno=210047",
     "https://discuss.pytorch.kr/t/club-3090-rtx-3090-gpu-vllm-llama-cpp-sglang-llm/10021",
     "https://discuss.pytorch.kr/t/openai-gpt-5-1-gpt-5-5/10018",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/i-am-the-new-guy-i-am-the-new-guy/10217",
     "https://discuss.pytorch.kr/t/jina-ai-jina-embeddings-v5-omni/10207",
     "https://discuss.pytorch.kr/t/cheat-on-content-claude-code/10090",
-    "https://discuss.pytorch.kr/t/openclaude-portable-usb-7-llm/10091"
+    "https://discuss.pytorch.kr/t/openclaude-portable-usb-7-llm/10091",
+    "https://www.aitimes.com/news/articleView.html?idxno=210511",
+    "https://www.aitimes.com/news/articleView.html?idxno=210523",
+    "https://www.aitimes.com/news/articleView.html?idxno=210498",
+    "https://www.aitimes.com/news/articleView.html?idxno=210517",
+    "https://www.aitimes.com/news/articleView.html?idxno=210535",
+    "https://discuss.pytorch.kr/t/microsoft-ai-mdash-feat-cybergym-msrc-patch-tuesday/10232",
+    "https://discuss.pytorch.kr/t/ml-intern-hugging-face-ml/10192",
+    "https://discuss.pytorch.kr/t/pytorch-2-12/10226",
+    "https://discuss.pytorch.kr/t/open-codesign/10194",
+    "https://discuss.pytorch.kr/t/hidream-o1-image-vae-8b/10195"
 ]
