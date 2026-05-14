@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210339",
-    "https://www.aitimes.com/news/articleView.html?idxno=210359",
-    "https://discuss.pytorch.kr/t/programbench-meta-llm/10137",
-    "https://www.aitimes.com/news/articleView.html?idxno=210323",
-    "https://www.aitimes.com/news/articleView.html?idxno=210356",
-    "https://discuss.pytorch.kr/t/mirage-ai/10141",
     "https://discuss.pytorch.kr/t/llm-4-pdf-table-pandas/10177",
     "https://discuss.pytorch.kr/t/teaching-claude-why-feat-anthropic/10176",
     "https://www.aitimes.com/news/articleView.html?idxno=210369",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210528",
     "https://www.aitimes.com/news/articleView.html?idxno=210540",
     "https://www.aitimes.com/news/articleView.html?idxno=210543",
-    "https://www.aitimes.com/news/articleView.html?idxno=210520"
+    "https://www.aitimes.com/news/articleView.html?idxno=210520",
+    "https://www.aitimes.com/news/articleView.html?idxno=210535",
+    "https://www.aitimes.com/news/articleView.html?idxno=210531",
+    "https://www.aitimes.com/news/articleView.html?idxno=210539",
+    "https://www.aitimes.com/news/articleView.html?idxno=210530",
+    "https://www.aitimes.com/news/articleView.html?idxno=210532",
+    "https://discuss.pytorch.kr/t/pytorch-2-12/10226"
 ]
