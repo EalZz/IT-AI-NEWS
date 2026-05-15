@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210047",
-    "https://discuss.pytorch.kr/t/club-3090-rtx-3090-gpu-vllm-llama-cpp-sglang-llm/10021",
-    "https://discuss.pytorch.kr/t/openai-gpt-5-1-gpt-5-5/10018",
-    "https://discuss.pytorch.kr/t/ai-6-1/10047",
-    "https://discuss.pytorch.kr/t/10-5-26/10046",
-    "https://discuss.pytorch.kr/t/ellm-cpu-gpu/10023",
-    "https://www.aitimes.com/news/articleView.html?idxno=210100",
-    "https://www.aitimes.com/news/articleView.html?idxno=210084",
-    "https://www.aitimes.com/news/articleView.html?idxno=210099",
-    "https://www.aitimes.com/news/articleView.html?idxno=210097",
     "https://www.aitimes.com/news/articleView.html?idxno=210098",
     "https://discuss.pytorch.kr/t/claude-100-feat-anthropic/10029",
     "https://discuss.pytorch.kr/t/gn/10050",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/ml-intern-hugging-face-ml/10192",
     "https://discuss.pytorch.kr/t/pytorch-2-12/10226",
     "https://discuss.pytorch.kr/t/open-codesign/10194",
-    "https://discuss.pytorch.kr/t/hidream-o1-image-vae-8b/10195"
+    "https://discuss.pytorch.kr/t/hidream-o1-image-vae-8b/10195",
+    "https://www.aitimes.com/news/articleView.html?idxno=210553",
+    "https://www.aitimes.com/news/articleView.html?idxno=210571",
+    "https://www.aitimes.com/news/articleView.html?idxno=210563",
+    "https://www.aitimes.com/news/articleView.html?idxno=210582",
+    "https://www.aitimes.com/news/articleView.html?idxno=210580",
+    "https://discuss.pytorch.kr/t/im-happy-i-now-registered/10244",
+    "https://discuss.pytorch.kr/t/gn-ai/10222",
+    "https://discuss.pytorch.kr/t/claude-for-legal-anthropic-ai/10225",
+    "https://discuss.pytorch.kr/t/google-skills-google-google-cloud-agent-skills/10227",
+    "https://discuss.pytorch.kr/t/anthropic-claude-for-small-business/10228"
 ]
