@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210390",
     "https://www.aitimes.com/news/articleView.html?idxno=210377",
     "https://www.aitimes.com/news/articleView.html?idxno=210400",
     "https://www.aitimes.com/news/articleView.html?idxno=210368",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/ml-intern-hugging-face-ml/10192",
     "https://discuss.pytorch.kr/t/microsoft-ai-mdash-feat-cybergym-msrc-patch-tuesday/10232",
     "https://www.aitimes.com/news/articleView.html?idxno=210509",
-    "https://discuss.pytorch.kr/t/langchain-agent-observability-smithdb-feat-rust-apache-datafusion-vortex/10231"
+    "https://discuss.pytorch.kr/t/langchain-agent-observability-smithdb-feat-rust-apache-datafusion-vortex/10231",
+    "https://discuss.pytorch.kr/t/anthropic-claude-for-small-business/10228"
 ]
