@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210401",
-    "https://www.aitimes.com/news/articleView.html?idxno=210410",
     "https://www.aitimes.com/news/articleView.html?idxno=210404",
     "https://www.aitimes.com/news/articleView.html?idxno=210413",
     "https://www.aitimes.com/news/articleView.html?idxno=210419",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210549",
     "https://www.aitimes.com/news/articleView.html?idxno=210560",
     "https://www.aitimes.com/news/articleView.html?idxno=210566",
-    "https://www.aitimes.com/news/articleView.html?idxno=210552"
+    "https://www.aitimes.com/news/articleView.html?idxno=210552",
+    "https://www.aitimes.com/news/articleView.html?idxno=210538",
+    "https://discuss.pytorch.kr/t/google-skills-google-google-cloud-agent-skills/10227"
 ]
