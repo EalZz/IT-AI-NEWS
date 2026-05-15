@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210399",
-    "https://www.aitimes.com/news/articleView.html?idxno=210320",
-    "https://www.aitimes.com/news/articleView.html?idxno=210375",
-    "https://www.aitimes.com/news/articleView.html?idxno=210386",
-    "https://www.aitimes.com/news/articleView.html?idxno=210412",
-    "https://discuss.pytorch.kr/t/tokenspeed-llm-feat-kimi-k2-5-nvidia-blackwell/10140",
     "https://discuss.pytorch.kr/t/gn-vibe-coding-agentic-engineering-feat-django-simon-willison/10158",
     "https://discuss.pytorch.kr/t/openai-codex-auto-review-feat-gpt-5-4-thinking/10180",
     "https://www.aitimes.com/news/articleView.html?idxno=210388",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210579",
     "https://www.aitimes.com/news/articleView.html?idxno=210586",
     "https://www.aitimes.com/news/articleView.html?idxno=210590",
-    "https://www.aitimes.com/news/articleView.html?idxno=210585"
+    "https://www.aitimes.com/news/articleView.html?idxno=210585",
+    "https://www.aitimes.com/news/articleView.html?idxno=210563",
+    "https://www.aitimes.com/news/articleView.html?idxno=210582",
+    "https://www.aitimes.com/news/articleView.html?idxno=210580",
+    "https://www.aitimes.com/news/articleView.html?idxno=210575",
+    "https://www.aitimes.com/news/articleView.html?idxno=210569",
+    "https://discuss.pytorch.kr/t/claude-for-legal-anthropic-ai/10225"
 ]
