@@ -1,12 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210098",
-    "https://discuss.pytorch.kr/t/claude-100-feat-anthropic/10029",
-    "https://discuss.pytorch.kr/t/gn/10050",
-    "https://discuss.pytorch.kr/t/qwen-scope-sparse-autoencoder-llm-qwen/10020",
-    "https://discuss.pytorch.kr/t/rag-anything-rag-feat-hkuds/9976",
-    "https://www.aitimes.com/news/articleView.html?idxno=210157",
-    "https://www.aitimes.com/news/articleView.html?idxno=210156",
-    "https://www.aitimes.com/news/articleView.html?idxno=210145",
     "https://www.aitimes.com/news/articleView.html?idxno=210139",
     "https://www.aitimes.com/news/articleView.html?idxno=210137",
     "https://discuss.pytorch.kr/t/anthropic-claude-10-microsoft-365/10083",
@@ -98,5 +90,13 @@
     "https://discuss.pytorch.kr/t/gn-ai/10222",
     "https://discuss.pytorch.kr/t/claude-for-legal-anthropic-ai/10225",
     "https://discuss.pytorch.kr/t/google-skills-google-google-cloud-agent-skills/10227",
-    "https://discuss.pytorch.kr/t/anthropic-claude-for-small-business/10228"
+    "https://discuss.pytorch.kr/t/anthropic-claude-for-small-business/10228",
+    "https://www.aitimes.com/news/articleView.html?idxno=210605",
+    "https://www.aitimes.com/news/articleView.html?idxno=210578",
+    "https://www.aitimes.com/news/articleView.html?idxno=210603",
+    "https://www.aitimes.com/news/articleView.html?idxno=210598",
+    "https://www.aitimes.com/news/articleView.html?idxno=210600",
+    "https://discuss.pytorch.kr/t/gn-claude/10224",
+    "https://discuss.pytorch.kr/t/openhands-ai-sdk-cli-gui/10246",
+    "https://discuss.pytorch.kr/t/needle-gemini-3-1-26m-feat-cactus/10249"
 ]
