@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210433",
-    "https://discuss.pytorch.kr/t/openclaude-portable-usb-7-llm/10091",
     "https://www.aitimes.com/news/articleView.html?idxno=210477",
     "https://www.aitimes.com/news/articleView.html?idxno=210470",
     "https://www.aitimes.com/news/articleView.html?idxno=210466",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/needle-gemini-3-1-26m-feat-cactus/10249",
     "https://www.aitimes.com/news/articleView.html?idxno=210595",
     "https://www.aitimes.com/news/articleView.html?idxno=210604",
-    "https://www.aitimes.com/news/articleView.html?idxno=210594"
+    "https://www.aitimes.com/news/articleView.html?idxno=210594",
+    "https://www.aitimes.com/news/articleView.html?idxno=210596",
+    "https://discuss.pytorch.kr/t/openhands-ai-sdk-cli-gui/10246"
 ]
