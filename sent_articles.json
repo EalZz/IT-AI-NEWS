@@ -1,5 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/ml-intern-hugging-face-ml/10192",
     "https://discuss.pytorch.kr/t/microsoft-ai-mdash-feat-cybergym-msrc-patch-tuesday/10232",
     "https://www.aitimes.com/news/articleView.html?idxno=210509",
     "https://discuss.pytorch.kr/t/langchain-agent-observability-smithdb-feat-rust-apache-datafusion-vortex/10231",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210617",
     "https://www.aitimes.com/news/articleView.html?idxno=210626",
     "https://www.aitimes.com/news/articleView.html?idxno=210635",
-    "https://www.aitimes.com/news/articleView.html?idxno=210671"
+    "https://www.aitimes.com/news/articleView.html?idxno=210671",
+    "https://discuss.pytorch.kr/t/gn-claude-codex/10264"
 ]
