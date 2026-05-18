@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210221",
-    "https://www.aitimes.com/news/articleView.html?idxno=210203",
-    "https://www.aitimes.com/news/articleView.html?idxno=210217",
-    "https://discuss.pytorch.kr/t/runbookhermes-hermes-agent-aiops/10096",
-    "https://discuss.pytorch.kr/t/gn-agentic-coding/10067",
-    "https://discuss.pytorch.kr/t/anthropic-claude-code-2-opus-api-feat-spacex/10109",
-    "https://discuss.pytorch.kr/t/keras-francois-chollet-deep-learning-with-python-3/10102",
-    "https://discuss.pytorch.kr/t/ai-ignite-5-ai/10106",
-    "https://www.aitimes.com/news/articleView.html?idxno=210268",
-    "https://www.aitimes.com/news/articleView.html?idxno=210274",
     "https://www.aitimes.com/news/articleView.html?idxno=210272",
     "https://www.aitimes.com/news/articleView.html?idxno=210277",
     "https://www.aitimes.com/news/articleView.html?idxno=210280",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/2026-05-11-17-ai-ml/10260",
     "https://discuss.pytorch.kr/t/gn-amazon-ai-ai/10258",
     "https://discuss.pytorch.kr/t/openai-windows-codex-appcontainer-write-restricted-token-windows-firewall/10252",
-    "https://discuss.pytorch.kr/t/anthropic-claude-code/10253"
+    "https://discuss.pytorch.kr/t/anthropic-claude-code/10253",
+    "https://www.aitimes.com/news/articleView.html?idxno=210673",
+    "https://www.aitimes.com/news/articleView.html?idxno=210672",
+    "https://www.aitimes.com/news/articleView.html?idxno=210617",
+    "https://www.aitimes.com/news/articleView.html?idxno=210626",
+    "https://www.aitimes.com/news/articleView.html?idxno=210635",
+    "https://discuss.pytorch.kr/t/learning-opportunities-ai-claude-codex/10239",
+    "https://discuss.pytorch.kr/t/gn-claude-codex/10264",
+    "https://discuss.pytorch.kr/t/agentfield-ai-api/10248",
+    "https://discuss.pytorch.kr/t/executorch-pytorch-pytorch-ai-feat-meta-mlsys-2026/10254",
+    "https://discuss.pytorch.kr/t/llm-kv-sharing-mhc-compressed-attention-feat-sebastian-raschka/10256"
 ]
