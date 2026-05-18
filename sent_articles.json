@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210512",
-    "https://www.aitimes.com/news/articleView.html?idxno=210515",
-    "https://www.aitimes.com/news/articleView.html?idxno=210506",
     "https://www.aitimes.com/news/articleView.html?idxno=210497",
     "https://www.aitimes.com/news/articleView.html?idxno=210496",
     "https://www.aitimes.com/news/articleView.html?idxno=210504",
@@ -98,5 +95,8 @@
     "https://discuss.pytorch.kr/t/supertonic-onnx-tts-feat-supertone-ai/10247",
     "https://www.aitimes.com/news/articleView.html?idxno=210624",
     "https://www.aitimes.com/news/articleView.html?idxno=210625",
-    "https://discuss.pytorch.kr/t/llm-kv-sharing-mhc-compressed-attention-feat-sebastian-raschka/10256"
+    "https://discuss.pytorch.kr/t/llm-kv-sharing-mhc-compressed-attention-feat-sebastian-raschka/10256",
+    "https://www.aitimes.com/news/articleView.html?idxno=210616",
+    "https://www.aitimes.com/news/articleView.html?idxno=210618",
+    "https://www.aitimes.com/news/articleView.html?idxno=210620"
 ]
