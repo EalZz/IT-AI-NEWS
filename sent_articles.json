@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210496",
-    "https://www.aitimes.com/news/articleView.html?idxno=210504",
-    "https://www.aitimes.com/news/articleView.html?idxno=210519",
-    "https://www.aitimes.com/news/articleView.html?idxno=210522",
-    "https://www.aitimes.com/news/articleView.html?idxno=210526",
     "https://discuss.pytorch.kr/t/open-codesign/10194",
     "https://www.aitimes.com/news/articleView.html?idxno=210536",
     "https://www.aitimes.com/news/articleView.html?idxno=210544",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210616",
     "https://www.aitimes.com/news/articleView.html?idxno=210618",
     "https://www.aitimes.com/news/articleView.html?idxno=210620",
-    "https://www.aitimes.com/news/articleView.html?idxno=210615"
+    "https://www.aitimes.com/news/articleView.html?idxno=210615",
+    "https://www.aitimes.com/news/articleView.html?idxno=210650",
+    "https://www.aitimes.com/news/articleView.html?idxno=210645",
+    "https://www.aitimes.com/news/articleView.html?idxno=210647",
+    "https://www.aitimes.com/news/articleView.html?idxno=210649",
+    "https://discuss.pytorch.kr/t/executorch-pytorch-pytorch-ai-feat-meta-mlsys-2026/10254"
 ]
