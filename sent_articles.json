@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210488",
-    "https://discuss.pytorch.kr/t/hidream-o1-image-vae-8b/10195",
-    "https://www.aitimes.com/news/articleView.html?idxno=210518",
     "https://www.aitimes.com/news/articleView.html?idxno=210512",
     "https://www.aitimes.com/news/articleView.html?idxno=210515",
     "https://www.aitimes.com/news/articleView.html?idxno=210506",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210614",
     "https://discuss.pytorch.kr/t/gn-amazon-ai-ai/10258",
     "https://discuss.pytorch.kr/t/2026-05-11-17-ai-ml/10260",
-    "https://discuss.pytorch.kr/t/supertonic-onnx-tts-feat-supertone-ai/10247"
+    "https://discuss.pytorch.kr/t/supertonic-onnx-tts-feat-supertone-ai/10247",
+    "https://www.aitimes.com/news/articleView.html?idxno=210624",
+    "https://www.aitimes.com/news/articleView.html?idxno=210625",
+    "https://discuss.pytorch.kr/t/llm-kv-sharing-mhc-compressed-attention-feat-sebastian-raschka/10256"
 ]
