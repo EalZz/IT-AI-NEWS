@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210602",
-    "https://www.aitimes.com/news/articleView.html?idxno=210603",
     "https://www.aitimes.com/news/articleView.html?idxno=210598",
     "https://www.aitimes.com/news/articleView.html?idxno=210600",
     "https://www.aitimes.com/news/articleView.html?idxno=210601",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210697",
     "https://www.aitimes.com/news/articleView.html?idxno=210716",
     "https://www.aitimes.com/news/articleView.html?idxno=210728",
-    "https://www.aitimes.com/news/articleView.html?idxno=210736"
+    "https://www.aitimes.com/news/articleView.html?idxno=210736",
+    "https://discuss.pytorch.kr/t/smallcode-7b-20b-llm/10281",
+    "https://discuss.pytorch.kr/t/rtk-llm-rust-cli/10133"
 ]
