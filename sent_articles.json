@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210620",
-    "https://www.aitimes.com/news/articleView.html?idxno=210615",
     "https://www.aitimes.com/news/articleView.html?idxno=210650",
     "https://www.aitimes.com/news/articleView.html?idxno=210645",
     "https://www.aitimes.com/news/articleView.html?idxno=210647",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210721",
     "https://www.aitimes.com/news/articleView.html?idxno=210745",
     "https://discuss.pytorch.kr/t/orthrus-dual-view-llm/10279",
-    "https://discuss.pytorch.kr/t/google-i-o-2026-gemini-3-5-flash-24-7-gemini-spark/10303"
+    "https://discuss.pytorch.kr/t/google-i-o-2026-gemini-3-5-flash-24-7-gemini-spark/10303",
+    "https://www.aitimes.com/news/articleView.html?idxno=210734",
+    "https://www.aitimes.com/news/articleView.html?idxno=210767"
 ]
