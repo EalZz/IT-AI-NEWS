@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210625",
-    "https://discuss.pytorch.kr/t/llm-kv-sharing-mhc-compressed-attention-feat-sebastian-raschka/10256",
     "https://www.aitimes.com/news/articleView.html?idxno=210616",
     "https://www.aitimes.com/news/articleView.html?idxno=210618",
     "https://www.aitimes.com/news/articleView.html?idxno=210620",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210761",
     "https://www.aitimes.com/news/articleView.html?idxno=210756",
     "https://www.aitimes.com/news/articleView.html?idxno=210750",
-    "https://discuss.pytorch.kr/t/gn-ai/10287"
+    "https://discuss.pytorch.kr/t/gn-ai/10287",
+    "https://www.aitimes.com/news/articleView.html?idxno=210721",
+    "https://www.aitimes.com/news/articleView.html?idxno=210745"
 ]
