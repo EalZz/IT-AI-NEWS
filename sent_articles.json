@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210622",
-    "https://www.aitimes.com/news/articleView.html?idxno=210670",
-    "https://www.aitimes.com/news/articleView.html?idxno=210668",
-    "https://www.aitimes.com/news/articleView.html?idxno=210665",
-    "https://www.aitimes.com/news/articleView.html?idxno=210664",
-    "https://www.aitimes.com/news/articleView.html?idxno=210637",
     "https://www.aitimes.com/news/articleView.html?idxno=210627",
     "https://discuss.pytorch.kr/t/agentfield-ai-api/10248",
     "https://www.aitimes.com/news/articleView.html?idxno=210617",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210780",
     "https://www.aitimes.com/news/articleView.html?idxno=210779",
     "https://www.aitimes.com/news/articleView.html?idxno=210777",
-    "https://www.aitimes.com/news/articleView.html?idxno=210783"
+    "https://www.aitimes.com/news/articleView.html?idxno=210783",
+    "https://www.aitimes.com/news/articleView.html?idxno=210800",
+    "https://www.aitimes.com/news/articleView.html?idxno=210799",
+    "https://www.aitimes.com/news/articleView.html?idxno=210790",
+    "https://www.aitimes.com/news/articleView.html?idxno=210797",
+    "https://www.aitimes.com/news/articleView.html?idxno=210786",
+    "https://discuss.pytorch.kr/t/gn-llm-6-5-feat-simon-willison/10305"
 ]
