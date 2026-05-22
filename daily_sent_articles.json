@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/awesome-gpt-image-2-api-prompts-gpt-image-2-359-api/10134",
-    "https://discuss.pytorch.kr/t/cloudflare-stripe-ai-feat-stripe-projects/10119",
-    "https://discuss.pytorch.kr/t/jb-jb-fin-ai-challenge-6-12/10168",
-    "https://www.aitimes.com/news/articleView.html?idxno=210399",
-    "https://www.aitimes.com/news/articleView.html?idxno=210320",
-    "https://www.aitimes.com/news/articleView.html?idxno=210375",
-    "https://www.aitimes.com/news/articleView.html?idxno=210386",
-    "https://www.aitimes.com/news/articleView.html?idxno=210412",
-    "https://discuss.pytorch.kr/t/openai-codex-auto-review-feat-gpt-5-4-thinking/10180",
-    "https://discuss.pytorch.kr/t/gn-vibe-coding-agentic-engineering-feat-django-simon-willison/10158",
     "https://discuss.pytorch.kr/t/tokenspeed-llm-feat-kimi-k2-5-nvidia-blackwell/10140",
     "https://discuss.pytorch.kr/t/hermes-agent-self-evolution-hermes-agent-nousresearch/10136",
     "https://discuss.pytorch.kr/t/teaching-claude-why-feat-anthropic/10176",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/mike-ai-harvey-legora-ai/10317",
     "https://discuss.pytorch.kr/t/cohere-command-a-moe/10321",
     "https://discuss.pytorch.kr/t/gn-llm-6-5-feat-simon-willison/10305",
-    "https://discuss.pytorch.kr/t/google-deepmind-gemini-omni/10301"
+    "https://discuss.pytorch.kr/t/google-deepmind-gemini-omni/10301",
+    "https://www.aitimes.com/news/articleView.html?idxno=210854",
+    "https://www.aitimes.com/news/articleView.html?idxno=210841",
+    "https://www.aitimes.com/news/articleView.html?idxno=210847",
+    "https://www.aitimes.com/news/articleView.html?idxno=210846",
+    "https://www.aitimes.com/news/articleView.html?idxno=210857",
+    "https://discuss.pytorch.kr/t/akb-ai-git-mcp/10323",
+    "https://discuss.pytorch.kr/t/deepseek-tui-deepseek-v4-coding-agent/10212",
+    "https://discuss.pytorch.kr/t/codegraph-ai/10308",
+    "https://discuss.pytorch.kr/t/garden-skills-claude-code-cursor-codex-4/10309",
+    "https://discuss.pytorch.kr/t/zero-ai-vercel-labs/10312"
 ]
