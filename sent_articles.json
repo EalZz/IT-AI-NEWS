@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210684",
     "https://www.aitimes.com/news/articleView.html?idxno=210685",
     "https://www.aitimes.com/news/articleView.html?idxno=210686",
     "https://discuss.pytorch.kr/t/vllm-kr-community-meetup/10285",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/turbovec-turboquant-rust/10295",
     "https://www.aitimes.com/news/articleView.html?idxno=210788",
     "https://www.aitimes.com/news/articleView.html?idxno=210808",
-    "https://discuss.pytorch.kr/t/topic/10328"
+    "https://discuss.pytorch.kr/t/topic/10328",
+    "https://discuss.pytorch.kr/t/zero-ai-vercel-labs/10312"
 ]
