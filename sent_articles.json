@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210727",
-    "https://www.aitimes.com/news/articleView.html?idxno=210726",
-    "https://www.aitimes.com/news/articleView.html?idxno=210739",
-    "https://www.aitimes.com/news/articleView.html?idxno=210735",
-    "https://www.aitimes.com/news/articleView.html?idxno=210737",
     "https://www.aitimes.com/news/articleView.html?idxno=210752",
     "https://www.aitimes.com/news/articleView.html?idxno=210738",
     "https://www.aitimes.com/news/articleView.html?idxno=210746",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210867",
     "https://www.aitimes.com/news/articleView.html?idxno=210869",
     "https://www.aitimes.com/news/articleView.html?idxno=210862",
-    "https://www.aitimes.com/news/articleView.html?idxno=210859"
+    "https://www.aitimes.com/news/articleView.html?idxno=210859",
+    "https://www.aitimes.com/news/articleView.html?idxno=210864",
+    "https://www.aitimes.com/news/articleView.html?idxno=210866",
+    "https://www.aitimes.com/news/articleView.html?idxno=210865",
+    "https://www.aitimes.com/news/articleView.html?idxno=210860",
+    "https://discuss.pytorch.kr/t/mlxcel-rust-llm-vlm-feat-lablup/10331"
 ]
