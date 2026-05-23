@@ -1,13 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/tokenspeed-llm-feat-kimi-k2-5-nvidia-blackwell/10140",
-    "https://discuss.pytorch.kr/t/hermes-agent-self-evolution-hermes-agent-nousresearch/10136",
-    "https://discuss.pytorch.kr/t/teaching-claude-why-feat-anthropic/10176",
-    "https://www.aitimes.com/news/articleView.html?idxno=210484",
-    "https://www.aitimes.com/news/articleView.html?idxno=210447",
-    "https://www.aitimes.com/news/articleView.html?idxno=210464",
-    "https://www.aitimes.com/news/articleView.html?idxno=210462",
-    "https://www.aitimes.com/news/articleView.html?idxno=210467",
-    "https://discuss.pytorch.kr/t/fast-byte-latent-transformer-fast-blt-blt-blt-d-blt-s-blt-dv-feat-meta-fair-stanford-uw/10203",
     "https://discuss.pytorch.kr/t/i-am-the-new-guy-i-am-the-new-guy/10217",
     "https://discuss.pytorch.kr/t/jina-ai-jina-embeddings-v5-omni/10207",
     "https://discuss.pytorch.kr/t/cheat-on-content-claude-code/10090",
@@ -98,5 +89,14 @@
     "https://discuss.pytorch.kr/t/deepseek-tui-deepseek-v4-coding-agent/10212",
     "https://discuss.pytorch.kr/t/codegraph-ai/10308",
     "https://discuss.pytorch.kr/t/garden-skills-claude-code-cursor-codex-4/10309",
-    "https://discuss.pytorch.kr/t/zero-ai-vercel-labs/10312"
+    "https://discuss.pytorch.kr/t/zero-ai-vercel-labs/10312",
+    "https://www.aitimes.com/news/articleView.html?idxno=210872",
+    "https://www.aitimes.com/news/articleView.html?idxno=210871",
+    "https://www.aitimes.com/news/articleView.html?idxno=210870",
+    "https://www.aitimes.com/news/articleView.html?idxno=210864",
+    "https://www.aitimes.com/news/articleView.html?idxno=210866",
+    "https://discuss.pytorch.kr/t/executorch-mlx-apple-silicon-gpu-pytorch/10348",
+    "https://discuss.pytorch.kr/t/topic/10346",
+    "https://discuss.pytorch.kr/t/mlxcel-rust-llm-vlm-feat-lablup/10331",
+    "https://discuss.pytorch.kr/t/claude-obsidian-claude-code-obsidian/10325"
 ]
