@@ -1,7 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/kami-ai/10278",
-    "https://www.aitimes.com/news/articleView.html?idxno=210748",
-    "https://www.aitimes.com/news/articleView.html?idxno=210755",
     "https://www.aitimes.com/news/articleView.html?idxno=210751",
     "https://www.aitimes.com/news/articleView.html?idxno=210744",
     "https://www.aitimes.com/news/articleView.html?idxno=210770",
@@ -98,5 +95,8 @@
     "https://discuss.pytorch.kr/t/topic/10346",
     "https://www.aitimes.com/news/articleView.html?idxno=210871",
     "https://discuss.pytorch.kr/t/executorch-mlx-apple-silicon-gpu-pytorch/10348",
-    "https://www.aitimes.com/news/articleView.html?idxno=210872"
+    "https://www.aitimes.com/news/articleView.html?idxno=210872",
+    "https://www.aitimes.com/news/articleView.html?idxno=210873",
+    "https://www.aitimes.com/news/articleView.html?idxno=210825",
+    "https://discuss.pytorch.kr/t/helion-ml-dsl/10354"
 ]
