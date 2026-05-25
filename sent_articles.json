@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210785",
-    "https://www.aitimes.com/news/articleView.html?idxno=210791",
     "https://www.aitimes.com/news/articleView.html?idxno=210792",
     "https://www.aitimes.com/news/articleView.html?idxno=210789",
     "https://www.aitimes.com/news/articleView.html?idxno=210807",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/claude-autoresearch-claude-code/10356",
     "https://www.aitimes.com/news/articleView.html?idxno=210893",
     "https://www.aitimes.com/news/articleView.html?idxno=210895",
-    "https://www.aitimes.com/news/articleView.html?idxno=210896"
+    "https://www.aitimes.com/news/articleView.html?idxno=210896",
+    "https://www.aitimes.com/news/articleView.html?idxno=210894",
+    "https://discuss.pytorch.kr/t/llm-cpu-gpu/10381"
 ]
