@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210790",
     "https://www.aitimes.com/news/articleView.html?idxno=210797",
     "https://www.aitimes.com/news/articleView.html?idxno=210786",
     "https://discuss.pytorch.kr/t/gn-llm-6-5-feat-simon-willison/10305",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210888",
     "https://www.aitimes.com/news/articleView.html?idxno=210832",
     "https://www.aitimes.com/news/articleView.html?idxno=210889",
-    "https://www.aitimes.com/news/articleView.html?idxno=210849"
+    "https://www.aitimes.com/news/articleView.html?idxno=210849",
+    "https://discuss.pytorch.kr/t/chipstar-hip-cuda-spir-v-intel-arm-gpu/10349"
 ]
