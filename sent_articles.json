@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210792",
     "https://www.aitimes.com/news/articleView.html?idxno=210789",
     "https://www.aitimes.com/news/articleView.html?idxno=210807",
     "https://discuss.pytorch.kr/t/cohere-command-a-moe/10321",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210895",
     "https://www.aitimes.com/news/articleView.html?idxno=210896",
     "https://www.aitimes.com/news/articleView.html?idxno=210894",
-    "https://discuss.pytorch.kr/t/llm-cpu-gpu/10381"
+    "https://discuss.pytorch.kr/t/llm-cpu-gpu/10381",
+    "https://discuss.pytorch.kr/t/ai-hermes-agent-feat-blake-crosley/10335"
 ]
