@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210782",
-    "https://www.aitimes.com/news/articleView.html?idxno=210809",
     "https://www.aitimes.com/news/articleView.html?idxno=210810",
     "https://www.aitimes.com/news/articleView.html?idxno=210784",
     "https://www.aitimes.com/news/articleView.html?idxno=210803",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/gn-ai-twelve-ways-to-be-wrong-about-ai-assisted-coding/10357",
     "https://www.aitimes.com/news/articleView.html?idxno=210887",
     "https://www.aitimes.com/news/articleView.html?idxno=210890",
-    "https://www.aitimes.com/news/articleView.html?idxno=210891"
+    "https://www.aitimes.com/news/articleView.html?idxno=210891",
+    "https://www.aitimes.com/news/articleView.html?idxno=210892",
+    "https://discuss.pytorch.kr/t/claude-autoresearch-claude-code/10356"
 ]
