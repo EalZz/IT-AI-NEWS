@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210866",
-    "https://www.aitimes.com/news/articleView.html?idxno=210865",
-    "https://www.aitimes.com/news/articleView.html?idxno=210860",
-    "https://discuss.pytorch.kr/t/mlxcel-rust-llm-vlm-feat-lablup/10331",
-    "https://www.aitimes.com/news/articleView.html?idxno=210870",
-    "https://discuss.pytorch.kr/t/topic/10346",
     "https://www.aitimes.com/news/articleView.html?idxno=210871",
     "https://discuss.pytorch.kr/t/executorch-mlx-apple-silicon-gpu-pytorch/10348",
     "https://www.aitimes.com/news/articleView.html?idxno=210872",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210953",
     "https://www.aitimes.com/news/articleView.html?idxno=210952",
     "https://www.aitimes.com/news/articleView.html?idxno=210950",
-    "https://discuss.pytorch.kr/t/claude-bughunter-51-claude-code/10390"
+    "https://discuss.pytorch.kr/t/claude-bughunter-51-claude-code/10390",
+    "https://www.aitimes.com/news/articleView.html?idxno=210974",
+    "https://www.aitimes.com/news/articleView.html?idxno=210975",
+    "https://www.aitimes.com/news/articleView.html?idxno=210968",
+    "https://www.aitimes.com/news/articleView.html?idxno=210936",
+    "https://www.aitimes.com/news/articleView.html?idxno=210961",
+    "https://discuss.pytorch.kr/t/vllm-rust-frontend/10407"
 ]
