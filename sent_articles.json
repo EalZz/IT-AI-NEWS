@@ -1,10 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/executorch-mlx-apple-silicon-gpu-pytorch/10348",
-    "https://www.aitimes.com/news/articleView.html?idxno=210872",
-    "https://www.aitimes.com/news/articleView.html?idxno=210873",
-    "https://www.aitimes.com/news/articleView.html?idxno=210825",
-    "https://discuss.pytorch.kr/t/helion-ml-dsl/10354",
-    "https://www.aitimes.com/news/articleView.html?idxno=210878",
     "https://www.aitimes.com/news/articleView.html?idxno=210824",
     "https://www.aitimes.com/news/articleView.html?idxno=210875",
     "https://www.aitimes.com/news/articleView.html?idxno=210826",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210936",
     "https://www.aitimes.com/news/articleView.html?idxno=210961",
     "https://discuss.pytorch.kr/t/vllm-rust-frontend/10407",
-    "https://www.aitimes.com/news/articleView.html?idxno=210978"
+    "https://www.aitimes.com/news/articleView.html?idxno=210978",
+    "https://www.aitimes.com/news/articleView.html?idxno=210979",
+    "https://www.aitimes.com/news/articleView.html?idxno=210967",
+    "https://www.aitimes.com/news/articleView.html?idxno=210956",
+    "https://www.aitimes.com/news/articleView.html?idxno=210976",
+    "https://www.aitimes.com/news/articleView.html?idxno=210982",
+    "https://discuss.pytorch.kr/t/mcp-2026-07-28-stateless/10387"
 ]
