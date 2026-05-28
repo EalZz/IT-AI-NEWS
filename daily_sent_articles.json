@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/anthropic-claude-code/10253",
-    "https://www.aitimes.com/news/articleView.html?idxno=210673",
-    "https://www.aitimes.com/news/articleView.html?idxno=210672",
-    "https://www.aitimes.com/news/articleView.html?idxno=210617",
-    "https://www.aitimes.com/news/articleView.html?idxno=210626",
-    "https://www.aitimes.com/news/articleView.html?idxno=210635",
-    "https://discuss.pytorch.kr/t/learning-opportunities-ai-claude-codex/10239",
-    "https://discuss.pytorch.kr/t/gn-claude-codex/10264",
-    "https://discuss.pytorch.kr/t/agentfield-ai-api/10248",
-    "https://discuss.pytorch.kr/t/executorch-pytorch-pytorch-ai-feat-meta-mlsys-2026/10254",
     "https://discuss.pytorch.kr/t/llm-kv-sharing-mhc-compressed-attention-feat-sebastian-raschka/10256",
     "https://www.aitimes.com/news/articleView.html?idxno=210725",
     "https://www.aitimes.com/news/articleView.html?idxno=210724",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/mcp-2026-07-28-stateless/10387",
     "https://discuss.pytorch.kr/t/vllm-rust-frontend/10407",
     "https://discuss.pytorch.kr/t/claude-bughunter-51-claude-code/10390",
-    "https://discuss.pytorch.kr/t/awesome-open-source-ai-ai-14/10375"
+    "https://discuss.pytorch.kr/t/awesome-open-source-ai-ai-14/10375",
+    "https://www.aitimes.com/news/articleView.html?idxno=211065",
+    "https://www.aitimes.com/news/articleView.html?idxno=211064",
+    "https://www.aitimes.com/news/articleView.html?idxno=211042",
+    "https://www.aitimes.com/news/articleView.html?idxno=211014",
+    "https://www.aitimes.com/news/articleView.html?idxno=211024",
+    "https://discuss.pytorch.kr/t/agent-governance-toolkit-microsoft-ai/10428",
+    "https://discuss.pytorch.kr/t/academic-research-skills-claude-code/10385",
+    "https://discuss.pytorch.kr/t/gn-ai/10380",
+    "https://discuss.pytorch.kr/t/nvidia-agent-skills-nvidia-ai/10414",
+    "https://discuss.pytorch.kr/t/llm-5-grounding/10418"
 ]
