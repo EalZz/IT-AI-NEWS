@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210886",
-    "https://www.aitimes.com/news/articleView.html?idxno=210835",
-    "https://www.aitimes.com/news/articleView.html?idxno=210884",
-    "https://www.aitimes.com/news/articleView.html?idxno=210842",
-    "https://www.aitimes.com/news/articleView.html?idxno=210848",
-    "https://www.aitimes.com/news/articleView.html?idxno=210888",
     "https://www.aitimes.com/news/articleView.html?idxno=210832",
     "https://www.aitimes.com/news/articleView.html?idxno=210889",
     "https://www.aitimes.com/news/articleView.html?idxno=210849",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=210970",
     "https://www.aitimes.com/news/articleView.html?idxno=210993",
     "https://discuss.pytorch.kr/t/12-factor-agents-llm-12/10384",
-    "https://discuss.pytorch.kr/t/llm-5-grounding/10418"
+    "https://discuss.pytorch.kr/t/llm-5-grounding/10418",
+    "https://www.aitimes.com/news/articleView.html?idxno=211006",
+    "https://www.aitimes.com/news/articleView.html?idxno=210998",
+    "https://www.aitimes.com/news/articleView.html?idxno=211002",
+    "https://www.aitimes.com/news/articleView.html?idxno=211000",
+    "https://www.aitimes.com/news/articleView.html?idxno=210999",
+    "https://discuss.pytorch.kr/t/nvidia-agent-skills-nvidia-ai/10414"
 ]
