@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/llm-kv-sharing-mhc-compressed-attention-feat-sebastian-raschka/10256",
-    "https://www.aitimes.com/news/articleView.html?idxno=210725",
-    "https://www.aitimes.com/news/articleView.html?idxno=210724",
-    "https://www.aitimes.com/news/articleView.html?idxno=210696",
-    "https://www.aitimes.com/news/articleView.html?idxno=210707",
-    "https://www.aitimes.com/news/articleView.html?idxno=210698",
-    "https://discuss.pytorch.kr/t/ai-ai-eats-the-world-2026-capital-deployment-change-googleslide-79p/10290",
-    "https://discuss.pytorch.kr/t/gn-ai/10276",
-    "https://discuss.pytorch.kr/t/opengravity-google-antigravity-ui-byok-ide/10190",
-    "https://discuss.pytorch.kr/t/html-anything-ai-html-html/10238",
     "https://discuss.pytorch.kr/t/vllm-kr-community-meetup/10285",
     "https://www.aitimes.com/news/articleView.html?idxno=210721",
     "https://www.aitimes.com/news/articleView.html?idxno=210745",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/academic-research-skills-claude-code/10385",
     "https://discuss.pytorch.kr/t/gn-ai/10380",
     "https://discuss.pytorch.kr/t/nvidia-agent-skills-nvidia-ai/10414",
-    "https://discuss.pytorch.kr/t/llm-5-grounding/10418"
+    "https://discuss.pytorch.kr/t/llm-5-grounding/10418",
+    "https://www.aitimes.com/news/articleView.html?idxno=211118",
+    "https://www.aitimes.com/news/articleView.html?idxno=211114",
+    "https://www.aitimes.com/news/articleView.html?idxno=211087",
+    "https://www.aitimes.com/news/articleView.html?idxno=211107",
+    "https://www.aitimes.com/news/articleView.html?idxno=211109",
+    "https://discuss.pytorch.kr/t/gn-anthropic-openai/10425",
+    "https://discuss.pytorch.kr/t/claude-code-security-reviewer-claude/10441",
+    "https://discuss.pytorch.kr/t/slides-grab-html-claude-code-codex/10423",
+    "https://discuss.pytorch.kr/t/anthropic-claude-opus-4-8/10444",
+    "https://discuss.pytorch.kr/t/kimi-code-cli-moonshot-ai-ai/10427"
 ]
