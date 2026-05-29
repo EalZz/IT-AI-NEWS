@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210951",
     "https://www.aitimes.com/news/articleView.html?idxno=210957",
     "https://www.aitimes.com/news/articleView.html?idxno=210953",
     "https://www.aitimes.com/news/articleView.html?idxno=210952",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211109",
     "https://www.aitimes.com/news/articleView.html?idxno=211113",
     "https://www.aitimes.com/news/articleView.html?idxno=211125",
-    "https://discuss.pytorch.kr/t/claude-code-security-reviewer-claude/10441"
+    "https://discuss.pytorch.kr/t/claude-code-security-reviewer-claude/10441",
+    "https://discuss.pytorch.kr/t/gn-anthropic-openai/10425"
 ]
