@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=210956",
-    "https://www.aitimes.com/news/articleView.html?idxno=210976",
     "https://www.aitimes.com/news/articleView.html?idxno=210982",
     "https://discuss.pytorch.kr/t/mcp-2026-07-28-stateless/10387",
     "https://www.aitimes.com/news/articleView.html?idxno=210986",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211136",
     "https://www.aitimes.com/news/articleView.html?idxno=211135",
     "https://www.aitimes.com/news/articleView.html?idxno=211137",
-    "https://www.aitimes.com/news/articleView.html?idxno=211138"
+    "https://www.aitimes.com/news/articleView.html?idxno=211138",
+    "https://www.aitimes.com/news/articleView.html?idxno=211139",
+    "https://discuss.pytorch.kr/t/claude-anthropic/10447"
 ]
