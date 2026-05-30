@@ -1,11 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/vllm-kr-community-meetup/10285",
-    "https://www.aitimes.com/news/articleView.html?idxno=210721",
-    "https://www.aitimes.com/news/articleView.html?idxno=210745",
-    "https://www.aitimes.com/news/articleView.html?idxno=210771",
-    "https://www.aitimes.com/news/articleView.html?idxno=210761",
-    "https://www.aitimes.com/news/articleView.html?idxno=210756",
-    "https://discuss.pytorch.kr/t/google-i-o-2026-gemini-3-5-flash-24-7-gemini-spark/10303",
     "https://discuss.pytorch.kr/t/orthrus-dual-view-llm/10279",
     "https://discuss.pytorch.kr/t/gn-ai/10287",
     "https://discuss.pytorch.kr/t/kami-ai/10278",
@@ -98,5 +91,12 @@
     "https://discuss.pytorch.kr/t/claude-code-security-reviewer-claude/10441",
     "https://discuss.pytorch.kr/t/slides-grab-html-claude-code-codex/10423",
     "https://discuss.pytorch.kr/t/anthropic-claude-opus-4-8/10444",
-    "https://discuss.pytorch.kr/t/kimi-code-cli-moonshot-ai-ai/10427"
+    "https://discuss.pytorch.kr/t/kimi-code-cli-moonshot-ai-ai/10427",
+    "https://www.aitimes.com/news/articleView.html?idxno=211140",
+    "https://www.aitimes.com/news/articleView.html?idxno=211141",
+    "https://www.aitimes.com/news/articleView.html?idxno=211139",
+    "https://www.aitimes.com/news/articleView.html?idxno=211138",
+    "https://www.aitimes.com/news/articleView.html?idxno=211137",
+    "https://discuss.pytorch.kr/t/vimax/10440",
+    "https://discuss.pytorch.kr/t/claude-anthropic/10447"
 ]
