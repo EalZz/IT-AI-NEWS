@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211029",
-    "https://www.aitimes.com/news/articleView.html?idxno=211040",
-    "https://www.aitimes.com/news/articleView.html?idxno=211023",
-    "https://www.aitimes.com/news/articleView.html?idxno=211051",
-    "https://www.aitimes.com/news/articleView.html?idxno=211034",
     "https://www.aitimes.com/news/articleView.html?idxno=211021",
     "https://www.aitimes.com/news/articleView.html?idxno=211035",
     "https://www.aitimes.com/news/articleView.html?idxno=211030",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211168",
     "https://www.aitimes.com/news/articleView.html?idxno=211165",
     "https://www.aitimes.com/news/articleView.html?idxno=211164",
-    "https://discuss.pytorch.kr/t/tiny-vllm-c-cuda-vllm-llm/10455"
+    "https://discuss.pytorch.kr/t/tiny-vllm-c-cuda-vllm-llm/10455",
+    "https://www.aitimes.com/news/articleView.html?idxno=211189",
+    "https://www.aitimes.com/news/articleView.html?idxno=211184",
+    "https://www.aitimes.com/news/articleView.html?idxno=211186",
+    "https://www.aitimes.com/news/articleView.html?idxno=211182",
+    "https://www.aitimes.com/news/articleView.html?idxno=211180"
 ]
