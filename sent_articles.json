@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211021",
-    "https://www.aitimes.com/news/articleView.html?idxno=211035",
     "https://www.aitimes.com/news/articleView.html?idxno=211030",
     "https://www.aitimes.com/news/articleView.html?idxno=211022",
     "https://www.aitimes.com/news/articleView.html?idxno=211060",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211184",
     "https://www.aitimes.com/news/articleView.html?idxno=211186",
     "https://www.aitimes.com/news/articleView.html?idxno=211182",
-    "https://www.aitimes.com/news/articleView.html?idxno=211180"
+    "https://www.aitimes.com/news/articleView.html?idxno=211180",
+    "https://www.aitimes.com/news/articleView.html?idxno=211199",
+    "https://discuss.pytorch.kr/t/pytorch-rag-llm/10475"
 ]
