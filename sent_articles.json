@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211008",
-    "https://www.aitimes.com/news/articleView.html?idxno=211032",
-    "https://discuss.pytorch.kr/t/gn-ai/10380",
-    "https://www.aitimes.com/news/articleView.html?idxno=211041",
-    "https://www.aitimes.com/news/articleView.html?idxno=211018",
-    "https://www.aitimes.com/news/articleView.html?idxno=211031",
     "https://www.aitimes.com/news/articleView.html?idxno=211029",
     "https://www.aitimes.com/news/articleView.html?idxno=211040",
     "https://www.aitimes.com/news/articleView.html?idxno=211023",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211158",
     "https://www.aitimes.com/news/articleView.html?idxno=211121",
     "https://discuss.pytorch.kr/t/agingbench-ai-feat-ut-austin/10437",
-    "https://www.aitimes.com/news/articleView.html?idxno=211150"
+    "https://www.aitimes.com/news/articleView.html?idxno=211150",
+    "https://www.aitimes.com/news/articleView.html?idxno=211175",
+    "https://www.aitimes.com/news/articleView.html?idxno=211174",
+    "https://www.aitimes.com/news/articleView.html?idxno=211168",
+    "https://www.aitimes.com/news/articleView.html?idxno=211165",
+    "https://www.aitimes.com/news/articleView.html?idxno=211164",
+    "https://discuss.pytorch.kr/t/tiny-vllm-c-cuda-vllm-llm/10455"
 ]
