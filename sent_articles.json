@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211100",
-    "https://www.aitimes.com/news/articleView.html?idxno=211117",
-    "https://www.aitimes.com/news/articleView.html?idxno=211086",
-    "https://discuss.pytorch.kr/t/slides-grab-html-claude-code-codex/10423",
-    "https://www.aitimes.com/news/articleView.html?idxno=211122",
     "https://www.aitimes.com/news/articleView.html?idxno=211124",
     "https://www.aitimes.com/news/articleView.html?idxno=211083",
     "https://www.aitimes.com/news/articleView.html?idxno=211087",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211171",
     "https://www.aitimes.com/news/articleView.html?idxno=211215",
     "https://discuss.pytorch.kr/t/adhd/10481",
-    "https://discuss.pytorch.kr/t/gn-the-dead-economy-theory/10454"
+    "https://discuss.pytorch.kr/t/gn-the-dead-economy-theory/10454",
+    "https://www.aitimes.com/news/articleView.html?idxno=211240",
+    "https://www.aitimes.com/news/articleView.html?idxno=211238",
+    "https://www.aitimes.com/news/articleView.html?idxno=211237",
+    "https://www.aitimes.com/news/articleView.html?idxno=211234",
+    "https://discuss.pytorch.kr/t/freellmapi-16-llm-1-7b-openai-api/10482"
 ]
