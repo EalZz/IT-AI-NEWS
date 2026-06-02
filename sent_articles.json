@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211087",
-    "https://www.aitimes.com/news/articleView.html?idxno=211107",
-    "https://www.aitimes.com/news/articleView.html?idxno=211109",
-    "https://www.aitimes.com/news/articleView.html?idxno=211113",
-    "https://www.aitimes.com/news/articleView.html?idxno=211125",
-    "https://discuss.pytorch.kr/t/claude-code-security-reviewer-claude/10441",
     "https://discuss.pytorch.kr/t/gn-anthropic-openai/10425",
     "https://www.aitimes.com/news/articleView.html?idxno=211118",
     "https://www.aitimes.com/news/articleView.html?idxno=211114",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211234",
     "https://discuss.pytorch.kr/t/freellmapi-16-llm-1-7b-openai-api/10482",
     "https://www.aitimes.com/news/articleView.html?idxno=211246",
-    "https://www.aitimes.com/news/articleView.html?idxno=211242"
+    "https://www.aitimes.com/news/articleView.html?idxno=211242",
+    "https://www.aitimes.com/news/articleView.html?idxno=211250",
+    "https://www.aitimes.com/news/articleView.html?idxno=211254",
+    "https://www.aitimes.com/news/articleView.html?idxno=211252",
+    "https://www.aitimes.com/news/articleView.html?idxno=211259",
+    "https://www.aitimes.com/news/articleView.html?idxno=211249",
+    "https://discuss.pytorch.kr/t/adaptive-chunking-rag/10478"
 ]
