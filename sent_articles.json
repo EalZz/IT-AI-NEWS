@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211222",
-    "https://www.aitimes.com/news/articleView.html?idxno=211214",
     "https://www.aitimes.com/news/articleView.html?idxno=211179",
     "https://www.aitimes.com/news/articleView.html?idxno=211203",
     "https://www.aitimes.com/news/articleView.html?idxno=211211",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211341",
     "https://www.aitimes.com/news/articleView.html?idxno=211337",
     "https://discuss.pytorch.kr/t/seedance-2-0-ai/10536",
-    "https://discuss.pytorch.kr/t/llm-subterranean-agent/10501"
+    "https://discuss.pytorch.kr/t/llm-subterranean-agent/10501",
+    "https://discuss.pytorch.kr/t/gn/10520",
+    "https://discuss.pytorch.kr/t/flash-attn-nn-transformer/10538"
 ]
