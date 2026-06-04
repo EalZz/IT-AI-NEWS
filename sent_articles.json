@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211179",
     "https://www.aitimes.com/news/articleView.html?idxno=211203",
     "https://www.aitimes.com/news/articleView.html?idxno=211211",
     "https://discuss.pytorch.kr/t/anthropic-ai-idea-scale-pdf-36p/10452",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/seedance-2-0-ai/10536",
     "https://discuss.pytorch.kr/t/llm-subterranean-agent/10501",
     "https://discuss.pytorch.kr/t/gn/10520",
-    "https://discuss.pytorch.kr/t/flash-attn-nn-transformer/10538"
+    "https://discuss.pytorch.kr/t/flash-attn-nn-transformer/10538",
+    "https://discuss.pytorch.kr/t/google-gemma-4-12b/10534"
 ]

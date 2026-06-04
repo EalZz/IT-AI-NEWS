@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/gn-products-are-out-brains-are-in/10358",
-    "https://discuss.pytorch.kr/t/presenton-gamma-decktopus-ai/10336",
-    "https://discuss.pytorch.kr/t/pyrefly-pytorch/10359",
-    "https://www.aitimes.com/news/articleView.html?idxno=210894",
-    "https://www.aitimes.com/news/articleView.html?idxno=210896",
-    "https://www.aitimes.com/news/articleView.html?idxno=210893",
-    "https://www.aitimes.com/news/articleView.html?idxno=210892",
-    "https://www.aitimes.com/news/articleView.html?idxno=210895",
-    "https://discuss.pytorch.kr/t/ai-hermes-agent-feat-blake-crosley/10335",
-    "https://discuss.pytorch.kr/t/llm-cpu-gpu/10381",
     "https://discuss.pytorch.kr/t/claude-autoresearch-claude-code/10356",
     "https://discuss.pytorch.kr/t/gn-ai-twelve-ways-to-be-wrong-about-ai-assisted-coding/10357",
     "https://discuss.pytorch.kr/t/chipstar-hip-cuda-spir-v-intel-arm-gpu/10349",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/microsoft-build-2026-ai-windows-feat-mxc/10517",
     "https://discuss.pytorch.kr/t/openclaw-moltbook-74/10513",
     "https://discuss.pytorch.kr/t/gn-llm/10470",
-    "https://discuss.pytorch.kr/t/jetbrains-ai-moe-mellum-2/10500"
+    "https://discuss.pytorch.kr/t/jetbrains-ai-moe-mellum-2/10500",
+    "https://www.aitimes.com/news/articleView.html?idxno=211327",
+    "https://www.aitimes.com/news/articleView.html?idxno=211335",
+    "https://www.aitimes.com/news/articleView.html?idxno=211352",
+    "https://www.aitimes.com/news/articleView.html?idxno=211341",
+    "https://www.aitimes.com/news/articleView.html?idxno=211337",
+    "https://discuss.pytorch.kr/t/google-gemma-4-12b/10534",
+    "https://discuss.pytorch.kr/t/gn/10520",
+    "https://discuss.pytorch.kr/t/flash-attn-nn-transformer/10538",
+    "https://discuss.pytorch.kr/t/seedance-2-0-ai/10536",
+    "https://discuss.pytorch.kr/t/llm-subterranean-agent/10501"
 ]
