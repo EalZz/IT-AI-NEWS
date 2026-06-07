@@ -1,6 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/openclaw-moltbook-74/10513",
-    "https://discuss.pytorch.kr/t/designlang-cli-ai/10494",
     "https://discuss.pytorch.kr/t/microsoft-build-2026-ai-windows-feat-mxc/10517",
     "https://discuss.pytorch.kr/t/pydantic-ai-harness-pydantic-ai/10479",
     "https://www.aitimes.com/news/articleView.html?idxno=211309",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211431",
     "https://www.aitimes.com/news/articleView.html?idxno=211368",
     "https://www.aitimes.com/news/articleView.html?idxno=211382",
-    "https://www.aitimes.com/news/articleView.html?idxno=211423"
+    "https://www.aitimes.com/news/articleView.html?idxno=211423",
+    "https://www.aitimes.com/news/articleView.html?idxno=211424",
+    "https://discuss.pytorch.kr/t/flux-2-klein-lora-rtx-4090-60/10566"
 ]
