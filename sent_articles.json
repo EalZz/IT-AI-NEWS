@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211341",
-    "https://www.aitimes.com/news/articleView.html?idxno=211337",
-    "https://discuss.pytorch.kr/t/seedance-2-0-ai/10536",
-    "https://discuss.pytorch.kr/t/llm-subterranean-agent/10501",
-    "https://discuss.pytorch.kr/t/gn/10520",
-    "https://discuss.pytorch.kr/t/flash-attn-nn-transformer/10538",
     "https://discuss.pytorch.kr/t/google-gemma-4-12b/10534",
     "https://www.aitimes.com/news/articleView.html?idxno=211314",
     "https://www.aitimes.com/news/articleView.html?idxno=211346",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211450",
     "https://www.aitimes.com/news/articleView.html?idxno=211472",
     "https://discuss.pytorch.kr/t/speaker-verification/10595",
-    "https://www.aitimes.com/news/articleView.html?idxno=211482"
+    "https://www.aitimes.com/news/articleView.html?idxno=211482",
+    "https://www.aitimes.com/news/articleView.html?idxno=211480",
+    "https://www.aitimes.com/news/articleView.html?idxno=211475",
+    "https://www.aitimes.com/news/articleView.html?idxno=211479",
+    "https://www.aitimes.com/news/articleView.html?idxno=211471",
+    "https://discuss.pytorch.kr/t/topic/10602",
+    "https://discuss.pytorch.kr/t/cursor-cookbook-cursor-sdk-cloud-agents/10364"
 ]
