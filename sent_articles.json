@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211393",
-    "https://www.aitimes.com/news/articleView.html?idxno=211384",
     "https://www.aitimes.com/news/articleView.html?idxno=211385",
     "https://www.aitimes.com/news/articleView.html?idxno=211388",
     "https://discuss.pytorch.kr/t/hyperframes-html-mp4-ai/10518",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211496",
     "https://discuss.pytorch.kr/t/finance-skills-ai/10590",
     "https://www.aitimes.com/news/articleView.html?idxno=211497",
-    "https://discuss.pytorch.kr/t/pytorch-compile-kernel-fusion/10608"
+    "https://discuss.pytorch.kr/t/pytorch-compile-kernel-fusion/10608",
+    "https://www.aitimes.com/news/articleView.html?idxno=211499",
+    "https://discuss.pytorch.kr/t/mai-thinking-1-rl-feat-microsoft-ai/10558"
 ]
