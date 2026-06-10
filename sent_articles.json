@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211450",
-    "https://www.aitimes.com/news/articleView.html?idxno=211472",
-    "https://discuss.pytorch.kr/t/speaker-verification/10595",
     "https://www.aitimes.com/news/articleView.html?idxno=211482",
     "https://www.aitimes.com/news/articleView.html?idxno=211480",
     "https://www.aitimes.com/news/articleView.html?idxno=211475",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211569",
     "https://www.aitimes.com/news/articleView.html?idxno=211566",
     "https://discuss.pytorch.kr/t/codex-openai-codex/10588",
-    "https://www.aitimes.com/news/articleView.html?idxno=211582"
+    "https://www.aitimes.com/news/articleView.html?idxno=211582",
+    "https://www.aitimes.com/news/articleView.html?idxno=211580",
+    "https://www.aitimes.com/news/articleView.html?idxno=211581",
+    "https://discuss.pytorch.kr/t/tsfm-calibration-feat-iclr-2026/10485"
 ]
