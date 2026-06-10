@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211382",
     "https://www.aitimes.com/news/articleView.html?idxno=211423",
     "https://www.aitimes.com/news/articleView.html?idxno=211424",
     "https://discuss.pytorch.kr/t/flux-2-klein-lora-rtx-4090-60/10566",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211536",
     "https://discuss.pytorch.kr/t/learn-harness-engineering-ai/10596",
     "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-mythos-5/10630",
-    "https://discuss.pytorch.kr/t/apple-core-ai-ai-pytorch-coreai-torch/10612"
+    "https://discuss.pytorch.kr/t/apple-core-ai-ai-pytorch-coreai-torch/10612",
+    "https://discuss.pytorch.kr/t/3-claude-code-1-guest-pass/10633"
 ]
