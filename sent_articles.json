@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211485",
-    "https://www.aitimes.com/news/articleView.html?idxno=211493",
-    "https://www.aitimes.com/news/articleView.html?idxno=211487",
     "https://www.aitimes.com/news/articleView.html?idxno=211478",
     "https://www.aitimes.com/news/articleView.html?idxno=211483",
     "https://www.aitimes.com/news/articleView.html?idxno=211484",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211577",
     "https://discuss.pytorch.kr/t/guizang-social-card-skill/10624",
     "https://discuss.pytorch.kr/t/vlm-kolongdoc/10655",
-    "https://discuss.pytorch.kr/t/apodex-1-0-sota-feat-qwen3-5/10642"
+    "https://discuss.pytorch.kr/t/apodex-1-0-sota-feat-qwen3-5/10642",
+    "https://www.aitimes.com/news/articleView.html?idxno=211605",
+    "https://discuss.pytorch.kr/t/open-code-review-llm-alibaba/10622",
+    "https://discuss.pytorch.kr/t/2026-samsung-collegiate-programming-challenge-ai-7-5/10656"
 ]
