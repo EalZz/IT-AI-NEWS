@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211510",
-    "https://www.aitimes.com/news/articleView.html?idxno=211519",
     "https://www.aitimes.com/news/articleView.html?idxno=211514",
     "https://www.aitimes.com/news/articleView.html?idxno=211524",
     "https://discuss.pytorch.kr/t/anthropic-claude-95/10604",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211629",
     "https://discuss.pytorch.kr/t/openwhip-claude-code/10584",
     "https://discuss.pytorch.kr/t/gemini-omni/10662",
-    "https://discuss.pytorch.kr/t/vllm-pytorch-aarch64/10670"
+    "https://discuss.pytorch.kr/t/vllm-pytorch-aarch64/10670",
+    "https://www.aitimes.com/news/articleView.html?idxno=211632",
+    "https://discuss.pytorch.kr/t/claude-code-harness-claude-code/10648"
 ]
