@@ -1,5 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/anthropic-claude-95/10604",
     "https://www.aitimes.com/news/articleView.html?idxno=211517",
     "https://www.aitimes.com/news/articleView.html?idxno=211528",
     "https://www.aitimes.com/news/articleView.html?idxno=211529",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211632",
     "https://discuss.pytorch.kr/t/claude-code-harness-claude-code/10648",
     "https://www.aitimes.com/news/articleView.html?idxno=211607",
-    "https://www.aitimes.com/news/articleView.html?idxno=211622"
+    "https://www.aitimes.com/news/articleView.html?idxno=211622",
+    "https://discuss.pytorch.kr/t/diffusiongemma-vllm-dllm/10653"
 ]
