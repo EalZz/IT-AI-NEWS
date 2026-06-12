@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211529",
-    "https://www.aitimes.com/news/articleView.html?idxno=211515",
-    "https://www.aitimes.com/news/articleView.html?idxno=211530",
-    "https://www.aitimes.com/news/articleView.html?idxno=211525",
-    "https://www.aitimes.com/news/articleView.html?idxno=211532",
-    "https://www.aitimes.com/news/articleView.html?idxno=211521",
     "https://discuss.pytorch.kr/t/gn-ai/10605",
     "https://www.aitimes.com/news/articleView.html?idxno=211511",
     "https://www.aitimes.com/news/articleView.html?idxno=211506",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211622",
     "https://discuss.pytorch.kr/t/diffusiongemma-vllm-dllm/10653",
     "https://discuss.pytorch.kr/t/torchcomms-pytorch-api/10676",
-    "https://discuss.pytorch.kr/t/claude-code/10678"
+    "https://discuss.pytorch.kr/t/claude-code/10678",
+    "https://www.aitimes.com/news/articleView.html?idxno=211650",
+    "https://www.aitimes.com/news/articleView.html?idxno=211640",
+    "https://www.aitimes.com/news/articleView.html?idxno=211639",
+    "https://www.aitimes.com/news/articleView.html?idxno=211633",
+    "https://www.aitimes.com/news/articleView.html?idxno=211636",
+    "https://discuss.pytorch.kr/t/agent-sprite-forge-2d-codex/10649"
 ]
