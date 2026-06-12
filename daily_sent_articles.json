@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/2026-ai-6-29/10476",
-    "https://www.aitimes.com/news/articleView.html?idxno=211271",
-    "https://www.aitimes.com/news/articleView.html?idxno=211264",
-    "https://www.aitimes.com/news/articleView.html?idxno=211248",
-    "https://www.aitimes.com/news/articleView.html?idxno=211232",
-    "https://www.aitimes.com/news/articleView.html?idxno=211258",
-    "https://discuss.pytorch.kr/t/nvidia-cosmos-3-ai/10497",
-    "https://discuss.pytorch.kr/t/torchlean-lean-4/10421",
-    "https://discuss.pytorch.kr/t/adaptive-chunking-rag/10478",
-    "https://discuss.pytorch.kr/t/freellmapi-16-llm-1-7b-openai-api/10482",
     "https://discuss.pytorch.kr/t/adhd/10481",
     "https://www.aitimes.com/news/articleView.html?idxno=211290",
     "https://www.aitimes.com/news/articleView.html?idxno=211289",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/vllm-pytorch-aarch64/10670",
     "https://discuss.pytorch.kr/t/gemini-omni/10662",
     "https://discuss.pytorch.kr/t/openwhip-claude-code/10584",
-    "https://discuss.pytorch.kr/t/gn-ai-how-to-build-an-ai-native-startup/10607"
+    "https://discuss.pytorch.kr/t/gn-ai-how-to-build-an-ai-native-startup/10607",
+    "https://www.aitimes.com/news/articleView.html?idxno=211685",
+    "https://www.aitimes.com/news/articleView.html?idxno=211674",
+    "https://www.aitimes.com/news/articleView.html?idxno=211670",
+    "https://www.aitimes.com/news/articleView.html?idxno=211669",
+    "https://www.aitimes.com/news/articleView.html?idxno=211679",
+    "https://discuss.pytorch.kr/t/skills-for-real-engineers-matt-pocock-claude-code/10188",
+    "https://discuss.pytorch.kr/t/frontiercode-feat-cognition/10623",
+    "https://discuss.pytorch.kr/t/cuda-oxide-rust-cuda-gpu-ptx-nvidia/10646",
+    "https://discuss.pytorch.kr/t/awesome-persona-skills-ai/10647",
+    "https://discuss.pytorch.kr/t/codex/10682"
 ]
