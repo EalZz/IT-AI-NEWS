@@ -1,8 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/open-agent-sdk-cli-sdk/10587",
-    "https://www.aitimes.com/news/articleView.html?idxno=211552",
-    "https://www.aitimes.com/news/articleView.html?idxno=211542",
-    "https://www.aitimes.com/news/articleView.html?idxno=211553",
     "https://www.aitimes.com/news/articleView.html?idxno=211549",
     "https://www.aitimes.com/news/articleView.html?idxno=211548",
     "https://www.aitimes.com/news/articleView.html?idxno=211531",
@@ -98,5 +94,9 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211671",
     "https://www.aitimes.com/news/articleView.html?idxno=211662",
     "https://www.aitimes.com/news/articleView.html?idxno=211672",
-    "https://discuss.pytorch.kr/t/cuda-oxide-rust-cuda-gpu-ptx-nvidia/10646"
+    "https://discuss.pytorch.kr/t/cuda-oxide-rust-cuda-gpu-ptx-nvidia/10646",
+    "https://www.aitimes.com/news/articleView.html?idxno=211679",
+    "https://www.aitimes.com/news/articleView.html?idxno=211667",
+    "https://www.aitimes.com/news/articleView.html?idxno=211678",
+    "https://discuss.pytorch.kr/t/frontiercode-feat-cognition/10623"
 ]
