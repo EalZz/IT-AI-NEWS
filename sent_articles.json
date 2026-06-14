@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211602",
     "https://www.aitimes.com/news/articleView.html?idxno=211604",
     "https://www.aitimes.com/news/articleView.html?idxno=211606",
     "https://www.aitimes.com/news/articleView.html?idxno=211621",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/helion-vllm/10710",
     "https://discuss.pytorch.kr/t/2026-06-08-14-ai-ml/10709",
     "https://discuss.pytorch.kr/t/pytorch-dataset-ingestion-overcoming-http-429-blocks-in-academic-data-pipelines/10713",
-    "https://discuss.pytorch.kr/t/pytorch-dataloader-pipeline-mein-academic-data-fetching-aur-429-blockage-ka-solution/10712"
+    "https://discuss.pytorch.kr/t/pytorch-dataloader-pipeline-mein-academic-data-fetching-aur-429-blockage-ka-solution/10712",
+    "https://discuss.pytorch.kr/t/open-knowledge-format-okf-google-ai-feat-llm-wiki/10701"
 ]
