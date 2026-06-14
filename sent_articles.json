@@ -1,6 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/vlm-kolongdoc/10655",
-    "https://discuss.pytorch.kr/t/apodex-1-0-sota-feat-qwen3-5/10642",
     "https://www.aitimes.com/news/articleView.html?idxno=211605",
     "https://discuss.pytorch.kr/t/open-code-review-llm-alibaba/10622",
     "https://discuss.pytorch.kr/t/2026-samsung-collegiate-programming-challenge-ai-7-5/10656",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211704",
     "https://www.aitimes.com/news/articleView.html?idxno=211646",
     "https://www.aitimes.com/news/articleView.html?idxno=211663",
-    "https://www.aitimes.com/news/articleView.html?idxno=211658"
+    "https://www.aitimes.com/news/articleView.html?idxno=211658",
+    "https://www.aitimes.com/news/articleView.html?idxno=211705",
+    "https://discuss.pytorch.kr/t/deepseek-gui-roi-deepseek-ai/10663"
 ]
