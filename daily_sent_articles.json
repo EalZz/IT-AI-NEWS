@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/gn-llm/10470",
-    "https://discuss.pytorch.kr/t/jetbrains-ai-moe-mellum-2/10500",
-    "https://www.aitimes.com/news/articleView.html?idxno=211327",
-    "https://www.aitimes.com/news/articleView.html?idxno=211335",
-    "https://www.aitimes.com/news/articleView.html?idxno=211352",
-    "https://www.aitimes.com/news/articleView.html?idxno=211341",
-    "https://www.aitimes.com/news/articleView.html?idxno=211337",
-    "https://discuss.pytorch.kr/t/google-gemma-4-12b/10534",
-    "https://discuss.pytorch.kr/t/gn/10520",
-    "https://discuss.pytorch.kr/t/flash-attn-nn-transformer/10538",
     "https://discuss.pytorch.kr/t/seedance-2-0-ai/10536",
     "https://discuss.pytorch.kr/t/llm-subterranean-agent/10501",
     "https://www.aitimes.com/news/articleView.html?idxno=211404",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/gn-ai/10684",
     "https://discuss.pytorch.kr/t/spri-ai-brief-2026-6-gpt-5-5-ai-pdf-28p/10681",
     "https://discuss.pytorch.kr/t/anthropic-fable-5-mythos-5/10691",
-    "https://discuss.pytorch.kr/t/gn/10669"
+    "https://discuss.pytorch.kr/t/gn/10669",
+    "https://www.aitimes.com/news/articleView.html?idxno=211535",
+    "https://www.aitimes.com/news/articleView.html?idxno=211709",
+    "https://www.aitimes.com/news/articleView.html?idxno=211703",
+    "https://www.aitimes.com/news/articleView.html?idxno=211706",
+    "https://www.aitimes.com/news/articleView.html?idxno=211697",
+    "https://discuss.pytorch.kr/t/2026-06-08-14-ai-ml/10709",
+    "https://discuss.pytorch.kr/t/pytorch-dataset-ingestion-overcoming-http-429-blocks-in-academic-data-pipelines/10713",
+    "https://discuss.pytorch.kr/t/pytorch-dataloader-pipeline-mein-academic-data-fetching-aur-429-blockage-ka-solution/10712",
+    "https://discuss.pytorch.kr/t/helion-vllm/10710",
+    "https://discuss.pytorch.kr/t/geoflow-geo/10696"
 ]
