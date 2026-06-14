@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211620",
     "https://www.aitimes.com/news/articleView.html?idxno=211616",
     "https://www.aitimes.com/news/articleView.html?idxno=211619",
     "https://www.aitimes.com/news/articleView.html?idxno=211612",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/geoflow-geo/10696",
     "https://www.aitimes.com/news/articleView.html?idxno=211535",
     "https://www.aitimes.com/news/articleView.html?idxno=211709",
-    "https://www.aitimes.com/news/articleView.html?idxno=211703"
+    "https://www.aitimes.com/news/articleView.html?idxno=211703",
+    "https://discuss.pytorch.kr/t/helion-vllm/10710"
 ]
