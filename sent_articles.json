@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211630",
-    "https://www.aitimes.com/news/articleView.html?idxno=211628",
-    "https://www.aitimes.com/news/articleView.html?idxno=211629",
-    "https://discuss.pytorch.kr/t/openwhip-claude-code/10584",
-    "https://discuss.pytorch.kr/t/gemini-omni/10662",
     "https://discuss.pytorch.kr/t/vllm-pytorch-aarch64/10670",
     "https://www.aitimes.com/news/articleView.html?idxno=211632",
     "https://discuss.pytorch.kr/t/claude-code-harness-claude-code/10648",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211712",
     "https://www.aitimes.com/news/articleView.html?idxno=211717",
     "https://discuss.pytorch.kr/t/openless-ai/10707",
-    "https://discuss.pytorch.kr/t/2026-ai/10723"
+    "https://discuss.pytorch.kr/t/2026-ai/10723",
+    "https://www.aitimes.com/news/articleView.html?idxno=211715",
+    "https://www.aitimes.com/news/articleView.html?idxno=211731",
+    "https://www.aitimes.com/news/articleView.html?idxno=211713",
+    "https://www.aitimes.com/news/articleView.html?idxno=211716",
+    "https://www.aitimes.com/news/articleView.html?idxno=211719"
 ]
