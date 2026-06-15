@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211647",
-    "https://www.aitimes.com/news/articleView.html?idxno=211644",
     "https://www.aitimes.com/news/articleView.html?idxno=211642",
     "https://www.aitimes.com/news/articleView.html?idxno=211655",
     "https://www.aitimes.com/news/articleView.html?idxno=211665",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/ai-marketing-skills-claude-code/10698",
     "https://www.aitimes.com/news/articleView.html?idxno=211728",
     "https://www.aitimes.com/news/articleView.html?idxno=211745",
-    "https://www.aitimes.com/news/articleView.html?idxno=211742"
+    "https://www.aitimes.com/news/articleView.html?idxno=211742",
+    "https://www.aitimes.com/news/articleView.html?idxno=211743",
+    "https://discuss.pytorch.kr/t/memory-caching-mc-rnn-feat-google/10672"
 ]
