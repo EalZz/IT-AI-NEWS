@@ -1,8 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211719",
-    "https://www.aitimes.com/news/articleView.html?idxno=211722",
-    "https://www.aitimes.com/news/articleView.html?idxno=211725",
-    "https://www.aitimes.com/news/articleView.html?idxno=211718",
     "https://www.aitimes.com/news/articleView.html?idxno=211738",
     "https://www.aitimes.com/news/articleView.html?idxno=211739",
     "https://www.aitimes.com/news/articleView.html?idxno=211737",
@@ -98,5 +94,9 @@
     "https://discuss.pytorch.kr/t/llm-wiki-feat-karpathy-llm-wiki/10139",
     "https://www.aitimes.com/news/articleView.html?idxno=211816",
     "https://discuss.pytorch.kr/t/openhuman-obsidian-ai/10383",
-    "https://discuss.pytorch.kr/t/cursor-origin-git-hosting/10784"
+    "https://discuss.pytorch.kr/t/cursor-origin-git-hosting/10784",
+    "https://www.aitimes.com/news/articleView.html?idxno=211840",
+    "https://www.aitimes.com/news/articleView.html?idxno=211837",
+    "https://www.aitimes.com/news/articleView.html?idxno=211836",
+    "https://discuss.pytorch.kr/t/z-ai-long-horizon-1m-glm-5-2/10781"
 ]
