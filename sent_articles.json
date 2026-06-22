@@ -1,6 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/504-b200-gpu-llm-feat-lablup/10792",
-    "https://www.aitimes.com/news/articleView.html?idxno=211870",
     "https://www.aitimes.com/news/articleView.html?idxno=211867",
     "https://www.aitimes.com/news/articleView.html?idxno=211872",
     "https://www.aitimes.com/news/articleView.html?idxno=211864",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211947",
     "https://www.aitimes.com/news/articleView.html?idxno=211946",
     "https://discuss.pytorch.kr/t/2026-06-15-21-ai-ml/10844",
-    "https://discuss.pytorch.kr/t/llm-wiki-karpathy/10843"
+    "https://discuss.pytorch.kr/t/llm-wiki-karpathy/10843",
+    "https://discuss.pytorch.kr/t/icml-2026-friendliai-networking-night/10855",
+    "https://discuss.pytorch.kr/t/agents-best-practices-codex-claude-code/10842"
 ]
