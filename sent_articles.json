@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211877",
-    "https://www.aitimes.com/news/articleView.html?idxno=211880",
-    "https://www.aitimes.com/news/articleView.html?idxno=211857",
     "https://www.aitimes.com/news/articleView.html?idxno=211862",
     "https://www.aitimes.com/news/articleView.html?idxno=211871",
     "https://www.aitimes.com/news/articleView.html?idxno=211874",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211977",
     "https://www.aitimes.com/news/articleView.html?idxno=211966",
     "https://www.aitimes.com/news/articleView.html?idxno=211975",
-    "https://www.aitimes.com/news/articleView.html?idxno=211978"
+    "https://www.aitimes.com/news/articleView.html?idxno=211978",
+    "https://www.aitimes.com/news/articleView.html?idxno=211983",
+    "https://discuss.pytorch.kr/t/diffusion-transformer/10863",
+    "https://discuss.pytorch.kr/t/sakana-ai-llm-fugu-fugu-ultra/10858"
 ]
