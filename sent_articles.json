@@ -1,8 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211932",
-    "https://www.aitimes.com/news/articleView.html?idxno=211930",
-    "https://www.aitimes.com/news/articleView.html?idxno=211938",
-    "https://discuss.pytorch.kr/t/d-3-ai-2026-5-outta-ai/10821",
     "https://www.aitimes.com/news/articleView.html?idxno=211936",
     "https://www.aitimes.com/news/articleView.html?idxno=211941",
     "https://www.aitimes.com/news/articleView.html?idxno=211942",
@@ -98,5 +94,9 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212024",
     "https://www.aitimes.com/news/articleView.html?idxno=212030",
     "https://www.aitimes.com/news/articleView.html?idxno=212023",
-    "https://www.aitimes.com/news/articleView.html?idxno=212027"
+    "https://www.aitimes.com/news/articleView.html?idxno=212027",
+    "https://www.aitimes.com/news/articleView.html?idxno=212011",
+    "https://www.aitimes.com/news/articleView.html?idxno=212016",
+    "https://discuss.pytorch.kr/t/gn-claude-code-ai/10845",
+    "https://discuss.pytorch.kr/t/simplifying-academic-data-ingestion-clean-text-extraction-for-pytorch-rag-pipelines/10889"
 ]
