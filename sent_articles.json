@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211909",
     "https://www.aitimes.com/news/articleView.html?idxno=211898",
     "https://www.aitimes.com/news/articleView.html?idxno=211905",
     "https://discuss.pytorch.kr/t/qwen-robotworld-feat-qwen-team/10793",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=211993",
     "https://discuss.pytorch.kr/t/watercrawl-llm/10854",
     "https://discuss.pytorch.kr/t/topic/10878",
-    "https://discuss.pytorch.kr/t/cadam-3d-cad-text-to-cad/10814"
+    "https://discuss.pytorch.kr/t/cadam-3d-cad-text-to-cad/10814",
+    "https://discuss.pytorch.kr/t/agentic-resource-discovery-ard-google-microsoft/10847"
 ]
