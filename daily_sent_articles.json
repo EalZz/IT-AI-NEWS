@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/codex/10682",
-    "https://www.aitimes.com/news/articleView.html?idxno=211701",
-    "https://www.aitimes.com/news/articleView.html?idxno=211700",
-    "https://www.aitimes.com/news/articleView.html?idxno=211699",
-    "https://www.aitimes.com/news/articleView.html?idxno=211698",
-    "https://www.aitimes.com/news/articleView.html?idxno=211696",
-    "https://discuss.pytorch.kr/t/gn-ai/10684",
-    "https://discuss.pytorch.kr/t/spri-ai-brief-2026-6-gpt-5-5-ai-pdf-28p/10681",
-    "https://discuss.pytorch.kr/t/anthropic-fable-5-mythos-5/10691",
-    "https://discuss.pytorch.kr/t/gn/10669",
     "https://www.aitimes.com/news/articleView.html?idxno=211535",
     "https://www.aitimes.com/news/articleView.html?idxno=211709",
     "https://www.aitimes.com/news/articleView.html?idxno=211703",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/google-earth-ai/10766",
     "https://discuss.pytorch.kr/t/text-to-lottie-lottie/10828",
     "https://discuss.pytorch.kr/t/moss-tts-local-transformer-v1-5-48khz-tts-feat-sglang-omni/10836",
-    "https://discuss.pytorch.kr/t/icml-liner-x-vessl-ai-happy-hour/10865"
+    "https://discuss.pytorch.kr/t/icml-liner-x-vessl-ai-happy-hour/10865",
+    "https://www.aitimes.com/news/articleView.html?idxno=212009",
+    "https://www.aitimes.com/news/articleView.html?idxno=212025",
+    "https://www.aitimes.com/news/articleView.html?idxno=212031",
+    "https://www.aitimes.com/news/articleView.html?idxno=212011",
+    "https://www.aitimes.com/news/articleView.html?idxno=212016",
+    "https://discuss.pytorch.kr/t/pixelrag-rag/10870",
+    "https://discuss.pytorch.kr/t/linkedin-pytorch/10896",
+    "https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832",
+    "https://discuss.pytorch.kr/t/gn-claude-code-ai/10845",
+    "https://discuss.pytorch.kr/t/simplifying-academic-data-ingestion-clean-text-extraction-for-pytorch-rag-pipelines/10889"
 ]

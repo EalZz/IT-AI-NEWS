@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211941",
-    "https://www.aitimes.com/news/articleView.html?idxno=211942",
-    "https://www.aitimes.com/news/articleView.html?idxno=211931",
-    "https://discuss.pytorch.kr/t/liteparse-pdf/10524",
-    "https://www.aitimes.com/news/articleView.html?idxno=211945",
     "https://discuss.pytorch.kr/t/gpt-5-6-gpt-5-6-pro/10827",
     "https://www.aitimes.com/news/articleView.html?idxno=211798",
     "https://discuss.pytorch.kr/t/autosp/10839",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212016",
     "https://discuss.pytorch.kr/t/gn-claude-code-ai/10845",
     "https://discuss.pytorch.kr/t/simplifying-academic-data-ingestion-clean-text-extraction-for-pytorch-rag-pipelines/10889",
-    "https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832"
+    "https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832",
+    "https://www.aitimes.com/news/articleView.html?idxno=212009",
+    "https://www.aitimes.com/news/articleView.html?idxno=212025",
+    "https://www.aitimes.com/news/articleView.html?idxno=212031",
+    "https://discuss.pytorch.kr/t/pixelrag-rag/10870",
+    "https://discuss.pytorch.kr/t/linkedin-pytorch/10896"
 ]
