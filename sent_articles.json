@@ -1,6 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/liquid-ai-350m-lfm2-5-lfm2-5-retrievers/10808",
-    "https://www.aitimes.com/news/articleView.html?idxno=211948",
     "https://www.aitimes.com/news/articleView.html?idxno=211947",
     "https://www.aitimes.com/news/articleView.html?idxno=211946",
     "https://discuss.pytorch.kr/t/2026-06-15-21-ai-ml/10844",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212053",
     "https://www.aitimes.com/news/articleView.html?idxno=212051",
     "https://www.aitimes.com/news/articleView.html?idxno=212056",
-    "https://discuss.pytorch.kr/t/awesome-autoresearch/10826"
+    "https://discuss.pytorch.kr/t/awesome-autoresearch/10826",
+    "https://discuss.pytorch.kr/t/awesome-harness-engineering-ai/10556",
+    "https://discuss.pytorch.kr/t/llm-graph-builder-llm-neo4j/10812"
 ]
