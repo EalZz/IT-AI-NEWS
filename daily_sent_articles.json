@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=211535",
-    "https://www.aitimes.com/news/articleView.html?idxno=211709",
-    "https://www.aitimes.com/news/articleView.html?idxno=211703",
-    "https://www.aitimes.com/news/articleView.html?idxno=211706",
-    "https://www.aitimes.com/news/articleView.html?idxno=211697",
-    "https://discuss.pytorch.kr/t/2026-06-08-14-ai-ml/10709",
-    "https://discuss.pytorch.kr/t/pytorch-dataset-ingestion-overcoming-http-429-blocks-in-academic-data-pipelines/10713",
-    "https://discuss.pytorch.kr/t/pytorch-dataloader-pipeline-mein-academic-data-fetching-aur-429-blockage-ka-solution/10712",
-    "https://discuss.pytorch.kr/t/helion-vllm/10710",
-    "https://discuss.pytorch.kr/t/geoflow-geo/10696",
     "https://www.aitimes.com/news/articleView.html?idxno=211728",
     "https://www.aitimes.com/news/articleView.html?idxno=211745",
     "https://www.aitimes.com/news/articleView.html?idxno=211742",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/linkedin-pytorch/10896",
     "https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832",
     "https://discuss.pytorch.kr/t/gn-claude-code-ai/10845",
-    "https://discuss.pytorch.kr/t/simplifying-academic-data-ingestion-clean-text-extraction-for-pytorch-rag-pipelines/10889"
+    "https://discuss.pytorch.kr/t/simplifying-academic-data-ingestion-clean-text-extraction-for-pytorch-rag-pipelines/10889",
+    "https://www.aitimes.com/news/articleView.html?idxno=212074",
+    "https://www.aitimes.com/news/articleView.html?idxno=212070",
+    "https://www.aitimes.com/news/articleView.html?idxno=212072",
+    "https://www.aitimes.com/news/articleView.html?idxno=212068",
+    "https://www.aitimes.com/news/articleView.html?idxno=212069",
+    "https://discuss.pytorch.kr/t/code-world-model-preparedness-report-meta-32b/10105",
+    "https://discuss.pytorch.kr/t/agentic-stack/10829",
+    "https://discuss.pytorch.kr/t/tilekernels-deepseek-ai-llm-tilelang-gpu/9878",
+    "https://discuss.pytorch.kr/t/cabinet-ai-ai-first/10753",
+    "https://discuss.pytorch.kr/t/1code-claude-code-codex/10811"
 ]
