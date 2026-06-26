@@ -1,7 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/simplifying-academic-data-ingestion-clean-text-extraction-for-pytorch-rag-pipelines/10889",
-    "https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832",
-    "https://www.aitimes.com/news/articleView.html?idxno=212009",
     "https://www.aitimes.com/news/articleView.html?idxno=212025",
     "https://www.aitimes.com/news/articleView.html?idxno=212031",
     "https://discuss.pytorch.kr/t/pixelrag-rag/10870",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212164",
     "https://discuss.pytorch.kr/t/builderio-skills/10894",
     "https://www.aitimes.com/news/articleView.html?idxno=212169",
-    "https://www.aitimes.com/news/articleView.html?idxno=212167"
+    "https://www.aitimes.com/news/articleView.html?idxno=212167",
+    "https://www.aitimes.com/news/articleView.html?idxno=212173",
+    "https://www.aitimes.com/news/articleView.html?idxno=212141",
+    "https://discuss.pytorch.kr/t/agentic-ai-prompt-research-ai/10728"
 ]
