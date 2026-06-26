@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212014",
     "https://www.aitimes.com/news/articleView.html?idxno=212015",
     "https://www.aitimes.com/news/articleView.html?idxno=212004",
     "https://www.aitimes.com/news/articleView.html?idxno=212017",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212124",
     "https://www.aitimes.com/news/articleView.html?idxno=212122",
     "https://www.aitimes.com/news/articleView.html?idxno=212123",
-    "https://www.aitimes.com/news/articleView.html?idxno=212126"
+    "https://www.aitimes.com/news/articleView.html?idxno=212126",
+    "https://discuss.pytorch.kr/t/agent-as-a-router-llm/10924"
 ]
