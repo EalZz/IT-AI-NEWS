@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212142",
-    "https://discuss.pytorch.kr/t/hyper-extract-llm/10895",
     "https://www.aitimes.com/news/articleView.html?idxno=212148",
     "https://www.aitimes.com/news/articleView.html?idxno=212144",
     "https://www.aitimes.com/news/articleView.html?idxno=212147",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212236",
     "https://www.aitimes.com/news/articleView.html?idxno=212229",
     "https://discuss.pytorch.kr/t/mercury-agent-ai/10695",
-    "https://discuss.pytorch.kr/t/codebase-memory-mcp-mcp/10940"
+    "https://discuss.pytorch.kr/t/codebase-memory-mcp-mcp/10940",
+    "https://discuss.pytorch.kr/t/supermemory-ai/10661",
+    "https://discuss.pytorch.kr/t/tokenspeed-kernel-llm-api/10995"
 ]
