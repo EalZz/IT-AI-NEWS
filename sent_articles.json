@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212121",
-    "https://discuss.pytorch.kr/t/improve-audit/10892",
-    "https://www.aitimes.com/news/articleView.html?idxno=212092",
-    "https://www.aitimes.com/news/articleView.html?idxno=212117",
-    "https://www.aitimes.com/news/articleView.html?idxno=212124",
-    "https://www.aitimes.com/news/articleView.html?idxno=212122",
     "https://www.aitimes.com/news/articleView.html?idxno=212123",
     "https://www.aitimes.com/news/articleView.html?idxno=212126",
     "https://discuss.pytorch.kr/t/agent-as-a-router-llm/10924",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212222",
     "https://www.aitimes.com/news/articleView.html?idxno=212235",
     "https://www.aitimes.com/news/articleView.html?idxno=212234",
-    "https://www.aitimes.com/news/articleView.html?idxno=212226"
+    "https://www.aitimes.com/news/articleView.html?idxno=212226",
+    "https://www.aitimes.com/news/articleView.html?idxno=212242",
+    "https://www.aitimes.com/news/articleView.html?idxno=212219",
+    "https://www.aitimes.com/news/articleView.html?idxno=212240",
+    "https://www.aitimes.com/news/articleView.html?idxno=212238",
+    "https://www.aitimes.com/news/articleView.html?idxno=212237",
+    "https://discuss.pytorch.kr/t/code-as-agent-harness-ai/10920"
 ]
