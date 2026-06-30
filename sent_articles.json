@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212147",
     "https://discuss.pytorch.kr/t/cc-skills-golang-ai-go/10833",
     "https://www.aitimes.com/news/articleView.html?idxno=212153",
     "https://www.aitimes.com/news/articleView.html?idxno=212160",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/supermemory-ai/10661",
     "https://discuss.pytorch.kr/t/tokenspeed-kernel-llm-api/10995",
     "https://www.aitimes.com/news/articleView.html?idxno=212217",
-    "https://www.aitimes.com/news/articleView.html?idxno=212248"
+    "https://www.aitimes.com/news/articleView.html?idxno=212248",
+    "https://discuss.pytorch.kr/t/autotts-test-time-scaling-llm/10487"
 ]
