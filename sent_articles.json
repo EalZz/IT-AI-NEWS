@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212199",
-    "https://www.aitimes.com/news/articleView.html?idxno=212191",
-    "https://www.aitimes.com/news/articleView.html?idxno=212195",
-    "https://www.aitimes.com/news/articleView.html?idxno=212192",
-    "https://discuss.pytorch.kr/t/ornith-1-0-llm-feat-deepreinforce/10951",
-    "https://www.aitimes.com/news/articleView.html?idxno=212202",
     "https://discuss.pytorch.kr/t/llm-wiki-newsroom-claude-code/10966",
     "https://discuss.pytorch.kr/t/openmontage-ai/10938",
     "https://www.aitimes.com/news/articleView.html?idxno=212196",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212295",
     "https://www.aitimes.com/news/articleView.html?idxno=212297",
     "https://www.aitimes.com/news/articleView.html?idxno=212294",
-    "https://discuss.pytorch.kr/t/vllm-semantic-router-api-feat-looper/11005"
+    "https://discuss.pytorch.kr/t/vllm-semantic-router-api-feat-looper/11005",
+    "https://www.aitimes.com/news/articleView.html?idxno=212309",
+    "https://www.aitimes.com/news/articleView.html?idxno=212311",
+    "https://www.aitimes.com/news/articleView.html?idxno=212303",
+    "https://www.aitimes.com/news/articleView.html?idxno=212310",
+    "https://www.aitimes.com/news/articleView.html?idxno=212302",
+    "https://discuss.pytorch.kr/t/llm-rag-google-scholar-api/11023"
 ]
