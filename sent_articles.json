@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212193",
     "https://www.aitimes.com/news/articleView.html?idxno=212159",
     "https://www.aitimes.com/news/articleView.html?idxno=212162",
     "https://www.aitimes.com/news/articleView.html?idxno=212149",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212264",
     "https://www.aitimes.com/news/articleView.html?idxno=212284",
     "https://discuss.pytorch.kr/t/anthropic-opus-sonnet-claude-sonnet-5/11015",
-    "https://discuss.pytorch.kr/t/anthropic-slack-claude-claude-tag/11009"
+    "https://discuss.pytorch.kr/t/anthropic-slack-claude-claude-tag/11009",
+    "https://discuss.pytorch.kr/t/anthropic-fable-mythos/11021"
 ]
