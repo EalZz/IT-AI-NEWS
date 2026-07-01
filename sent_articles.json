@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212230",
-    "https://www.aitimes.com/news/articleView.html?idxno=212220",
-    "https://www.aitimes.com/news/articleView.html?idxno=212227",
-    "https://www.aitimes.com/news/articleView.html?idxno=212218",
-    "https://www.aitimes.com/news/articleView.html?idxno=212231",
     "https://www.aitimes.com/news/articleView.html?idxno=212222",
     "https://www.aitimes.com/news/articleView.html?idxno=212235",
     "https://www.aitimes.com/news/articleView.html?idxno=212234",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212323",
     "https://www.aitimes.com/news/articleView.html?idxno=212330",
     "https://www.aitimes.com/news/articleView.html?idxno=212331",
-    "https://www.aitimes.com/news/articleView.html?idxno=212324"
+    "https://www.aitimes.com/news/articleView.html?idxno=212324",
+    "https://www.aitimes.com/news/articleView.html?idxno=212307",
+    "https://www.aitimes.com/news/articleView.html?idxno=212326",
+    "https://www.aitimes.com/news/articleView.html?idxno=212332",
+    "https://www.aitimes.com/news/articleView.html?idxno=212328",
+    "https://discuss.pytorch.kr/t/gn-cuda/11006"
 ]
