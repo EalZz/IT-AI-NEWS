@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212223",
-    "https://www.aitimes.com/news/articleView.html?idxno=212236",
     "https://www.aitimes.com/news/articleView.html?idxno=212229",
     "https://discuss.pytorch.kr/t/mercury-agent-ai/10695",
     "https://discuss.pytorch.kr/t/codebase-memory-mcp-mcp/10940",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/feedback-distillation-llm-lean-feat-meta-fair/10484",
     "https://www.aitimes.com/news/articleView.html?idxno=212342",
     "https://www.aitimes.com/news/articleView.html?idxno=212346",
-    "https://www.aitimes.com/news/articleView.html?idxno=212339"
+    "https://www.aitimes.com/news/articleView.html?idxno=212339",
+    "https://discuss.pytorch.kr/t/gn-atlassian-design-md/11019",
+    "https://discuss.pytorch.kr/t/sw/11057"
 ]
