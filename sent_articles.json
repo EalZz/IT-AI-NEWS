@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212242",
-    "https://www.aitimes.com/news/articleView.html?idxno=212219",
-    "https://www.aitimes.com/news/articleView.html?idxno=212240",
-    "https://www.aitimes.com/news/articleView.html?idxno=212238",
-    "https://www.aitimes.com/news/articleView.html?idxno=212237",
-    "https://discuss.pytorch.kr/t/code-as-agent-harness-ai/10920",
     "https://www.aitimes.com/news/articleView.html?idxno=212241",
     "https://www.aitimes.com/news/articleView.html?idxno=212244",
     "https://www.aitimes.com/news/articleView.html?idxno=212243",
@@ -98,5 +92,11 @@
     "https://discuss.pytorch.kr/t/eve-ai-feat-vercel/10993",
     "https://discuss.pytorch.kr/t/openai-mcp-secure-mcp-tunnel/11016",
     "https://www.aitimes.com/news/articleView.html?idxno=212308",
-    "https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994"
+    "https://discuss.pytorch.kr/t/devspace-chatgpt-mcp/10994",
+    "https://www.aitimes.com/news/articleView.html?idxno=212337",
+    "https://www.aitimes.com/news/articleView.html?idxno=212334",
+    "https://www.aitimes.com/news/articleView.html?idxno=212336",
+    "https://www.aitimes.com/news/articleView.html?idxno=212343",
+    "https://www.aitimes.com/news/articleView.html?idxno=212349",
+    "https://discuss.pytorch.kr/t/feedback-distillation-llm-lean-feat-meta-fair/10484"
 ]
