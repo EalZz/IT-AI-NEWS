@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/icml-liner-x-vessl-ai-happy-hour/10865",
-    "https://www.aitimes.com/news/articleView.html?idxno=212009",
-    "https://www.aitimes.com/news/articleView.html?idxno=212025",
-    "https://www.aitimes.com/news/articleView.html?idxno=212031",
-    "https://www.aitimes.com/news/articleView.html?idxno=212011",
-    "https://www.aitimes.com/news/articleView.html?idxno=212016",
-    "https://discuss.pytorch.kr/t/pixelrag-rag/10870",
-    "https://discuss.pytorch.kr/t/linkedin-pytorch/10896",
-    "https://discuss.pytorch.kr/t/deepclaude-claude-code-deepseek/10832",
-    "https://discuss.pytorch.kr/t/gn-claude-code-ai/10845",
     "https://discuss.pytorch.kr/t/simplifying-academic-data-ingestion-clean-text-extraction-for-pytorch-rag-pipelines/10889",
     "https://www.aitimes.com/news/articleView.html?idxno=212074",
     "https://www.aitimes.com/news/articleView.html?idxno=212070",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/ocrmypdf-pdf/11047",
     "https://discuss.pytorch.kr/t/epicure-vs/10453",
     "https://discuss.pytorch.kr/t/iii/10464",
-    "https://discuss.pytorch.kr/t/gn-atlassian-design-md/11019"
+    "https://discuss.pytorch.kr/t/gn-atlassian-design-md/11019",
+    "https://www.aitimes.com/news/articleView.html?idxno=212397",
+    "https://www.aitimes.com/news/articleView.html?idxno=212385",
+    "https://www.aitimes.com/news/articleView.html?idxno=212399",
+    "https://www.aitimes.com/news/articleView.html?idxno=212408",
+    "https://www.aitimes.com/news/articleView.html?idxno=212395",
+    "https://discuss.pytorch.kr/t/deepspec-deepseek/11049",
+    "https://discuss.pytorch.kr/t/obscura-ai-rust/11048",
+    "https://discuss.pytorch.kr/t/gn-ai-robin-williams-feat/10989",
+    "https://discuss.pytorch.kr/t/loop-library-ai/11050",
+    "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-50-7-8-1659-kst/11065"
 ]
