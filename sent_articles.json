@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212282",
-    "https://www.aitimes.com/news/articleView.html?idxno=212287",
     "https://www.aitimes.com/news/articleView.html?idxno=212275",
     "https://www.aitimes.com/news/articleView.html?idxno=212279",
     "https://discuss.pytorch.kr/t/elf-continuous-diffusion-language-model/10215",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/tabfm-feat-google-research/11058",
     "https://www.aitimes.com/news/articleView.html?idxno=212392",
     "https://www.aitimes.com/news/articleView.html?idxno=212394",
-    "https://discuss.pytorch.kr/t/anthropic-claude-fable-5/11062"
+    "https://discuss.pytorch.kr/t/anthropic-claude-fable-5/11062",
+    "https://www.aitimes.com/news/articleView.html?idxno=212398",
+    "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-50-7-8-1659-kst/11065"
 ]
