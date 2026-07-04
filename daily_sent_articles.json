@@ -1,13 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/simplifying-academic-data-ingestion-clean-text-extraction-for-pytorch-rag-pipelines/10889",
-    "https://www.aitimes.com/news/articleView.html?idxno=212074",
-    "https://www.aitimes.com/news/articleView.html?idxno=212070",
-    "https://www.aitimes.com/news/articleView.html?idxno=212072",
-    "https://www.aitimes.com/news/articleView.html?idxno=212068",
-    "https://www.aitimes.com/news/articleView.html?idxno=212069",
-    "https://discuss.pytorch.kr/t/code-world-model-preparedness-report-meta-32b/10105",
-    "https://discuss.pytorch.kr/t/agentic-stack/10829",
-    "https://discuss.pytorch.kr/t/tilekernels-deepseek-ai-llm-tilelang-gpu/9878",
     "https://discuss.pytorch.kr/t/cabinet-ai-ai-first/10753",
     "https://discuss.pytorch.kr/t/1code-claude-code-codex/10811",
     "https://www.aitimes.com/news/articleView.html?idxno=212092",
@@ -98,5 +89,14 @@
     "https://discuss.pytorch.kr/t/obscura-ai-rust/11048",
     "https://discuss.pytorch.kr/t/gn-ai-robin-williams-feat/10989",
     "https://discuss.pytorch.kr/t/loop-library-ai/11050",
-    "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-50-7-8-1659-kst/11065"
+    "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-50-7-8-1659-kst/11065",
+    "https://www.aitimes.com/news/articleView.html?idxno=212434",
+    "https://www.aitimes.com/news/articleView.html?idxno=212433",
+    "https://www.aitimes.com/news/articleView.html?idxno=212432",
+    "https://www.aitimes.com/news/articleView.html?idxno=212431",
+    "https://www.aitimes.com/news/articleView.html?idxno=212428",
+    "https://discuss.pytorch.kr/t/awesome-claude-skills-1-000-claude/11063",
+    "https://discuss.pytorch.kr/t/deepspeed-muon/11079",
+    "https://discuss.pytorch.kr/t/gn/10987",
+    "https://discuss.pytorch.kr/t/edgebench-feat-bytedance-seed/11064"
 ]
