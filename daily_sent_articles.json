@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/cabinet-ai-ai-first/10753",
-    "https://discuss.pytorch.kr/t/1code-claude-code-codex/10811",
-    "https://www.aitimes.com/news/articleView.html?idxno=212092",
-    "https://www.aitimes.com/news/articleView.html?idxno=212117",
-    "https://www.aitimes.com/news/articleView.html?idxno=212121",
-    "https://www.aitimes.com/news/articleView.html?idxno=212118",
-    "https://www.aitimes.com/news/articleView.html?idxno=212120",
-    "https://discuss.pytorch.kr/t/improve-audit/10892",
-    "https://discuss.pytorch.kr/t/unlimited-ocr-kv-ocr-feat-baidu/10908",
-    "https://discuss.pytorch.kr/t/qwen-agentworld-feat-qwen/10909",
     "https://discuss.pytorch.kr/t/openai-broadcom-llm-jalapeno-feat-celestica/10925",
     "https://discuss.pytorch.kr/t/drawio-skill-draw-io/10750",
     "https://www.aitimes.com/news/articleView.html?idxno=212172",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/awesome-claude-skills-1-000-claude/11063",
     "https://discuss.pytorch.kr/t/deepspeed-muon/11079",
     "https://discuss.pytorch.kr/t/gn/10987",
-    "https://discuss.pytorch.kr/t/edgebench-feat-bytedance-seed/11064"
+    "https://discuss.pytorch.kr/t/edgebench-feat-bytedance-seed/11064",
+    "https://www.aitimes.com/news/articleView.html?idxno=212448",
+    "https://www.aitimes.com/news/articleView.html?idxno=212446",
+    "https://www.aitimes.com/news/articleView.html?idxno=212447",
+    "https://www.aitimes.com/news/articleView.html?idxno=212441",
+    "https://www.aitimes.com/news/articleView.html?idxno=212444",
+    "https://discuss.pytorch.kr/t/2026-06-29-07-05-ai-ml/11092",
+    "https://discuss.pytorch.kr/t/gn-tokenmaxxing-tokenmaxxing/10988",
+    "https://discuss.pytorch.kr/t/oss-ai-osm-feat-cscw26/10499",
+    "https://discuss.pytorch.kr/t/all-rl-algorithms-from-scratch-18/11093",
+    "https://discuss.pytorch.kr/t/page-agent-gui-feat-alibaba/11071"
 ]
