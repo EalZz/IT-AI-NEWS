@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212330",
     "https://www.aitimes.com/news/articleView.html?idxno=212331",
     "https://www.aitimes.com/news/articleView.html?idxno=212324",
     "https://www.aitimes.com/news/articleView.html?idxno=212307",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212421",
     "https://www.aitimes.com/news/articleView.html?idxno=212422",
     "https://www.aitimes.com/news/articleView.html?idxno=212434",
-    "https://www.aitimes.com/news/articleView.html?idxno=212431"
+    "https://www.aitimes.com/news/articleView.html?idxno=212431",
+    "https://discuss.pytorch.kr/t/gemini-web2api-openai-api/11075"
 ]
