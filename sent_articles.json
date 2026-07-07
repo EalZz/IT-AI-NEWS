@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212398",
     "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-50-7-8-1659-kst/11065",
     "https://www.aitimes.com/news/articleView.html?idxno=212388",
     "https://www.aitimes.com/news/articleView.html?idxno=212400",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/openwiki-cli/11089",
     "https://discuss.pytorch.kr/t/skillcomposer-llm/11090",
     "https://www.aitimes.com/news/articleView.html?idxno=212455",
-    "https://discuss.pytorch.kr/t/icml-2026-test-of-time-10/11112"
+    "https://discuss.pytorch.kr/t/icml-2026-test-of-time-10/11112",
+    "https://discuss.pytorch.kr/t/langchain/11100"
 ]
