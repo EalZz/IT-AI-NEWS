@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212431",
-    "https://discuss.pytorch.kr/t/gemini-web2api-openai-api/11075",
-    "https://www.aitimes.com/news/articleView.html?idxno=212437",
-    "https://www.aitimes.com/news/articleView.html?idxno=212435",
-    "https://www.aitimes.com/news/articleView.html?idxno=212384",
-    "https://www.aitimes.com/news/articleView.html?idxno=212401",
     "https://www.aitimes.com/news/articleView.html?idxno=212375",
     "https://www.aitimes.com/news/articleView.html?idxno=212445",
     "https://discuss.pytorch.kr/t/page-agent-gui-feat-alibaba/11071",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212514",
     "https://discuss.pytorch.kr/t/pxpipe-claude-code/11114",
     "https://www.aitimes.com/news/articleView.html?idxno=212528",
-    "https://www.aitimes.com/news/articleView.html?idxno=212524"
+    "https://www.aitimes.com/news/articleView.html?idxno=212524",
+    "https://www.aitimes.com/news/articleView.html?idxno=212525",
+    "https://www.aitimes.com/news/articleView.html?idxno=212527",
+    "https://www.aitimes.com/news/articleView.html?idxno=212529",
+    "https://www.aitimes.com/news/articleView.html?idxno=212523",
+    "https://www.aitimes.com/news/articleView.html?idxno=212533",
+    "https://discuss.pytorch.kr/t/vllm-hook-vllm/11123"
 ]
