@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212421",
     "https://www.aitimes.com/news/articleView.html?idxno=212422",
     "https://www.aitimes.com/news/articleView.html?idxno=212434",
     "https://www.aitimes.com/news/articleView.html?idxno=212431",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/miles-llm-rl-pytorch/11142",
     "https://discuss.pytorch.kr/t/brain2qwerty-v2-meg-bci-feat-meta-ai/11070",
     "https://www.aitimes.com/news/articleView.html?idxno=212495",
-    "https://www.aitimes.com/news/articleView.html?idxno=212514"
+    "https://www.aitimes.com/news/articleView.html?idxno=212514",
+    "https://discuss.pytorch.kr/t/pxpipe-claude-code/11114"
 ]
