@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212375",
-    "https://www.aitimes.com/news/articleView.html?idxno=212445",
     "https://discuss.pytorch.kr/t/page-agent-gui-feat-alibaba/11071",
     "https://www.aitimes.com/news/articleView.html?idxno=212440",
     "https://www.aitimes.com/news/articleView.html?idxno=212444",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212529",
     "https://www.aitimes.com/news/articleView.html?idxno=212523",
     "https://www.aitimes.com/news/articleView.html?idxno=212533",
-    "https://discuss.pytorch.kr/t/vllm-hook-vllm/11123"
+    "https://discuss.pytorch.kr/t/vllm-hook-vllm/11123",
+    "https://www.aitimes.com/news/articleView.html?idxno=212532",
+    "https://www.aitimes.com/news/articleView.html?idxno=212526"
 ]
