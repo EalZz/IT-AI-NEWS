@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212614",
     "https://www.aitimes.com/news/articleView.html?idxno=212637",
     "https://www.aitimes.com/news/articleView.html?idxno=212629",
     "https://www.aitimes.com/news/articleView.html?idxno=212627",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/lotus-llm/11235",
     "https://www.aitimes.com/news/articleView.html?idxno=212694",
     "https://www.aitimes.com/news/articleView.html?idxno=212711",
-    "https://discuss.pytorch.kr/t/plano-ai/11234"
+    "https://discuss.pytorch.kr/t/plano-ai/11234",
+    "https://discuss.pytorch.kr/t/pymupdf-1-28/11248"
 ]
