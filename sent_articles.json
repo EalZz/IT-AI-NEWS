@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212628",
     "https://www.aitimes.com/news/articleView.html?idxno=212616",
     "https://www.aitimes.com/news/articleView.html?idxno=212607",
     "https://www.aitimes.com/news/articleView.html?idxno=212675",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/sensorfm-1-1-trillion-feat-google/11250",
     "https://www.aitimes.com/news/articleView.html?idxno=212739",
     "https://www.aitimes.com/news/articleView.html?idxno=212758",
-    "https://discuss.pytorch.kr/t/pdf-inspector-ocr-pdf-rust-feat-firecrawl/11255"
+    "https://discuss.pytorch.kr/t/pdf-inspector-ocr-pdf-rust-feat-firecrawl/11255",
+    "https://discuss.pytorch.kr/t/weclaw-claude-codex-ai/11242"
 ]
