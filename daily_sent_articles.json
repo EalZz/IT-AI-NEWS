@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/edgebench-feat-bytedance-seed/11064",
-    "https://www.aitimes.com/news/articleView.html?idxno=212448",
-    "https://www.aitimes.com/news/articleView.html?idxno=212446",
-    "https://www.aitimes.com/news/articleView.html?idxno=212447",
-    "https://www.aitimes.com/news/articleView.html?idxno=212441",
-    "https://www.aitimes.com/news/articleView.html?idxno=212444",
-    "https://discuss.pytorch.kr/t/2026-06-29-07-05-ai-ml/11092",
-    "https://discuss.pytorch.kr/t/gn-tokenmaxxing-tokenmaxxing/10988",
-    "https://discuss.pytorch.kr/t/oss-ai-osm-feat-cscw26/10499",
-    "https://discuss.pytorch.kr/t/all-rl-algorithms-from-scratch-18/11093",
     "https://discuss.pytorch.kr/t/page-agent-gui-feat-alibaba/11071",
     "https://www.aitimes.com/news/articleView.html?idxno=212456",
     "https://www.aitimes.com/news/articleView.html?idxno=212451",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/lathe-llm/11243",
     "https://discuss.pytorch.kr/t/colibri-744b-moe-25gb-ram-pc-c/11221",
     "https://discuss.pytorch.kr/t/weft-llm-api-ai/11236",
-    "https://discuss.pytorch.kr/t/pymupdf-1-28/11248"
+    "https://discuss.pytorch.kr/t/pymupdf-1-28/11248",
+    "https://www.aitimes.com/news/articleView.html?idxno=212778",
+    "https://www.aitimes.com/news/articleView.html?idxno=212810",
+    "https://www.aitimes.com/news/articleView.html?idxno=212788",
+    "https://www.aitimes.com/news/articleView.html?idxno=212794",
+    "https://www.aitimes.com/news/articleView.html?idxno=212815",
+    "https://discuss.pytorch.kr/t/llm-anthropic-embody/11261",
+    "https://discuss.pytorch.kr/t/aspire-feat-nvidia/11066",
+    "https://discuss.pytorch.kr/t/diffusion-trasformer-pip-line/11266",
+    "https://discuss.pytorch.kr/t/pixel2motion-svg-ai/11239",
+    "https://discuss.pytorch.kr/t/openknowledge-claude-codex-llm-wiki/11222"
 ]
