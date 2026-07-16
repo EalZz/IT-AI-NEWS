@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212718",
-    "https://www.aitimes.com/news/articleView.html?idxno=212703",
-    "https://www.aitimes.com/news/articleView.html?idxno=212722",
     "https://www.aitimes.com/news/articleView.html?idxno=212691",
     "https://www.aitimes.com/news/articleView.html?idxno=212700",
     "https://www.aitimes.com/news/articleView.html?idxno=212696",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212817",
     "https://www.aitimes.com/news/articleView.html?idxno=212825",
     "https://www.aitimes.com/news/articleView.html?idxno=212816",
-    "https://discuss.pytorch.kr/t/bonsai-27b-27b-llm-feat-prismml/11263"
+    "https://discuss.pytorch.kr/t/bonsai-27b-27b-llm-feat-prismml/11263",
+    "https://www.aitimes.com/news/articleView.html?idxno=212829",
+    "https://www.aitimes.com/news/articleView.html?idxno=212826",
+    "https://discuss.pytorch.kr/t/openai-codex-micro-feat-work-louder/11282"
 ]
