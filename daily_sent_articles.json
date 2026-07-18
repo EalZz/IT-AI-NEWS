@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212488",
-    "https://www.aitimes.com/news/articleView.html?idxno=212502",
-    "https://discuss.pytorch.kr/t/brain2qwerty-v2-meg-bci-feat-meta-ai/11070",
-    "https://discuss.pytorch.kr/t/miles-llm-rl-pytorch/11142",
-    "https://discuss.pytorch.kr/t/j-space-llm-jacobian-lens-feat-anthropic/11125",
-    "https://discuss.pytorch.kr/t/security-audit-skill-6/11073",
-    "https://discuss.pytorch.kr/t/ai/11130",
-    "https://www.aitimes.com/news/articleView.html?idxno=212531",
-    "https://www.aitimes.com/news/articleView.html?idxno=212539",
-    "https://www.aitimes.com/news/articleView.html?idxno=212545",
     "https://www.aitimes.com/news/articleView.html?idxno=212542",
     "https://www.aitimes.com/news/articleView.html?idxno=212548",
     "https://discuss.pytorch.kr/t/ai-engineering-interview-questions-ai/11074",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/zerostack-rust/11275",
     "https://discuss.pytorch.kr/t/local-llm-llm-gpu/11274",
     "https://discuss.pytorch.kr/t/aso-app-store-screenshots-claude/11278",
-    "https://discuss.pytorch.kr/t/openai-gpt-red/11288"
+    "https://discuss.pytorch.kr/t/openai-gpt-red/11288",
+    "https://www.aitimes.com/news/articleView.html?idxno=212906",
+    "https://www.aitimes.com/news/articleView.html?idxno=212904",
+    "https://www.aitimes.com/news/articleView.html?idxno=212905",
+    "https://www.aitimes.com/news/articleView.html?idxno=212900",
+    "https://www.aitimes.com/news/articleView.html?idxno=212901",
+    "https://discuss.pytorch.kr/t/tlx-block-attention-blackwell/11313",
+    "https://discuss.pytorch.kr/t/gn-pandas-ai-apache-arrow/11293",
+    "https://discuss.pytorch.kr/t/builderpulse/11276",
+    "https://discuss.pytorch.kr/t/kimi-k3-use-case-101-4/11306",
+    "https://discuss.pytorch.kr/t/keep-codex-fast-codex/11277"
 ]
