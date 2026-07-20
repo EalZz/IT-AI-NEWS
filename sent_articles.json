@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212850",
-    "https://www.aitimes.com/news/articleView.html?idxno=212855",
     "https://www.aitimes.com/news/articleView.html?idxno=212874",
     "https://www.aitimes.com/news/articleView.html?idxno=212857",
     "https://www.aitimes.com/news/articleView.html?idxno=212859",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=212937",
     "https://discuss.pytorch.kr/t/autosci-ai/11270",
     "https://discuss.pytorch.kr/t/diffusion-llm-llada-diffusiongemma/11311",
-    "https://discuss.pytorch.kr/t/15-000-cerebras-feat-pgvector-rrf-mcp/11329"
+    "https://discuss.pytorch.kr/t/15-000-cerebras-feat-pgvector-rrf-mcp/11329",
+    "https://www.aitimes.com/news/articleView.html?idxno=212931",
+    "https://www.aitimes.com/news/articleView.html?idxno=212952"
 ]
