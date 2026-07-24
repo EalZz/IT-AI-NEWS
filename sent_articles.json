@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213002",
     "https://www.aitimes.com/news/articleView.html?idxno=213003",
     "https://www.aitimes.com/news/articleView.html?idxno=213005",
     "https://www.aitimes.com/news/articleView.html?idxno=213008",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213085",
     "https://www.aitimes.com/news/articleView.html?idxno=213123",
     "https://www.aitimes.com/news/articleView.html?idxno=213122",
-    "https://discuss.pytorch.kr/t/wandr-feat-perplexity/11371"
+    "https://discuss.pytorch.kr/t/wandr-feat-perplexity/11371",
+    "https://discuss.pytorch.kr/t/hallmark-ai/11348"
 ]
