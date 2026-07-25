@@ -1,7 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/i-have-adhd-claude-code-codex/11344",
-    "https://discuss.pytorch.kr/t/jacobian-lens/11341",
-    "https://discuss.pytorch.kr/t/pytorch-day-korea-2026/11391",
     "https://discuss.pytorch.kr/t/pytorch-day-korea-2026/11390",
     "https://www.aitimes.com/news/articleView.html?idxno=213063",
     "https://www.aitimes.com/news/articleView.html?idxno=213062",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213172",
     "https://www.aitimes.com/news/articleView.html?idxno=213173",
     "https://www.aitimes.com/news/articleView.html?idxno=213175",
-    "https://www.aitimes.com/news/articleView.html?idxno=213174"
+    "https://www.aitimes.com/news/articleView.html?idxno=213174",
+    "https://www.aitimes.com/news/articleView.html?idxno=213176",
+    "https://discuss.pytorch.kr/t/tpu-helion/11425",
+    "https://discuss.pytorch.kr/t/gigatoken-huggingface-1000-gb-s-llm/11414"
 ]
