@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212765",
-    "https://discuss.pytorch.kr/t/sensorfm-1-1-trillion-feat-google/11250",
-    "https://discuss.pytorch.kr/t/lathe-llm/11243",
-    "https://discuss.pytorch.kr/t/colibri-744b-moe-25gb-ram-pc-c/11221",
-    "https://discuss.pytorch.kr/t/weft-llm-api-ai/11236",
-    "https://discuss.pytorch.kr/t/pymupdf-1-28/11248",
-    "https://www.aitimes.com/news/articleView.html?idxno=212778",
-    "https://www.aitimes.com/news/articleView.html?idxno=212810",
-    "https://www.aitimes.com/news/articleView.html?idxno=212788",
-    "https://www.aitimes.com/news/articleView.html?idxno=212794",
     "https://www.aitimes.com/news/articleView.html?idxno=212815",
     "https://discuss.pytorch.kr/t/llm-anthropic-embody/11261",
     "https://discuss.pytorch.kr/t/aspire-feat-nvidia/11066",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/7-ai-7-30/11421",
     "https://discuss.pytorch.kr/t/ai-pytorch-foundation/11420",
     "https://discuss.pytorch.kr/t/openai-secure-mcp-tunnel-mcp-chatgpt-codex/11369",
-    "https://discuss.pytorch.kr/t/phantom-ai/11349"
+    "https://discuss.pytorch.kr/t/phantom-ai/11349",
+    "https://www.aitimes.com/news/articleView.html?idxno=212917",
+    "https://www.aitimes.com/news/articleView.html?idxno=213177",
+    "https://www.aitimes.com/news/articleView.html?idxno=213176",
+    "https://www.aitimes.com/news/articleView.html?idxno=213175",
+    "https://www.aitimes.com/news/articleView.html?idxno=213174",
+    "https://discuss.pytorch.kr/t/tpu-helion/11425",
+    "https://discuss.pytorch.kr/t/gigatoken-huggingface-1000-gb-s-llm/11414",
+    "https://discuss.pytorch.kr/t/open-kritt-ai/11418",
+    "https://discuss.pytorch.kr/t/crawlee-ai-llm-node-js/11407",
+    "https://discuss.pytorch.kr/t/pgcontext-postgresql-ai/11397"
 ]
