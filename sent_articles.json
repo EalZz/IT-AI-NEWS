@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213035",
-    "https://www.aitimes.com/news/articleView.html?idxno=213033",
-    "https://www.aitimes.com/news/articleView.html?idxno=213036",
     "https://www.aitimes.com/news/articleView.html?idxno=213040",
     "https://www.aitimes.com/news/articleView.html?idxno=213034",
     "https://discuss.pytorch.kr/t/agents-a1-1t-35b/11368",
@@ -98,5 +95,8 @@
     "https://discuss.pytorch.kr/t/ai-pytorch-foundation/11420",
     "https://discuss.pytorch.kr/t/wigolo-api-ai-mcp/11374",
     "https://www.aitimes.com/news/articleView.html?idxno=213131",
-    "https://www.aitimes.com/news/articleView.html?idxno=213148"
+    "https://www.aitimes.com/news/articleView.html?idxno=213148",
+    "https://www.aitimes.com/news/articleView.html?idxno=213161",
+    "https://www.aitimes.com/news/articleView.html?idxno=213106",
+    "https://discuss.pytorch.kr/t/pgcontext-postgresql-ai/11397"
 ]
