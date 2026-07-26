@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213062",
     "https://www.aitimes.com/news/articleView.html?idxno=213059",
     "https://discuss.pytorch.kr/t/thinking-to-recall-llm-feat-google-colm-2026/11271",
     "https://www.aitimes.com/news/articleView.html?idxno=213026",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/tpu-helion/11425",
     "https://discuss.pytorch.kr/t/gigatoken-huggingface-1000-gb-s-llm/11414",
     "https://www.aitimes.com/news/articleView.html?idxno=212917",
-    "https://www.aitimes.com/news/articleView.html?idxno=213177"
+    "https://www.aitimes.com/news/articleView.html?idxno=213177",
+    "https://discuss.pytorch.kr/t/ko-embedding-leaderboard/11416"
 ]
