@@ -1,8 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213136",
-    "https://www.aitimes.com/news/articleView.html?idxno=213140",
-    "https://www.aitimes.com/news/articleView.html?idxno=213142",
-    "https://www.aitimes.com/news/articleView.html?idxno=213134",
     "https://discuss.pytorch.kr/t/phantom-ai/11349",
     "https://www.aitimes.com/news/articleView.html?idxno=213151",
     "https://www.aitimes.com/news/articleView.html?idxno=213144",
@@ -98,5 +94,9 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213218",
     "https://www.aitimes.com/news/articleView.html?idxno=213220",
     "https://discuss.pytorch.kr/t/score-smoothing-google-research/11326",
-    "https://discuss.pytorch.kr/t/opencodex-llm-codex-claude-code/11408"
+    "https://discuss.pytorch.kr/t/opencodex-llm-codex-claude-code/11408",
+    "https://www.aitimes.com/news/articleView.html?idxno=213231",
+    "https://www.aitimes.com/news/articleView.html?idxno=213230",
+    "https://discuss.pytorch.kr/t/egocontrol-3d-1-feat-nvidia/11107",
+    "https://discuss.pytorch.kr/t/pytorch/11444"
 ]
