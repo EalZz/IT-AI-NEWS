@@ -1,7 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/wandr-feat-perplexity/11371",
-    "https://discuss.pytorch.kr/t/hallmark-ai/11348",
-    "https://www.aitimes.com/news/articleView.html?idxno=213128",
     "https://www.aitimes.com/news/articleView.html?idxno=213127",
     "https://www.aitimes.com/news/articleView.html?idxno=213067",
     "https://www.aitimes.com/news/articleView.html?idxno=213125",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213221",
     "https://www.aitimes.com/news/articleView.html?idxno=213219",
     "https://www.aitimes.com/news/articleView.html?idxno=213191",
-    "https://www.aitimes.com/news/articleView.html?idxno=213217"
+    "https://www.aitimes.com/news/articleView.html?idxno=213217",
+    "https://www.aitimes.com/news/articleView.html?idxno=213222",
+    "https://www.aitimes.com/news/articleView.html?idxno=213202",
+    "https://discuss.pytorch.kr/t/quivr-llm-rag/11403"
 ]
