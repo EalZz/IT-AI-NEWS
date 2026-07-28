@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212906",
-    "https://www.aitimes.com/news/articleView.html?idxno=212904",
-    "https://www.aitimes.com/news/articleView.html?idxno=212905",
-    "https://www.aitimes.com/news/articleView.html?idxno=212900",
-    "https://www.aitimes.com/news/articleView.html?idxno=212901",
-    "https://discuss.pytorch.kr/t/tlx-block-attention-blackwell/11313",
-    "https://discuss.pytorch.kr/t/gn-pandas-ai-apache-arrow/11293",
-    "https://discuss.pytorch.kr/t/builderpulse/11276",
-    "https://discuss.pytorch.kr/t/kimi-k3-use-case-101-4/11306",
-    "https://discuss.pytorch.kr/t/keep-codex-fast-codex/11277",
     "https://www.aitimes.com/news/articleView.html?idxno=212916",
     "https://www.aitimes.com/news/articleView.html?idxno=212915",
     "https://www.aitimes.com/news/articleView.html?idxno=212914",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/pytorch/11444",
     "https://discuss.pytorch.kr/t/opencodex-llm-codex-claude-code/11408",
     "https://discuss.pytorch.kr/t/score-smoothing-google-research/11326",
-    "https://discuss.pytorch.kr/t/quivr-llm-rag/11403"
+    "https://discuss.pytorch.kr/t/quivr-llm-rag/11403",
+    "https://www.aitimes.com/news/articleView.html?idxno=213257",
+    "https://www.aitimes.com/news/articleView.html?idxno=213263",
+    "https://www.aitimes.com/news/articleView.html?idxno=213262",
+    "https://www.aitimes.com/news/articleView.html?idxno=213264",
+    "https://www.aitimes.com/news/articleView.html?idxno=213272",
+    "https://discuss.pytorch.kr/t/symptomai-ai-feat-google/11404",
+    "https://discuss.pytorch.kr/t/autoscraper/11409",
+    "https://discuss.pytorch.kr/t/omniroute-ai/11413",
+    "https://discuss.pytorch.kr/t/openworker-ai-feat-andrew-ng/11406",
+    "https://discuss.pytorch.kr/t/unstract-json-llm/11417"
 ]
