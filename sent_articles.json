@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213174",
     "https://www.aitimes.com/news/articleView.html?idxno=213176",
     "https://discuss.pytorch.kr/t/tpu-helion/11425",
     "https://discuss.pytorch.kr/t/gigatoken-huggingface-1000-gb-s-llm/11414",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213259",
     "https://www.aitimes.com/news/articleView.html?idxno=213257",
     "https://www.aitimes.com/news/articleView.html?idxno=213263",
-    "https://discuss.pytorch.kr/t/omniroute-ai/11413"
+    "https://discuss.pytorch.kr/t/omniroute-ai/11413",
+    "https://discuss.pytorch.kr/t/autoscraper/11409"
 ]
