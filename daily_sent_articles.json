@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=212916",
-    "https://www.aitimes.com/news/articleView.html?idxno=212915",
-    "https://www.aitimes.com/news/articleView.html?idxno=212914",
-    "https://www.aitimes.com/news/articleView.html?idxno=212909",
-    "https://www.aitimes.com/news/articleView.html?idxno=212911",
-    "https://discuss.pytorch.kr/t/2026-07-13-19-ai-ml/11328",
-    "https://discuss.pytorch.kr/t/gn-llm-linus-torvalds/11294",
-    "https://discuss.pytorch.kr/t/ifixai-ai-45/11296",
-    "https://discuss.pytorch.kr/t/friday-mcp-ai/11297",
-    "https://discuss.pytorch.kr/t/kimi-k3-moonshot-ai-3t-7-27/11301",
     "https://www.aitimes.com/news/articleView.html?idxno=212953",
     "https://www.aitimes.com/news/articleView.html?idxno=212958",
     "https://www.aitimes.com/news/articleView.html?idxno=212941",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/autoscraper/11409",
     "https://discuss.pytorch.kr/t/omniroute-ai/11413",
     "https://discuss.pytorch.kr/t/openworker-ai-feat-andrew-ng/11406",
-    "https://discuss.pytorch.kr/t/unstract-json-llm/11417"
+    "https://discuss.pytorch.kr/t/unstract-json-llm/11417",
+    "https://www.aitimes.com/news/articleView.html?idxno=213293",
+    "https://www.aitimes.com/news/articleView.html?idxno=213287",
+    "https://www.aitimes.com/news/articleView.html?idxno=213312",
+    "https://www.aitimes.com/news/articleView.html?idxno=213314",
+    "https://www.aitimes.com/news/articleView.html?idxno=213307",
+    "https://discuss.pytorch.kr/t/agentmemory-4/11460",
+    "https://discuss.pytorch.kr/t/gram-dual-use-feat-anthropic/11443",
+    "https://discuss.pytorch.kr/t/ods-pc-ai/11447",
+    "https://discuss.pytorch.kr/t/docsgpt-ai/11449",
+    "https://discuss.pytorch.kr/t/knowledge-graph-llm-pdf-kg/11448"
 ]
