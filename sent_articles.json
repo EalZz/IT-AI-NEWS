@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213245",
-    "https://www.aitimes.com/news/articleView.html?idxno=213244",
     "https://www.aitimes.com/news/articleView.html?idxno=213243",
     "https://www.aitimes.com/news/articleView.html?idxno=213265",
     "https://www.aitimes.com/news/articleView.html?idxno=213255",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/pi-autoresearch-pi/11471",
     "https://www.aitimes.com/news/articleView.html?idxno=213372",
     "https://www.aitimes.com/news/articleView.html?idxno=213374",
-    "https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463"
+    "https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463",
+    "https://www.aitimes.com/news/articleView.html?idxno=213333",
+    "https://www.aitimes.com/news/articleView.html?idxno=213368"
 ]
