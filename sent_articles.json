@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213293",
-    "https://www.aitimes.com/news/articleView.html?idxno=213287",
     "https://discuss.pytorch.kr/t/ods-pc-ai/11447",
     "https://discuss.pytorch.kr/t/gram-dual-use-feat-anthropic/11443",
     "https://discuss.pytorch.kr/t/agentmemory-4/11460",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/seed-llms-txt-mcp-ai/11462",
     "https://www.aitimes.com/news/articleView.html?idxno=213439",
     "https://www.aitimes.com/news/articleView.html?idxno=213440",
-    "https://www.aitimes.com/news/articleView.html?idxno=213433"
+    "https://www.aitimes.com/news/articleView.html?idxno=213433",
+    "https://www.aitimes.com/news/articleView.html?idxno=213438",
+    "https://discuss.pytorch.kr/t/google-deepmind-gemini-robotics-2/11488"
 ]
