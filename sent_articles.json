@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213341",
-    "https://www.aitimes.com/news/articleView.html?idxno=213330",
     "https://www.aitimes.com/news/articleView.html?idxno=213339",
     "https://www.aitimes.com/news/articleView.html?idxno=213343",
     "https://www.aitimes.com/news/articleView.html?idxno=213344",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213446",
     "https://discuss.pytorch.kr/t/gpu-ai/11495",
     "https://discuss.pytorch.kr/t/agents-cli-google-cloud-cli/11491",
-    "https://www.aitimes.com/news/articleView.html?idxno=213425"
+    "https://www.aitimes.com/news/articleView.html?idxno=213425",
+    "https://www.aitimes.com/news/articleView.html?idxno=213449",
+    "https://discuss.pytorch.kr/t/x-the-fast-gemma-challenge-1/11497"
 ]
