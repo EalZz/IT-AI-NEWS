@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213339",
-    "https://www.aitimes.com/news/articleView.html?idxno=213343",
     "https://www.aitimes.com/news/articleView.html?idxno=213344",
     "https://www.aitimes.com/news/articleView.html?idxno=213338",
     "https://discuss.pytorch.kr/t/open-multi-agent-dag/11472",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/agents-cli-google-cloud-cli/11491",
     "https://www.aitimes.com/news/articleView.html?idxno=213425",
     "https://www.aitimes.com/news/articleView.html?idxno=213449",
-    "https://discuss.pytorch.kr/t/x-the-fast-gemma-challenge-1/11497"
+    "https://discuss.pytorch.kr/t/x-the-fast-gemma-challenge-1/11497",
+    "https://www.aitimes.com/news/articleView.html?idxno=213450",
+    "https://discuss.pytorch.kr/t/deepsec/11490"
 ]
