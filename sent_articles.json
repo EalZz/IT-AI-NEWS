@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213374",
     "https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463",
     "https://www.aitimes.com/news/articleView.html?idxno=213333",
     "https://www.aitimes.com/news/articleView.html?idxno=213368",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213470",
     "https://www.aitimes.com/news/articleView.html?idxno=213453",
     "https://www.aitimes.com/news/articleView.html?idxno=213488",
-    "https://www.aitimes.com/news/articleView.html?idxno=213482"
+    "https://www.aitimes.com/news/articleView.html?idxno=213482",
+    "https://discuss.pytorch.kr/t/simplemem-llm-30/11501"
 ]
