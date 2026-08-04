@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213321",
     "https://www.aitimes.com/news/articleView.html?idxno=213432",
     "https://www.aitimes.com/news/articleView.html?idxno=213434",
     "https://www.aitimes.com/news/articleView.html?idxno=213435",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213525",
     "https://www.aitimes.com/news/articleView.html?idxno=213505",
     "https://www.aitimes.com/news/articleView.html?idxno=213529",
-    "https://www.aitimes.com/news/articleView.html?idxno=213523"
+    "https://www.aitimes.com/news/articleView.html?idxno=213523",
+    "https://discuss.pytorch.kr/t/instella-moe-amd-instinct-gpu-16b-moe/11518"
 ]
