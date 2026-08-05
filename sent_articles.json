@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213436",
     "https://www.aitimes.com/news/articleView.html?idxno=213437",
     "https://discuss.pytorch.kr/t/seed-llms-txt-mcp-ai/11462",
     "https://www.aitimes.com/news/articleView.html?idxno=213439",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/instella-moe-amd-instinct-gpu-16b-moe/11518",
     "https://www.aitimes.com/news/articleView.html?idxno=213507",
     "https://www.aitimes.com/news/articleView.html?idxno=213530",
-    "https://www.aitimes.com/news/articleView.html?idxno=213514"
+    "https://www.aitimes.com/news/articleView.html?idxno=213514",
+    "https://discuss.pytorch.kr/t/esp32-ai-esp32-s3-28-9m/11519"
 ]
