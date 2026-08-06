@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213478",
-    "https://www.aitimes.com/news/articleView.html?idxno=213472",
-    "https://www.aitimes.com/news/articleView.html?idxno=213452",
-    "https://www.aitimes.com/news/articleView.html?idxno=213462",
-    "https://www.aitimes.com/news/articleView.html?idxno=213473",
-    "https://www.aitimes.com/news/articleView.html?idxno=213476",
     "https://www.aitimes.com/news/articleView.html?idxno=213480",
     "https://www.aitimes.com/news/articleView.html?idxno=213486",
     "https://www.aitimes.com/news/articleView.html?idxno=213470",
@@ -98,5 +92,11 @@
     "https://discuss.pytorch.kr/t/deepseek-v4-flash-task-0-027/11533",
     "https://www.aitimes.com/news/articleView.html?idxno=213595",
     "https://www.aitimes.com/news/articleView.html?idxno=213591",
-    "https://www.aitimes.com/news/articleView.html?idxno=213576"
+    "https://www.aitimes.com/news/articleView.html?idxno=213576",
+    "https://www.aitimes.com/news/articleView.html?idxno=213584",
+    "https://www.aitimes.com/news/articleView.html?idxno=213585",
+    "https://www.aitimes.com/news/articleView.html?idxno=213594",
+    "https://www.aitimes.com/news/articleView.html?idxno=213583",
+    "https://www.aitimes.com/news/articleView.html?idxno=213590",
+    "https://discuss.pytorch.kr/t/mistral-3b-shieldstral/11532"
 ]
