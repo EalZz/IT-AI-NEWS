@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213551",
     "https://discuss.pytorch.kr/t/vllm-kr-community-meetup-8/11540",
     "https://discuss.pytorch.kr/t/deepseek-v4-flash-task-0-027/11533",
     "https://www.aitimes.com/news/articleView.html?idxno=213595",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213708",
     "https://www.aitimes.com/news/articleView.html?idxno=213709",
     "https://www.aitimes.com/news/articleView.html?idxno=213710",
-    "https://discuss.pytorch.kr/t/gn-llm-einstein-abduction/11551"
+    "https://discuss.pytorch.kr/t/gn-llm-einstein-abduction/11551",
+    "https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554"
 ]
