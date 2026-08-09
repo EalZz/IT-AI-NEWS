@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213307",
-    "https://discuss.pytorch.kr/t/agentmemory-4/11460",
-    "https://discuss.pytorch.kr/t/gram-dual-use-feat-anthropic/11443",
-    "https://discuss.pytorch.kr/t/ods-pc-ai/11447",
-    "https://discuss.pytorch.kr/t/docsgpt-ai/11449",
-    "https://discuss.pytorch.kr/t/knowledge-graph-llm-pdf-kg/11448",
-    "https://www.aitimes.com/news/articleView.html?idxno=213372",
-    "https://www.aitimes.com/news/articleView.html?idxno=213374",
-    "https://www.aitimes.com/news/articleView.html?idxno=213347",
-    "https://www.aitimes.com/news/articleView.html?idxno=213369",
     "https://www.aitimes.com/news/articleView.html?idxno=213346",
     "https://discuss.pytorch.kr/t/llada2-2-levenshtein-diffusion-lm/11463",
     "https://discuss.pytorch.kr/t/pi-autoresearch-pi/11471",
@@ -98,5 +88,15 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213706",
     "https://www.aitimes.com/news/articleView.html?idxno=213708",
     "https://discuss.pytorch.kr/t/gn-llm-einstein-abduction/11551",
-    "https://discuss.pytorch.kr/t/seedrealtime-bytedance-seed-full-duplex/11561"
+    "https://discuss.pytorch.kr/t/seedrealtime-bytedance-seed-full-duplex/11561",
+    "https://www.aitimes.com/news/articleView.html?idxno=213719",
+    "https://www.aitimes.com/news/articleView.html?idxno=213713",
+    "https://www.aitimes.com/news/articleView.html?idxno=213717",
+    "https://www.aitimes.com/news/articleView.html?idxno=213716",
+    "https://www.aitimes.com/news/articleView.html?idxno=213714",
+    "https://discuss.pytorch.kr/t/2026-08-03-09-ai-ml/11572",
+    "https://discuss.pytorch.kr/t/fbtriton/11576",
+    "https://discuss.pytorch.kr/t/model-dna-llm-cka-pytorch/11569",
+    "https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552",
+    "https://discuss.pytorch.kr/t/meta-muse-code-muse-spark-1-2/11554"
 ]

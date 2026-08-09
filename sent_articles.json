@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213603",
-    "https://www.aitimes.com/news/articleView.html?idxno=213593",
     "https://www.aitimes.com/news/articleView.html?idxno=213608",
     "https://www.aitimes.com/news/articleView.html?idxno=213621",
     "https://www.aitimes.com/news/articleView.html?idxno=213607",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=213711",
     "https://discuss.pytorch.kr/t/anydoc-llm-markdown-5-rust/11552",
     "https://discuss.pytorch.kr/t/model-dna-llm-cka-pytorch/11569",
-    "https://www.aitimes.com/news/articleView.html?idxno=213719"
+    "https://www.aitimes.com/news/articleView.html?idxno=213719",
+    "https://discuss.pytorch.kr/t/2026-08-03-09-ai-ml/11572",
+    "https://discuss.pytorch.kr/t/fbtriton/11576"
 ]
