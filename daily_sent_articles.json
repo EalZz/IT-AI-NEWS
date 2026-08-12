@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213433",
-    "https://www.aitimes.com/news/articleView.html?idxno=213437",
-    "https://discuss.pytorch.kr/t/google-deepmind-gemini-robotics-2/11488",
-    "https://discuss.pytorch.kr/t/seed-llms-txt-mcp-ai/11462",
-    "https://www.aitimes.com/news/articleView.html?idxno=213450",
-    "https://www.aitimes.com/news/articleView.html?idxno=213449",
-    "https://www.aitimes.com/news/articleView.html?idxno=213425",
-    "https://www.aitimes.com/news/articleView.html?idxno=213447",
-    "https://www.aitimes.com/news/articleView.html?idxno=213448",
-    "https://discuss.pytorch.kr/t/2026-07-27-08-02-ai-ml/11499",
     "https://discuss.pytorch.kr/t/deepsec/11490",
     "https://discuss.pytorch.kr/t/x-the-fast-gemma-challenge-1/11497",
     "https://discuss.pytorch.kr/t/agents-cli-google-cloud-cli/11491",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/interfaces-ui-8/11582",
     "https://discuss.pytorch.kr/t/topic/11592",
     "https://discuss.pytorch.kr/t/ai-knowledge-graph/11583",
-    "https://discuss.pytorch.kr/t/lucebox-gpu-llm/11584"
+    "https://discuss.pytorch.kr/t/lucebox-gpu-llm/11584",
+    "https://www.aitimes.com/news/articleView.html?idxno=213838",
+    "https://www.aitimes.com/news/articleView.html?idxno=213846",
+    "https://www.aitimes.com/news/articleView.html?idxno=213849",
+    "https://www.aitimes.com/news/articleView.html?idxno=213854",
+    "https://www.aitimes.com/news/articleView.html?idxno=213861",
+    "https://discuss.pytorch.kr/t/how-to-train-your-gpt-llama-3-llm/11599",
+    "https://discuss.pytorch.kr/t/warp-2-78-kimi-k3-64gb-c/11601",
+    "https://discuss.pytorch.kr/t/qwen-audio-agent/11600",
+    "https://discuss.pytorch.kr/t/2026-ai/11603",
+    "https://discuss.pytorch.kr/t/sie-ocr/11597"
 ]
