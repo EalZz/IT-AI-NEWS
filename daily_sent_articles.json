@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/turbofieldfare-8gb-gemma-4-26b-2gb-swift/11502",
-    "https://discuss.pytorch.kr/t/qwen-max-2-4t-qwen3-8-max/11509",
-    "https://discuss.pytorch.kr/t/simplemem-llm-30/11501",
-    "https://discuss.pytorch.kr/t/codex-security-openai-cli-sdk/11487",
-    "https://www.aitimes.com/news/articleView.html?idxno=213523",
-    "https://www.aitimes.com/news/articleView.html?idxno=213506",
-    "https://www.aitimes.com/news/articleView.html?idxno=213510",
-    "https://www.aitimes.com/news/articleView.html?idxno=213525",
-    "https://www.aitimes.com/news/articleView.html?idxno=213505",
-    "https://discuss.pytorch.kr/t/instella-moe-amd-instinct-gpu-16b-moe/11518",
     "https://discuss.pytorch.kr/t/marble-skill-taxonomy/11512",
     "https://discuss.pytorch.kr/t/minimax-33b-h3/11523",
     "https://discuss.pytorch.kr/t/qm-ai/11511",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/9arm-skills-claude-code/11605",
     "https://discuss.pytorch.kr/t/h3-c-minimax-h3-c-feat-antirez/11608",
     "https://discuss.pytorch.kr/t/skill-recorder-microsoft/11606",
-    "https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607"
+    "https://discuss.pytorch.kr/t/gathered-scenes-zine-codex/11607",
+    "https://www.aitimes.com/news/articleView.html?idxno=213964",
+    "https://www.aitimes.com/news/articleView.html?idxno=213975",
+    "https://www.aitimes.com/news/articleView.html?idxno=213970",
+    "https://www.aitimes.com/news/articleView.html?idxno=213966",
+    "https://www.aitimes.com/news/articleView.html?idxno=213946",
+    "https://discuss.pytorch.kr/t/harness-engineering-12/11613",
+    "https://discuss.pytorch.kr/t/ai/11624",
+    "https://discuss.pytorch.kr/t/uembed/11614",
+    "https://discuss.pytorch.kr/t/2026-ai-sw-2-8-26/11621",
+    "https://discuss.pytorch.kr/t/claude-of-duty-ai-fps/11611"
 ]
