@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214019",
     "https://www.aitimes.com/news/articleView.html?idxno=213955",
     "https://www.aitimes.com/news/articleView.html?idxno=213961",
     "https://www.aitimes.com/news/articleView.html?idxno=213935",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214117",
     "https://www.aitimes.com/news/articleView.html?idxno=214118",
     "https://discuss.pytorch.kr/t/deepseek-harness-2-500-dsh-marketplace/11670",
-    "https://www.aitimes.com/news/articleView.html?idxno=214100"
+    "https://www.aitimes.com/news/articleView.html?idxno=214100",
+    "https://discuss.pytorch.kr/t/openai-astra/11659"
 ]
