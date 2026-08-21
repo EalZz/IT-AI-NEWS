@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214074",
-    "https://www.aitimes.com/news/articleView.html?idxno=214072",
-    "https://www.aitimes.com/news/articleView.html?idxno=214060",
-    "https://www.aitimes.com/news/articleView.html?idxno=214062",
-    "https://www.aitimes.com/news/articleView.html?idxno=214067",
     "https://discuss.pytorch.kr/t/ai-9-30/11651",
     "https://www.aitimes.com/news/articleView.html?idxno=214064",
     "https://www.aitimes.com/news/articleView.html?idxno=214073",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214198",
     "https://www.aitimes.com/news/articleView.html?idxno=214194",
     "https://www.aitimes.com/news/articleView.html?idxno=214202",
-    "https://www.aitimes.com/news/articleView.html?idxno=214187"
+    "https://www.aitimes.com/news/articleView.html?idxno=214187",
+    "https://www.aitimes.com/news/articleView.html?idxno=214200",
+    "https://www.aitimes.com/news/articleView.html?idxno=214192",
+    "https://www.aitimes.com/news/articleView.html?idxno=214191",
+    "https://www.aitimes.com/news/articleView.html?idxno=214183",
+    "https://discuss.pytorch.kr/t/sentence-transformers-v6-0-colbert-api/11673"
 ]
