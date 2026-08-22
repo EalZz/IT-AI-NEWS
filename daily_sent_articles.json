@@ -1,12 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/topic/11592",
-    "https://discuss.pytorch.kr/t/ai-knowledge-graph/11583",
-    "https://discuss.pytorch.kr/t/lucebox-gpu-llm/11584",
-    "https://www.aitimes.com/news/articleView.html?idxno=213838",
-    "https://www.aitimes.com/news/articleView.html?idxno=213846",
-    "https://www.aitimes.com/news/articleView.html?idxno=213849",
-    "https://www.aitimes.com/news/articleView.html?idxno=213854",
-    "https://www.aitimes.com/news/articleView.html?idxno=213861",
     "https://discuss.pytorch.kr/t/how-to-train-your-gpt-llama-3-llm/11599",
     "https://discuss.pytorch.kr/t/warp-2-78-kimi-k3-64gb-c/11601",
     "https://discuss.pytorch.kr/t/qwen-audio-agent/11600",
@@ -98,5 +90,13 @@
     "https://discuss.pytorch.kr/t/sol-advisor-codex/11678",
     "https://discuss.pytorch.kr/t/700-7-9-30/11682",
     "https://discuss.pytorch.kr/t/sentence-transformers-v6-0-colbert-api/11673",
-    "https://discuss.pytorch.kr/t/sk-ai/11680"
+    "https://discuss.pytorch.kr/t/sk-ai/11680",
+    "https://www.aitimes.com/news/articleView.html?idxno=214251",
+    "https://www.aitimes.com/news/articleView.html?idxno=214018",
+    "https://www.aitimes.com/news/articleView.html?idxno=214249",
+    "https://www.aitimes.com/news/articleView.html?idxno=214234",
+    "https://www.aitimes.com/news/articleView.html?idxno=214246",
+    "https://discuss.pytorch.kr/t/trueforge-ui/11685",
+    "https://discuss.pytorch.kr/t/ai/11688",
+    "https://discuss.pytorch.kr/t/qec-willow/11639"
 ]
