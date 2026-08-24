@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214226",
-    "https://www.aitimes.com/news/articleView.html?idxno=214222",
     "https://www.aitimes.com/news/articleView.html?idxno=214223",
     "https://www.aitimes.com/news/articleView.html?idxno=214219",
     "https://www.aitimes.com/news/articleView.html?idxno=214224",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/dsh-web-ui-dsh-gui/11675",
     "https://www.aitimes.com/news/articleView.html?idxno=214316",
     "https://www.aitimes.com/news/articleView.html?idxno=214291",
-    "https://discuss.pytorch.kr/t/dsh-routing-suite-deepseek-harness/11655"
+    "https://discuss.pytorch.kr/t/dsh-routing-suite-deepseek-harness/11655",
+    "https://www.aitimes.com/news/articleView.html?idxno=214278",
+    "https://discuss.pytorch.kr/t/slack-anthropic-ai-6-feat-claude-tag/11702"
 ]
