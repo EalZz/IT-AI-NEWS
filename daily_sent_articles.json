@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213946",
-    "https://discuss.pytorch.kr/t/harness-engineering-12/11613",
-    "https://discuss.pytorch.kr/t/ai/11624",
-    "https://discuss.pytorch.kr/t/uembed/11614",
-    "https://discuss.pytorch.kr/t/2026-ai-sw-2-8-26/11621",
-    "https://discuss.pytorch.kr/t/claude-of-duty-ai-fps/11611",
-    "https://www.aitimes.com/news/articleView.html?idxno=213998",
-    "https://www.aitimes.com/news/articleView.html?idxno=213997",
-    "https://www.aitimes.com/news/articleView.html?idxno=213986",
-    "https://www.aitimes.com/news/articleView.html?idxno=213987",
     "https://www.aitimes.com/news/articleView.html?idxno=213991",
     "https://discuss.pytorch.kr/t/executorch-muse-glimmer-ai/11632",
     "https://discuss.pytorch.kr/t/ai-94-79/11612",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/dsh-web-ui-dsh-gui/11675",
     "https://discuss.pytorch.kr/t/openbot/11692",
     "https://discuss.pytorch.kr/t/2027-gpu-tco-feat-ai/11705",
-    "https://discuss.pytorch.kr/t/ai-agent/11704"
+    "https://discuss.pytorch.kr/t/ai-agent/11704",
+    "https://www.aitimes.com/news/articleView.html?idxno=214329",
+    "https://www.aitimes.com/news/articleView.html?idxno=214324",
+    "https://www.aitimes.com/news/articleView.html?idxno=214355",
+    "https://www.aitimes.com/news/articleView.html?idxno=214349",
+    "https://www.aitimes.com/news/articleView.html?idxno=214350",
+    "https://discuss.pytorch.kr/t/pandaprobe/11715",
+    "https://discuss.pytorch.kr/t/kimodo-cpp-nvidia-kimodo-pytorch-c-ggml/11708",
+    "https://discuss.pytorch.kr/t/freetoken-moe-edge-serving/11696",
+    "https://discuss.pytorch.kr/t/openconnector-1-000-saas/11706",
+    "https://discuss.pytorch.kr/t/slack-anthropic-ai-6-feat-claude-tag/11702"
 ]
