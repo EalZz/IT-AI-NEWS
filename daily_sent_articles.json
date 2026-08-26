@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=213991",
-    "https://discuss.pytorch.kr/t/executorch-muse-glimmer-ai/11632",
-    "https://discuss.pytorch.kr/t/ai-94-79/11612",
-    "https://discuss.pytorch.kr/t/ai/11625",
-    "https://www.aitimes.com/news/articleView.html?idxno=214011",
-    "https://www.aitimes.com/news/articleView.html?idxno=214007",
-    "https://www.aitimes.com/news/articleView.html?idxno=214005",
-    "https://www.aitimes.com/news/articleView.html?idxno=214004",
-    "https://www.aitimes.com/news/articleView.html?idxno=214013",
-    "https://discuss.pytorch.kr/t/2026-08-10-16-ai-ml/11637",
     "https://discuss.pytorch.kr/t/minimax-music-3-5/11629",
     "https://discuss.pytorch.kr/t/ai-ai/11633",
     "https://discuss.pytorch.kr/t/deepseek-harness/11628",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/kimodo-cpp-nvidia-kimodo-pytorch-c-ggml/11708",
     "https://discuss.pytorch.kr/t/freetoken-moe-edge-serving/11696",
     "https://discuss.pytorch.kr/t/openconnector-1-000-saas/11706",
-    "https://discuss.pytorch.kr/t/slack-anthropic-ai-6-feat-claude-tag/11702"
+    "https://discuss.pytorch.kr/t/slack-anthropic-ai-6-feat-claude-tag/11702",
+    "https://www.aitimes.com/news/articleView.html?idxno=214422",
+    "https://www.aitimes.com/news/articleView.html?idxno=214387",
+    "https://www.aitimes.com/news/articleView.html?idxno=214393",
+    "https://www.aitimes.com/news/articleView.html?idxno=214382",
+    "https://www.aitimes.com/news/articleView.html?idxno=214419",
+    "https://discuss.pytorch.kr/t/apex-kv-fpga-llm/11707",
+    "https://discuss.pytorch.kr/t/zetta-vla/11712",
+    "https://discuss.pytorch.kr/t/harnessrouter-codex-claude-code/11716",
+    "https://discuss.pytorch.kr/t/6-2-lyft-vodafone-latam-feat-langchain/11711",
+    "https://discuss.pytorch.kr/t/mupdf-brotli-pymupdf/11718"
 ]
