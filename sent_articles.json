@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214296",
-    "https://www.aitimes.com/news/articleView.html?idxno=214292",
     "https://www.aitimes.com/news/articleView.html?idxno=214286",
     "https://www.aitimes.com/news/articleView.html?idxno=214290",
     "https://www.aitimes.com/news/articleView.html?idxno=214287",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214387",
     "https://www.aitimes.com/news/articleView.html?idxno=214393",
     "https://discuss.pytorch.kr/t/zetta-vla/11712",
-    "https://discuss.pytorch.kr/t/apex-kv-fpga-llm/11707"
+    "https://discuss.pytorch.kr/t/apex-kv-fpga-llm/11707",
+    "https://www.aitimes.com/news/articleView.html?idxno=214377",
+    "https://discuss.pytorch.kr/t/cordis-feat-deepseekai/11689"
 ]
