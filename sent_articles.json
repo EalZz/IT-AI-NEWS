@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214286",
     "https://www.aitimes.com/news/articleView.html?idxno=214290",
     "https://www.aitimes.com/news/articleView.html?idxno=214287",
     "https://discuss.pytorch.kr/t/2027-gpu-tco-feat-ai/11705",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/zetta-vla/11712",
     "https://discuss.pytorch.kr/t/apex-kv-fpga-llm/11707",
     "https://www.aitimes.com/news/articleView.html?idxno=214377",
-    "https://discuss.pytorch.kr/t/cordis-feat-deepseekai/11689"
+    "https://discuss.pytorch.kr/t/cordis-feat-deepseekai/11689",
+    "https://discuss.pytorch.kr/t/vibe-research-ai/11726"
 ]
