@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214471",
-    "https://www.aitimes.com/news/articleView.html?idxno=214465",
     "https://www.aitimes.com/news/articleView.html?idxno=214475",
     "https://www.aitimes.com/news/articleView.html?idxno=214456",
     "https://discuss.pytorch.kr/t/qwen3-8-flash-next-1-9-qwen3-7-plus-397b-a17b-125b-a6b/11730",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/ai/11762",
     "https://www.aitimes.com/news/articleView.html?idxno=214622",
     "https://www.aitimes.com/news/articleView.html?idxno=214626",
-    "https://www.aitimes.com/news/articleView.html?idxno=214624"
+    "https://www.aitimes.com/news/articleView.html?idxno=214624",
+    "https://www.aitimes.com/news/articleView.html?idxno=214627",
+    "https://discuss.pytorch.kr/t/optmem-ai/11753"
 ]
