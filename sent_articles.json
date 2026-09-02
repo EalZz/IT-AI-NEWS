@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214606",
-    "https://www.aitimes.com/news/articleView.html?idxno=214608",
-    "https://www.aitimes.com/news/articleView.html?idxno=214610",
     "https://www.aitimes.com/news/articleView.html?idxno=214613",
     "https://www.aitimes.com/news/articleView.html?idxno=214581",
     "https://www.aitimes.com/news/articleView.html?idxno=214492",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214725",
     "https://www.aitimes.com/news/articleView.html?idxno=214723",
     "https://discuss.pytorch.kr/t/reversa-ai/11785",
-    "https://discuss.pytorch.kr/t/nvidia-model-optimizer-vllm-tensorrt-sglang/11782"
+    "https://discuss.pytorch.kr/t/nvidia-model-optimizer-vllm-tensorrt-sglang/11782",
+    "https://www.aitimes.com/news/articleView.html?idxno=214734",
+    "https://www.aitimes.com/news/articleView.html?idxno=214732",
+    "https://www.aitimes.com/news/articleView.html?idxno=214729"
 ]
