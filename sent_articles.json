@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214613",
     "https://www.aitimes.com/news/articleView.html?idxno=214581",
     "https://www.aitimes.com/news/articleView.html?idxno=214492",
     "https://www.aitimes.com/news/articleView.html?idxno=214563",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/nvidia-model-optimizer-vllm-tensorrt-sglang/11782",
     "https://www.aitimes.com/news/articleView.html?idxno=214734",
     "https://www.aitimes.com/news/articleView.html?idxno=214732",
-    "https://www.aitimes.com/news/articleView.html?idxno=214729"
+    "https://www.aitimes.com/news/articleView.html?idxno=214729",
+    "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-1-mythos-5-1-2-75/11794"
 ]
