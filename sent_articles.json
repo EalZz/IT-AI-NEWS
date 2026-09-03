@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214642",
-    "https://discuss.pytorch.kr/t/praxist/11765",
-    "https://www.aitimes.com/news/articleView.html?idxno=214682",
-    "https://www.aitimes.com/news/articleView.html?idxno=214676",
-    "https://www.aitimes.com/news/articleView.html?idxno=214668",
-    "https://www.aitimes.com/news/articleView.html?idxno=214675",
     "https://www.aitimes.com/news/articleView.html?idxno=214672",
     "https://www.aitimes.com/news/articleView.html?idxno=214686",
     "https://www.aitimes.com/news/articleView.html?idxno=214679",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214803",
     "https://www.aitimes.com/news/articleView.html?idxno=214795",
     "https://www.aitimes.com/news/articleView.html?idxno=214798",
-    "https://www.aitimes.com/news/articleView.html?idxno=214793"
+    "https://www.aitimes.com/news/articleView.html?idxno=214793",
+    "https://www.aitimes.com/news/articleView.html?idxno=214806",
+    "https://www.aitimes.com/news/articleView.html?idxno=214785",
+    "https://www.aitimes.com/news/articleView.html?idxno=214784",
+    "https://www.aitimes.com/news/articleView.html?idxno=214802",
+    "https://www.aitimes.com/news/articleView.html?idxno=214801",
+    "https://discuss.pytorch.kr/t/code-as-world-9b-gemini-3-1-flash/11799"
 ]
