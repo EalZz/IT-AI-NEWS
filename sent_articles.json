@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214695",
-    "https://www.aitimes.com/news/articleView.html?idxno=214692",
     "https://www.aitimes.com/news/articleView.html?idxno=214697",
     "https://www.aitimes.com/news/articleView.html?idxno=214704",
     "https://www.aitimes.com/news/articleView.html?idxno=214709",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/agent-behavior/11800",
     "https://discuss.pytorch.kr/t/pytorch-2-14-nvgemm-c10d-python-3-15-feat-torchvision-0-29/11809",
     "https://discuss.pytorch.kr/t/nvidia/11814",
-    "https://www.aitimes.com/news/articleView.html?idxno=214821"
+    "https://www.aitimes.com/news/articleView.html?idxno=214821",
+    "https://www.aitimes.com/news/articleView.html?idxno=214783",
+    "https://discuss.pytorch.kr/t/auto-benchmax-mcp-atlas-2/11805"
 ]
