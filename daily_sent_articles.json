@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/dsh-web-ui-dsh-gui/11675",
-    "https://discuss.pytorch.kr/t/openbot/11692",
-    "https://discuss.pytorch.kr/t/2027-gpu-tco-feat-ai/11705",
-    "https://discuss.pytorch.kr/t/ai-agent/11704",
-    "https://www.aitimes.com/news/articleView.html?idxno=214329",
-    "https://www.aitimes.com/news/articleView.html?idxno=214324",
-    "https://www.aitimes.com/news/articleView.html?idxno=214355",
-    "https://www.aitimes.com/news/articleView.html?idxno=214349",
-    "https://www.aitimes.com/news/articleView.html?idxno=214350",
-    "https://discuss.pytorch.kr/t/pandaprobe/11715",
     "https://discuss.pytorch.kr/t/kimodo-cpp-nvidia-kimodo-pytorch-c-ggml/11708",
     "https://discuss.pytorch.kr/t/freetoken-moe-edge-serving/11696",
     "https://discuss.pytorch.kr/t/openconnector-1-000-saas/11706",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/pytorch-2-14-nvgemm-c10d-python-3-15-feat-torchvision-0-29/11809",
     "https://discuss.pytorch.kr/t/agent-behavior/11800",
     "https://discuss.pytorch.kr/t/code-as-world-9b-gemini-3-1-flash/11799",
-    "https://discuss.pytorch.kr/t/path-to-astra-openai-critical-astra/11796"
+    "https://discuss.pytorch.kr/t/path-to-astra-openai-critical-astra/11796",
+    "https://www.aitimes.com/news/articleView.html?idxno=214861",
+    "https://www.aitimes.com/news/articleView.html?idxno=214851",
+    "https://www.aitimes.com/news/articleView.html?idxno=214866",
+    "https://www.aitimes.com/news/articleView.html?idxno=214858",
+    "https://www.aitimes.com/news/articleView.html?idxno=214873",
+    "https://discuss.pytorch.kr/t/codex-with-chatgpt-chatgpt-mcp/11804",
+    "https://discuss.pytorch.kr/t/fabro-graphviz/11815",
+    "https://discuss.pytorch.kr/t/26-ai-9-30/11826",
+    "https://discuss.pytorch.kr/t/26-ai-9-30/11825",
+    "https://discuss.pytorch.kr/t/sepia-ai/11813"
 ]
