@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214697",
     "https://www.aitimes.com/news/articleView.html?idxno=214704",
     "https://www.aitimes.com/news/articleView.html?idxno=214709",
     "https://www.aitimes.com/news/articleView.html?idxno=214708",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/nvidia/11814",
     "https://www.aitimes.com/news/articleView.html?idxno=214821",
     "https://www.aitimes.com/news/articleView.html?idxno=214783",
-    "https://discuss.pytorch.kr/t/auto-benchmax-mcp-atlas-2/11805"
+    "https://discuss.pytorch.kr/t/auto-benchmax-mcp-atlas-2/11805",
+    "https://discuss.pytorch.kr/t/openenv-feat-meta-hugging-face/11812"
 ]
