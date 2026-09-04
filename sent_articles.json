@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214723",
-    "https://discuss.pytorch.kr/t/reversa-ai/11785",
-    "https://discuss.pytorch.kr/t/nvidia-model-optimizer-vllm-tensorrt-sglang/11782",
-    "https://www.aitimes.com/news/articleView.html?idxno=214734",
-    "https://www.aitimes.com/news/articleView.html?idxno=214732",
-    "https://www.aitimes.com/news/articleView.html?idxno=214729",
     "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-1-mythos-5-1-2-75/11794",
     "https://discuss.pytorch.kr/t/sentence-transformers-gpu-14-5/11791",
     "https://www.aitimes.com/news/articleView.html?idxno=214738",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214843",
     "https://www.aitimes.com/news/articleView.html?idxno=214846",
     "https://www.aitimes.com/news/articleView.html?idxno=214864",
-    "https://www.aitimes.com/news/articleView.html?idxno=214850"
+    "https://www.aitimes.com/news/articleView.html?idxno=214850",
+    "https://www.aitimes.com/news/articleView.html?idxno=214871",
+    "https://www.aitimes.com/news/articleView.html?idxno=214869",
+    "https://www.aitimes.com/news/articleView.html?idxno=214868",
+    "https://www.aitimes.com/news/articleView.html?idxno=214867",
+    "https://www.aitimes.com/news/articleView.html?idxno=214854",
+    "https://discuss.pytorch.kr/t/sepia-ai/11813"
 ]
