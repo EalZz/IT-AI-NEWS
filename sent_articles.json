@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214819",
-    "https://www.aitimes.com/news/articleView.html?idxno=214807",
-    "https://www.aitimes.com/news/articleView.html?idxno=214811",
-    "https://www.aitimes.com/news/articleView.html?idxno=214782",
-    "https://discuss.pytorch.kr/t/agent-behavior/11800",
-    "https://discuss.pytorch.kr/t/pytorch-2-14-nvgemm-c10d-python-3-15-feat-torchvision-0-29/11809",
     "https://discuss.pytorch.kr/t/nvidia/11814",
     "https://www.aitimes.com/news/articleView.html?idxno=214821",
     "https://www.aitimes.com/news/articleView.html?idxno=214783",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214941",
     "https://www.aitimes.com/news/articleView.html?idxno=214921",
     "https://www.aitimes.com/news/articleView.html?idxno=214918",
-    "https://www.aitimes.com/news/articleView.html?idxno=214940"
+    "https://www.aitimes.com/news/articleView.html?idxno=214940",
+    "https://www.aitimes.com/news/articleView.html?idxno=214947",
+    "https://www.aitimes.com/news/articleView.html?idxno=214957",
+    "https://www.aitimes.com/news/articleView.html?idxno=214955",
+    "https://www.aitimes.com/news/articleView.html?idxno=214956",
+    "https://www.aitimes.com/news/articleView.html?idxno=214949",
+    "https://discuss.pytorch.kr/t/lightnav-0-rgb-4b/11837"
 ]
