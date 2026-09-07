@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214784",
-    "https://www.aitimes.com/news/articleView.html?idxno=214802",
-    "https://www.aitimes.com/news/articleView.html?idxno=214801",
-    "https://discuss.pytorch.kr/t/code-as-world-9b-gemini-3-1-flash/11799",
-    "https://www.aitimes.com/news/articleView.html?idxno=214792",
     "https://www.aitimes.com/news/articleView.html?idxno=214814",
     "https://www.aitimes.com/news/articleView.html?idxno=214809",
     "https://www.aitimes.com/news/articleView.html?idxno=214808",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214922",
     "https://www.aitimes.com/news/articleView.html?idxno=214923",
     "https://www.aitimes.com/news/articleView.html?idxno=214926",
-    "https://www.aitimes.com/news/articleView.html?idxno=214920"
+    "https://www.aitimes.com/news/articleView.html?idxno=214920",
+    "https://www.aitimes.com/news/articleView.html?idxno=214930",
+    "https://www.aitimes.com/news/articleView.html?idxno=214931",
+    "https://www.aitimes.com/news/articleView.html?idxno=214927",
+    "https://discuss.pytorch.kr/t/openai-gpt-6-astra/11846",
+    "https://discuss.pytorch.kr/t/hayamimi-gpu-cpu/11798"
 ]
