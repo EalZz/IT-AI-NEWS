@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214842",
-    "https://www.aitimes.com/news/articleView.html?idxno=214835",
     "https://www.aitimes.com/news/articleView.html?idxno=214830",
     "https://discuss.pytorch.kr/t/gpt-6-astra-or/11820",
     "https://discuss.pytorch.kr/t/timesfm-3/11793",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=214961",
     "https://www.aitimes.com/news/articleView.html?idxno=214962",
     "https://discuss.pytorch.kr/t/free-phd-labor/11838",
-    "https://discuss.pytorch.kr/t/reef/11830"
+    "https://discuss.pytorch.kr/t/reef/11830",
+    "https://www.aitimes.com/news/articleView.html?idxno=214964",
+    "https://discuss.pytorch.kr/t/anthropic-claude-code-80-claude-5-6/11845"
 ]
