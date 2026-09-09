@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214956",
-    "https://www.aitimes.com/news/articleView.html?idxno=214949",
     "https://discuss.pytorch.kr/t/lightnav-0-rgb-4b/11837",
     "https://www.aitimes.com/news/articleView.html?idxno=214952",
     "https://www.aitimes.com/news/articleView.html?idxno=214932",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/vdn-h3-minimax-h3-h3/11862",
     "https://www.aitimes.com/news/articleView.html?idxno=215037",
     "https://discuss.pytorch.kr/t/goldie-cli/11864",
-    "https://www.aitimes.com/news/articleView.html?idxno=215061"
+    "https://www.aitimes.com/news/articleView.html?idxno=215061",
+    "https://www.aitimes.com/news/articleView.html?idxno=215023",
+    "https://discuss.pytorch.kr/t/hugging-face-papers-with-code-11-feat-pgvector-rrf/11859"
 ]
