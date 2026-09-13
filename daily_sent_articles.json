@@ -1,11 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=214745",
-    "https://www.aitimes.com/news/articleView.html?idxno=214749",
-    "https://www.aitimes.com/news/articleView.html?idxno=214753",
-    "https://www.aitimes.com/news/articleView.html?idxno=214750",
-    "https://discuss.pytorch.kr/t/x64dbg-mcp-server-x64dbg-ai-zig/11766",
-    "https://discuss.pytorch.kr/t/amagine3d-cad/11784",
-    "https://discuss.pytorch.kr/t/pymupdf-10-10/11797",
     "https://discuss.pytorch.kr/t/goal-driven/11783",
     "https://discuss.pytorch.kr/t/sentence-transformers-gpu-14-5/11791",
     "https://www.aitimes.com/news/articleView.html?idxno=214821",
@@ -98,5 +91,12 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215184",
     "https://discuss.pytorch.kr/t/anthropic-17-9-gdp-32/11895",
     "https://discuss.pytorch.kr/t/openai-codex-gpt-6-astra-agents-md/11900",
-    "https://discuss.pytorch.kr/t/cognition-kimi-k3-swe-2-fable-5-1-1-64/11891"
+    "https://discuss.pytorch.kr/t/cognition-kimi-k3-swe-2-fable-5-1-1-64/11891",
+    "https://www.aitimes.com/news/articleView.html?idxno=215207",
+    "https://www.aitimes.com/news/articleView.html?idxno=215204",
+    "https://www.aitimes.com/news/articleView.html?idxno=215205",
+    "https://www.aitimes.com/news/articleView.html?idxno=215202",
+    "https://www.aitimes.com/news/articleView.html?idxno=215197",
+    "https://discuss.pytorch.kr/t/2026-09-07-13-ai-ml/11911",
+    "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884"
 ]
