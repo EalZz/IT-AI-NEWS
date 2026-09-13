@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215071",
-    "https://www.aitimes.com/news/articleView.html?idxno=215072",
     "https://www.aitimes.com/news/articleView.html?idxno=215070",
     "https://discuss.pytorch.kr/t/weathernext-3-5km-ai-feat-google-deepmind/11858",
     "https://www.aitimes.com/news/articleView.html?idxno=215089",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215163",
     "https://www.aitimes.com/news/articleView.html?idxno=215204",
     "https://www.aitimes.com/news/articleView.html?idxno=215205",
-    "https://www.aitimes.com/news/articleView.html?idxno=215202"
+    "https://www.aitimes.com/news/articleView.html?idxno=215202",
+    "https://www.aitimes.com/news/articleView.html?idxno=215207",
+    "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884"
 ]
