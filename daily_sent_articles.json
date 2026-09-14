@@ -1,13 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/goal-driven/11783",
-    "https://discuss.pytorch.kr/t/sentence-transformers-gpu-14-5/11791",
-    "https://www.aitimes.com/news/articleView.html?idxno=214821",
-    "https://www.aitimes.com/news/articleView.html?idxno=214782",
-    "https://www.aitimes.com/news/articleView.html?idxno=214800",
-    "https://www.aitimes.com/news/articleView.html?idxno=214813",
-    "https://www.aitimes.com/news/articleView.html?idxno=214819",
-    "https://discuss.pytorch.kr/t/nvidia/11814",
-    "https://discuss.pytorch.kr/t/pytorch-2-14-nvgemm-c10d-python-3-15-feat-torchvision-0-29/11809",
     "https://discuss.pytorch.kr/t/agent-behavior/11800",
     "https://discuss.pytorch.kr/t/code-as-world-9b-gemini-3-1-flash/11799",
     "https://discuss.pytorch.kr/t/path-to-astra-openai-critical-astra/11796",
@@ -98,5 +89,14 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215202",
     "https://www.aitimes.com/news/articleView.html?idxno=215197",
     "https://discuss.pytorch.kr/t/2026-09-07-13-ai-ml/11911",
-    "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884"
+    "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884",
+    "https://www.aitimes.com/news/articleView.html?idxno=215251",
+    "https://www.aitimes.com/news/articleView.html?idxno=215257",
+    "https://www.aitimes.com/news/articleView.html?idxno=215233",
+    "https://www.aitimes.com/news/articleView.html?idxno=215235",
+    "https://www.aitimes.com/news/articleView.html?idxno=215247",
+    "https://discuss.pytorch.kr/t/a2a-3-a2a-cli-a2a/11894",
+    "https://discuss.pytorch.kr/t/a2a-2-a2a-python-sdk-a2a/11893",
+    "https://discuss.pytorch.kr/t/topic/11912",
+    "https://discuss.pytorch.kr/t/openwam-world-action-model/11881"
 ]
