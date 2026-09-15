@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215132",
-    "https://www.aitimes.com/news/articleView.html?idxno=215125",
     "https://www.aitimes.com/news/articleView.html?idxno=215126",
     "https://www.aitimes.com/news/articleView.html?idxno=215075",
     "https://www.aitimes.com/news/articleView.html?idxno=215138",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215257",
     "https://www.aitimes.com/news/articleView.html?idxno=215218",
     "https://discuss.pytorch.kr/t/edge0-35b-moe-3gib-ssd/11914",
-    "https://discuss.pytorch.kr/t/beyond-gpu-ai-hardware-meetup-9-29/11919"
+    "https://discuss.pytorch.kr/t/beyond-gpu-ai-hardware-meetup-9-29/11919",
+    "https://www.aitimes.com/news/articleView.html?idxno=215262",
+    "https://www.aitimes.com/news/articleView.html?idxno=215260"
 ]
