@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215124",
-    "https://discuss.pytorch.kr/t/cognition-kimi-k3-swe-2-fable-5-1-1-64/11891",
     "https://www.aitimes.com/news/articleView.html?idxno=215182",
     "https://www.aitimes.com/news/articleView.html?idxno=215181",
     "https://www.aitimes.com/news/articleView.html?idxno=215187",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215305",
     "https://discuss.pytorch.kr/t/kvcache-meetup/11925",
     "https://discuss.pytorch.kr/t/paperthin-28-in-1/11921",
-    "https://discuss.pytorch.kr/t/ai/11930"
+    "https://discuss.pytorch.kr/t/ai/11930",
+    "https://www.aitimes.com/news/articleView.html?idxno=215269",
+    "https://discuss.pytorch.kr/t/unifolm-wla-1-0-unitree-6b/11929"
 ]
