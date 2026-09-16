@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215161",
-    "https://www.aitimes.com/news/articleView.html?idxno=215197",
-    "https://www.aitimes.com/news/articleView.html?idxno=215200",
-    "https://www.aitimes.com/news/articleView.html?idxno=215203",
-    "https://www.aitimes.com/news/articleView.html?idxno=215196",
     "https://www.aitimes.com/news/articleView.html?idxno=215163",
     "https://www.aitimes.com/news/articleView.html?idxno=215204",
     "https://www.aitimes.com/news/articleView.html?idxno=215205",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215341",
     "https://www.aitimes.com/news/articleView.html?idxno=215340",
     "https://www.aitimes.com/news/articleView.html?idxno=215342",
-    "https://discuss.pytorch.kr/t/gpt-5-6-sol-gpt-6-sol/11934"
+    "https://discuss.pytorch.kr/t/gpt-5-6-sol-gpt-6-sol/11934",
+    "https://www.aitimes.com/news/articleView.html?idxno=215352",
+    "https://www.aitimes.com/news/articleView.html?idxno=215348",
+    "https://www.aitimes.com/news/articleView.html?idxno=215349",
+    "https://www.aitimes.com/news/articleView.html?idxno=215346",
+    "https://discuss.pytorch.kr/t/nvidia-transformer-engine-jax-dropless-moe-10-105-1-025-tflops/11927"
 ]
