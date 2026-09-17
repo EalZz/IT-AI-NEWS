@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215272",
-    "https://www.aitimes.com/news/articleView.html?idxno=215271",
     "https://www.aitimes.com/news/articleView.html?idxno=215270",
     "https://discuss.pytorch.kr/t/chat-on-steroids-chatgpt-mcp/11915",
     "https://www.aitimes.com/news/articleView.html?idxno=215288",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215401",
     "https://www.aitimes.com/news/articleView.html?idxno=215398",
     "https://www.aitimes.com/news/articleView.html?idxno=215399",
-    "https://discuss.pytorch.kr/t/topic/11943"
+    "https://discuss.pytorch.kr/t/topic/11943",
+    "https://www.aitimes.com/news/articleView.html?idxno=215372",
+    "https://discuss.pytorch.kr/t/kaggle-tpu-lab-kaggle-tpu-320b-glm-5-3-flash-api/11944"
 ]
