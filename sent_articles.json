@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215282",
-    "https://www.aitimes.com/news/articleView.html?idxno=215283",
-    "https://www.aitimes.com/news/articleView.html?idxno=215281",
     "https://www.aitimes.com/news/articleView.html?idxno=215280",
     "https://www.aitimes.com/news/articleView.html?idxno=215279",
     "https://www.aitimes.com/news/articleView.html?idxno=215263",
@@ -98,5 +95,8 @@
     "https://discuss.pytorch.kr/t/kaggle-tpu-lab-kaggle-tpu-320b-glm-5-3-flash-api/11944",
     "https://www.aitimes.com/news/articleView.html?idxno=215430",
     "https://www.aitimes.com/news/articleView.html?idxno=215444",
-    "https://discuss.pytorch.kr/t/rlt-recurrent-looped-transformer/11937"
+    "https://discuss.pytorch.kr/t/rlt-recurrent-looped-transformer/11937",
+    "https://www.aitimes.com/news/articleView.html?idxno=215434",
+    "https://www.aitimes.com/news/articleView.html?idxno=215435",
+    "https://discuss.pytorch.kr/t/topic/11950"
 ]
