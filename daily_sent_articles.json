@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/meta-muse-spark-1-3-1m-55-5-98-1-20/11860",
-    "https://www.aitimes.com/news/articleView.html?idxno=215093",
-    "https://www.aitimes.com/news/articleView.html?idxno=215099",
-    "https://www.aitimes.com/news/articleView.html?idxno=215104",
-    "https://www.aitimes.com/news/articleView.html?idxno=215105",
-    "https://www.aitimes.com/news/articleView.html?idxno=215110",
-    "https://discuss.pytorch.kr/t/e-p-d-ttft-93-feat-nvidia-dynamo/11883",
-    "https://discuss.pytorch.kr/t/paw-work/11879",
-    "https://discuss.pytorch.kr/t/envoy-ai-gateway-agent-router-aaif-crd-aigw-cli/11880",
-    "https://discuss.pytorch.kr/t/weathernext-3-5km-ai-feat-google-deepmind/11858",
     "https://discuss.pytorch.kr/t/hugging-face-papers-with-code-11-feat-pgvector-rrf/11859",
     "https://www.aitimes.com/news/articleView.html?idxno=215179",
     "https://www.aitimes.com/news/articleView.html?idxno=215145",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/2026-09-14-20-ai-ml/11966",
     "https://discuss.pytorch.kr/t/kev-jev-qwen-lora/11963",
     "https://discuss.pytorch.kr/t/jev-13/11968",
-    "https://discuss.pytorch.kr/t/splash-apple-silicon/11959"
+    "https://discuss.pytorch.kr/t/splash-apple-silicon/11959",
+    "https://www.aitimes.com/news/articleView.html?idxno=215545",
+    "https://www.aitimes.com/news/articleView.html?idxno=215547",
+    "https://www.aitimes.com/news/articleView.html?idxno=215516",
+    "https://www.aitimes.com/news/articleView.html?idxno=215520",
+    "https://www.aitimes.com/news/articleView.html?idxno=215537",
+    "https://discuss.pytorch.kr/t/bend-2-feat-c-gpu/11960",
+    "https://discuss.pytorch.kr/t/12-stp-iv-9-28/11979",
+    "https://discuss.pytorch.kr/t/jev-search-url/11976",
+    "https://discuss.pytorch.kr/t/fast-jev-compaction-claude-code/11970",
+    "https://discuss.pytorch.kr/t/stonkfly-llm-16/11967"
 ]
