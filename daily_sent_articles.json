@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/hugging-face-papers-with-code-11-feat-pgvector-rrf/11859",
-    "https://www.aitimes.com/news/articleView.html?idxno=215179",
-    "https://www.aitimes.com/news/articleView.html?idxno=215145",
-    "https://www.aitimes.com/news/articleView.html?idxno=215143",
-    "https://www.aitimes.com/news/articleView.html?idxno=215156",
-    "https://www.aitimes.com/news/articleView.html?idxno=215174",
-    "https://discuss.pytorch.kr/t/a2a-1-a2a/11892",
-    "https://discuss.pytorch.kr/t/700-7-9-30/11897",
-    "https://discuss.pytorch.kr/t/deepseek-v4-1-flash-kv-890-v4-pro-552b-moe/11886",
-    "https://discuss.pytorch.kr/t/ai/11890",
     "https://discuss.pytorch.kr/t/mapl-emit-360-1-5-feat-google-nasa-jpl/11882",
     "https://www.aitimes.com/news/articleView.html?idxno=215194",
     "https://www.aitimes.com/news/articleView.html?idxno=215192",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/12-stp-iv-9-28/11979",
     "https://discuss.pytorch.kr/t/jev-search-url/11976",
     "https://discuss.pytorch.kr/t/fast-jev-compaction-claude-code/11970",
-    "https://discuss.pytorch.kr/t/stonkfly-llm-16/11967"
+    "https://discuss.pytorch.kr/t/stonkfly-llm-16/11967",
+    "https://www.aitimes.com/news/articleView.html?idxno=215584",
+    "https://www.aitimes.com/news/articleView.html?idxno=215583",
+    "https://www.aitimes.com/news/articleView.html?idxno=215552",
+    "https://www.aitimes.com/news/articleView.html?idxno=215566",
+    "https://www.aitimes.com/news/articleView.html?idxno=215568",
+    "https://discuss.pytorch.kr/t/pgjev-where-postgresql/11984",
+    "https://discuss.pytorch.kr/t/aiperf-nvidia-llm/11975",
+    "https://discuss.pytorch.kr/t/r4t-retrieve-for-train-rl-fan-out-diffusion-model/11933",
+    "https://discuss.pytorch.kr/t/codex-0-x20-tibo/11982",
+    "https://discuss.pytorch.kr/t/xiaomi-rl-1-02t-mimo-v2-6-1/11981"
 ]
