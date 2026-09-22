@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215458",
-    "https://www.aitimes.com/news/articleView.html?idxno=215456",
     "https://www.aitimes.com/news/articleView.html?idxno=215455",
     "https://www.aitimes.com/news/articleView.html?idxno=215439",
     "https://www.aitimes.com/news/articleView.html?idxno=215462",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215547",
     "https://discuss.pytorch.kr/t/bend-2-feat-c-gpu/11960",
     "https://www.aitimes.com/news/articleView.html?idxno=215518",
-    "https://www.aitimes.com/news/articleView.html?idxno=215466"
+    "https://www.aitimes.com/news/articleView.html?idxno=215466",
+    "https://www.aitimes.com/news/articleView.html?idxno=215550",
+    "https://discuss.pytorch.kr/t/xiaomi-rl-1-02t-mimo-v2-6-1/11981"
 ]
