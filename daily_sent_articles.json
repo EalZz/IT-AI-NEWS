@@ -1,11 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215204",
-    "https://www.aitimes.com/news/articleView.html?idxno=215205",
-    "https://www.aitimes.com/news/articleView.html?idxno=215202",
-    "https://www.aitimes.com/news/articleView.html?idxno=215197",
-    "https://discuss.pytorch.kr/t/2026-09-07-13-ai-ml/11911",
-    "https://discuss.pytorch.kr/t/okf-agent-memory-db-git-ai/11884",
-    "https://www.aitimes.com/news/articleView.html?idxno=215251",
     "https://www.aitimes.com/news/articleView.html?idxno=215257",
     "https://www.aitimes.com/news/articleView.html?idxno=215233",
     "https://www.aitimes.com/news/articleView.html?idxno=215235",
@@ -98,5 +91,12 @@
     "https://discuss.pytorch.kr/t/3d/11999",
     "https://discuss.pytorch.kr/t/nvidia-ai/11986",
     "https://discuss.pytorch.kr/t/stepfun-step-5-preview-kimi-k3-1-3-10-15/11987",
-    "https://discuss.pytorch.kr/t/openai-api-gpt-6-sol-luna/11989"
+    "https://discuss.pytorch.kr/t/openai-api-gpt-6-sol-luna/11989",
+    "https://www.aitimes.com/news/articleView.html?idxno=215647",
+    "https://www.aitimes.com/news/articleView.html?idxno=215646",
+    "https://www.aitimes.com/news/articleView.html?idxno=215645",
+    "https://www.aitimes.com/news/articleView.html?idxno=215644",
+    "https://www.aitimes.com/news/articleView.html?idxno=215638",
+    "https://discuss.pytorch.kr/t/claude-opus-5-5-anthropic-opus-5-4-x-sonnet-5-400/12002",
+    "https://discuss.pytorch.kr/t/gravityocr-diffusion-ar-ocr-feat-trillion-labs/11997"
 ]
