@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215504",
-    "https://www.aitimes.com/news/articleView.html?idxno=215495",
     "https://www.aitimes.com/news/articleView.html?idxno=215496",
     "https://www.aitimes.com/news/articleView.html?idxno=215506",
     "https://www.aitimes.com/news/articleView.html?idxno=215505",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215591",
     "https://www.aitimes.com/news/articleView.html?idxno=215590",
     "https://www.aitimes.com/news/articleView.html?idxno=215588",
-    "https://www.aitimes.com/news/articleView.html?idxno=215585"
+    "https://www.aitimes.com/news/articleView.html?idxno=215585",
+    "https://www.aitimes.com/news/articleView.html?idxno=215632",
+    "https://discuss.pytorch.kr/t/gravityocr-diffusion-ar-ocr-feat-trillion-labs/11997"
 ]
