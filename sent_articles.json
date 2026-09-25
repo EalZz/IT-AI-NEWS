@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215520",
-    "https://www.aitimes.com/news/articleView.html?idxno=215537",
     "https://discuss.pytorch.kr/t/jev-search-url/11976",
     "https://discuss.pytorch.kr/t/12-stp-iv-9-28/11979",
     "https://www.aitimes.com/news/articleView.html?idxno=215545",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215651",
     "https://www.aitimes.com/news/articleView.html?idxno=215652",
     "https://www.aitimes.com/news/articleView.html?idxno=215654",
-    "https://www.aitimes.com/news/articleView.html?idxno=215657"
+    "https://www.aitimes.com/news/articleView.html?idxno=215657",
+    "https://www.aitimes.com/news/articleView.html?idxno=215658",
+    "https://discuss.pytorch.kr/t/mac-pytorch-mps-oom/12015"
 ]
