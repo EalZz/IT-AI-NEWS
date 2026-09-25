@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215257",
-    "https://www.aitimes.com/news/articleView.html?idxno=215233",
-    "https://www.aitimes.com/news/articleView.html?idxno=215235",
-    "https://www.aitimes.com/news/articleView.html?idxno=215247",
-    "https://discuss.pytorch.kr/t/a2a-3-a2a-cli-a2a/11894",
-    "https://discuss.pytorch.kr/t/a2a-2-a2a-python-sdk-a2a/11893",
-    "https://discuss.pytorch.kr/t/topic/11912",
-    "https://discuss.pytorch.kr/t/openwam-world-action-model/11881",
-    "https://www.aitimes.com/news/articleView.html?idxno=215301",
-    "https://www.aitimes.com/news/articleView.html?idxno=215290",
     "https://www.aitimes.com/news/articleView.html?idxno=215285",
     "https://www.aitimes.com/news/articleView.html?idxno=215284",
     "https://www.aitimes.com/news/articleView.html?idxno=215305",
@@ -98,5 +88,15 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215644",
     "https://www.aitimes.com/news/articleView.html?idxno=215638",
     "https://discuss.pytorch.kr/t/claude-opus-5-5-anthropic-opus-5-4-x-sonnet-5-400/12002",
-    "https://discuss.pytorch.kr/t/gravityocr-diffusion-ar-ocr-feat-trillion-labs/11997"
+    "https://discuss.pytorch.kr/t/gravityocr-diffusion-ar-ocr-feat-trillion-labs/11997",
+    "https://www.aitimes.com/news/articleView.html?idxno=215658",
+    "https://www.aitimes.com/news/articleView.html?idxno=215657",
+    "https://www.aitimes.com/news/articleView.html?idxno=215652",
+    "https://www.aitimes.com/news/articleView.html?idxno=215654",
+    "https://www.aitimes.com/news/articleView.html?idxno=215650",
+    "https://discuss.pytorch.kr/t/mac-pytorch-mps-oom/12015",
+    "https://discuss.pytorch.kr/t/vllm/12014",
+    "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003",
+    "https://discuss.pytorch.kr/t/vllm-rope-scaling-180-64-rope-entail/12012",
+    "https://discuss.pytorch.kr/t/vllm-semantic-router-jev-decision-1-0-6-decision-studio/12005"
 ]
