@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215521",
-    "https://www.aitimes.com/news/articleView.html?idxno=215532",
     "https://www.aitimes.com/news/articleView.html?idxno=215531",
     "https://www.aitimes.com/news/articleView.html?idxno=215519",
     "https://www.aitimes.com/news/articleView.html?idxno=215541",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215589",
     "https://www.aitimes.com/news/articleView.html?idxno=215593",
     "https://discuss.pytorch.kr/t/vllm-rope-scaling-180-64-rope-entail/12012",
-    "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003"
+    "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003",
+    "https://www.aitimes.com/news/articleView.html?idxno=215649",
+    "https://discuss.pytorch.kr/t/vllm/12014"
 ]
