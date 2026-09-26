@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215285",
-    "https://www.aitimes.com/news/articleView.html?idxno=215284",
-    "https://www.aitimes.com/news/articleView.html?idxno=215305",
-    "https://discuss.pytorch.kr/t/ai/11930",
-    "https://discuss.pytorch.kr/t/paperthin-28-in-1/11921",
-    "https://discuss.pytorch.kr/t/kvcache-meetup/11925",
-    "https://discuss.pytorch.kr/t/three-js-game-skills-9/11916",
-    "https://discuss.pytorch.kr/t/chat-on-steroids-chatgpt-mcp/11915",
-    "https://www.aitimes.com/news/articleView.html?idxno=215363",
-    "https://www.aitimes.com/news/articleView.html?idxno=215343",
     "https://www.aitimes.com/news/articleView.html?idxno=215360",
     "https://www.aitimes.com/news/articleView.html?idxno=215356",
     "https://www.aitimes.com/news/articleView.html?idxno=215354",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/vllm/12014",
     "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003",
     "https://discuss.pytorch.kr/t/vllm-rope-scaling-180-64-rope-entail/12012",
-    "https://discuss.pytorch.kr/t/vllm-semantic-router-jev-decision-1-0-6-decision-studio/12005"
+    "https://discuss.pytorch.kr/t/vllm-semantic-router-jev-decision-1-0-6-decision-studio/12005",
+    "https://www.aitimes.com/news/articleView.html?idxno=215675",
+    "https://www.aitimes.com/news/articleView.html?idxno=215674",
+    "https://www.aitimes.com/news/articleView.html?idxno=215670",
+    "https://www.aitimes.com/news/articleView.html?idxno=215671",
+    "https://www.aitimes.com/news/articleView.html?idxno=215673",
+    "https://discuss.pytorch.kr/t/pytorchkr-physical-ai/12016",
+    "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-shaping-the-build/11995",
+    "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-using-coding-agents/11994",
+    "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-software-engineering-fundamentals/11993",
+    "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-ai-building-and-deploying-ai-applications/11992"
 ]
