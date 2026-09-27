@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215553",
     "https://www.aitimes.com/news/articleView.html?idxno=215467",
     "https://discuss.pytorch.kr/t/anthropic-claude-opus-5-5-fable-5-1-opus-5-40/11988",
     "https://discuss.pytorch.kr/t/openai-api-gpt-6-sol-luna/11989",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215681",
     "https://www.aitimes.com/news/articleView.html?idxno=215678",
     "https://www.aitimes.com/news/articleView.html?idxno=215692",
-    "https://discuss.pytorch.kr/t/agent-shell-claude-code-codex-gemini-cli-emacs-acp/12007"
+    "https://discuss.pytorch.kr/t/agent-shell-claude-code-codex-gemini-cli-emacs-acp/12007",
+    "https://discuss.pytorch.kr/t/llmwiki-serve-markdown-obsidian/12026"
 ]
