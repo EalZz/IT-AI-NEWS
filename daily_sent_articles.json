@@ -1,13 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215360",
-    "https://www.aitimes.com/news/articleView.html?idxno=215356",
-    "https://www.aitimes.com/news/articleView.html?idxno=215354",
-    "https://discuss.pytorch.kr/t/nvidia-transformer-engine-jax-dropless-moe-10-105-1-025-tflops/11927",
-    "https://discuss.pytorch.kr/t/gpt-5-6-sol-gpt-6-sol/11934",
-    "https://discuss.pytorch.kr/t/llmfit-llm-tok-s/11922",
-    "https://discuss.pytorch.kr/t/unifolm-wla-1-0-unitree-6b/11929",
-    "https://www.aitimes.com/news/articleView.html?idxno=215401",
-    "https://www.aitimes.com/news/articleView.html?idxno=215398",
     "https://www.aitimes.com/news/articleView.html?idxno=215399",
     "https://www.aitimes.com/news/articleView.html?idxno=215419",
     "https://www.aitimes.com/news/articleView.html?idxno=215368",
@@ -98,5 +89,14 @@
     "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-shaping-the-build/11995",
     "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-using-coding-agents/11994",
     "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-software-engineering-fundamentals/11993",
-    "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-ai-building-and-deploying-ai-applications/11992"
+    "https://discuss.pytorch.kr/t/andrew-ng-ai-engineering-skills-map-ai-building-and-deploying-ai-applications/11992",
+    "https://www.aitimes.com/news/articleView.html?idxno=215694",
+    "https://www.aitimes.com/news/articleView.html?idxno=215692",
+    "https://www.aitimes.com/news/articleView.html?idxno=215681",
+    "https://www.aitimes.com/news/articleView.html?idxno=215678",
+    "https://www.aitimes.com/news/articleView.html?idxno=215655",
+    "https://discuss.pytorch.kr/t/2026-09-21-27-ai-ml/12024",
+    "https://discuss.pytorch.kr/t/llmwiki-serve-markdown-obsidian/12026",
+    "https://discuss.pytorch.kr/t/agent-shell-claude-code-codex-gemini-cli-emacs-acp/12007",
+    "https://discuss.pytorch.kr/t/helix-2-5-30/12008"
 ]
