@@ -1,11 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215649",
-    "https://discuss.pytorch.kr/t/vllm/12014",
-    "https://www.aitimes.com/news/articleView.html?idxno=215650",
-    "https://www.aitimes.com/news/articleView.html?idxno=215651",
-    "https://www.aitimes.com/news/articleView.html?idxno=215652",
-    "https://www.aitimes.com/news/articleView.html?idxno=215654",
-    "https://www.aitimes.com/news/articleView.html?idxno=215657",
     "https://www.aitimes.com/news/articleView.html?idxno=215658",
     "https://discuss.pytorch.kr/t/mac-pytorch-mps-oom/12015",
     "https://www.aitimes.com/news/articleView.html?idxno=215662",
@@ -98,5 +91,12 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215753",
     "https://www.aitimes.com/news/articleView.html?idxno=215754",
     "https://www.aitimes.com/news/articleView.html?idxno=215747",
-    "https://discuss.pytorch.kr/t/datadog-glm-5-3-87-1-20-qwen3-5-9b/12020"
+    "https://discuss.pytorch.kr/t/datadog-glm-5-3-87-1-20-qwen3-5-9b/12020",
+    "https://www.aitimes.com/news/articleView.html?idxno=215767",
+    "https://www.aitimes.com/news/articleView.html?idxno=215763",
+    "https://www.aitimes.com/news/articleView.html?idxno=215765",
+    "https://www.aitimes.com/news/articleView.html?idxno=215743",
+    "https://www.aitimes.com/news/articleView.html?idxno=215766",
+    "https://discuss.pytorch.kr/t/x-ai-pc-llm-10-14/12048",
+    "https://discuss.pytorch.kr/t/180b-aime2026-5-1/12047"
 ]
