@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215634",
-    "https://www.aitimes.com/news/articleView.html?idxno=215636",
     "https://www.aitimes.com/news/articleView.html?idxno=215644",
     "https://www.aitimes.com/news/articleView.html?idxno=215645",
     "https://www.aitimes.com/news/articleView.html?idxno=215647",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215734",
     "https://www.aitimes.com/news/articleView.html?idxno=215702",
     "https://discuss.pytorch.kr/t/laya-jev/12027",
-    "https://www.aitimes.com/news/articleView.html?idxno=215623"
+    "https://www.aitimes.com/news/articleView.html?idxno=215623",
+    "https://www.aitimes.com/news/articleView.html?idxno=215738",
+    "https://discuss.pytorch.kr/t/hugging-face-transformers-gguf-feat-llama-cpp-ggml/12036"
 ]
