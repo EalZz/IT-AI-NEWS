@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215739",
-    "https://www.aitimes.com/news/articleView.html?idxno=215741",
     "https://www.aitimes.com/news/articleView.html?idxno=215752",
     "https://www.aitimes.com/news/articleView.html?idxno=215750",
     "https://www.aitimes.com/news/articleView.html?idxno=215760",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=215850",
     "https://www.aitimes.com/news/articleView.html?idxno=215862",
     "https://www.aitimes.com/news/articleView.html?idxno=215847",
-    "https://www.aitimes.com/news/articleView.html?idxno=215864"
+    "https://www.aitimes.com/news/articleView.html?idxno=215864",
+    "https://discuss.pytorch.kr/t/gpu-nvmon/12075",
+    "https://discuss.pytorch.kr/t/bilibili-150-index-translate-5/12070"
 ]
