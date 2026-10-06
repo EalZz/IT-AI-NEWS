@@ -1,13 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215652",
-    "https://www.aitimes.com/news/articleView.html?idxno=215654",
-    "https://www.aitimes.com/news/articleView.html?idxno=215650",
-    "https://discuss.pytorch.kr/t/mac-pytorch-mps-oom/12015",
-    "https://discuss.pytorch.kr/t/vllm/12014",
-    "https://discuss.pytorch.kr/t/jev-jev-github-1-23/12003",
-    "https://discuss.pytorch.kr/t/vllm-rope-scaling-180-64-rope-entail/12012",
-    "https://discuss.pytorch.kr/t/vllm-semantic-router-jev-decision-1-0-6-decision-studio/12005",
-    "https://www.aitimes.com/news/articleView.html?idxno=215675",
     "https://www.aitimes.com/news/articleView.html?idxno=215674",
     "https://www.aitimes.com/news/articleView.html?idxno=215670",
     "https://www.aitimes.com/news/articleView.html?idxno=215671",
@@ -98,5 +89,14 @@
     "https://discuss.pytorch.kr/t/openai-tibo-28/12103",
     "https://discuss.pytorch.kr/t/topic/12099",
     "https://discuss.pytorch.kr/t/jev-reranking-llm/12091",
-    "https://discuss.pytorch.kr/t/translate-book-arxiv-arxiv-claude-code/12097"
+    "https://discuss.pytorch.kr/t/translate-book-arxiv-arxiv-claude-code/12097",
+    "https://www.aitimes.com/news/articleView.html?idxno=215987",
+    "https://www.aitimes.com/news/articleView.html?idxno=215998",
+    "https://www.aitimes.com/news/articleView.html?idxno=215993",
+    "https://www.aitimes.com/news/articleView.html?idxno=215999",
+    "https://www.aitimes.com/news/articleView.html?idxno=216002",
+    "https://discuss.pytorch.kr/t/rsi-recursive-self-improvement-2-2/12069",
+    "https://discuss.pytorch.kr/t/rsi-recursive-self-improvement-1-2/12068",
+    "https://discuss.pytorch.kr/t/agentcraft-claude-minecraft/12101",
+    "https://discuss.pytorch.kr/t/jev-decision-index-jevbench/12095"
 ]
