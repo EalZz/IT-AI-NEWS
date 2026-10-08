@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215692",
-    "https://www.aitimes.com/news/articleView.html?idxno=215681",
-    "https://www.aitimes.com/news/articleView.html?idxno=215678",
-    "https://www.aitimes.com/news/articleView.html?idxno=215655",
-    "https://discuss.pytorch.kr/t/2026-09-21-27-ai-ml/12024",
-    "https://discuss.pytorch.kr/t/llmwiki-serve-markdown-obsidian/12026",
-    "https://discuss.pytorch.kr/t/agent-shell-claude-code-codex-gemini-cli-emacs-acp/12007",
-    "https://discuss.pytorch.kr/t/helix-2-5-30/12008",
-    "https://www.aitimes.com/news/articleView.html?idxno=215733",
-    "https://www.aitimes.com/news/articleView.html?idxno=215714",
     "https://www.aitimes.com/news/articleView.html?idxno=215716",
     "https://www.aitimes.com/news/articleView.html?idxno=215729",
     "https://www.aitimes.com/news/articleView.html?idxno=215726",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/crafting-apps-adobe-7-rust-7/12119",
     "https://discuss.pytorch.kr/t/google-embeddinggemma-embeddinggemma-2/12118",
     "https://discuss.pytorch.kr/t/pymupdf-vs-docling/12120",
-    "https://discuss.pytorch.kr/t/reflection-ai-23b-501b-beam/12112"
+    "https://discuss.pytorch.kr/t/reflection-ai-23b-501b-beam/12112",
+    "https://www.aitimes.com/news/articleView.html?idxno=216076",
+    "https://www.aitimes.com/news/articleView.html?idxno=216080",
+    "https://www.aitimes.com/news/articleView.html?idxno=216073",
+    "https://www.aitimes.com/news/articleView.html?idxno=216087",
+    "https://www.aitimes.com/news/articleView.html?idxno=216071",
+    "https://discuss.pytorch.kr/t/anthropic-cyber-verification-program-3-mythos-5-1/12133",
+    "https://discuss.pytorch.kr/t/darwin-27b-ztc/12132",
+    "https://discuss.pytorch.kr/t/agentworld/12131",
+    "https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122",
+    "https://discuss.pytorch.kr/t/loopcd-apple/12094"
 ]
