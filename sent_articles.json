@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215904",
-    "https://www.aitimes.com/news/articleView.html?idxno=215871",
-    "https://www.aitimes.com/news/articleView.html?idxno=215905",
     "https://www.aitimes.com/news/articleView.html?idxno=215870",
     "https://discuss.pytorch.kr/t/humanize-python-claude-code-codex/12089",
     "https://www.aitimes.com/news/articleView.html?idxno=215950",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216059",
     "https://www.aitimes.com/news/articleView.html?idxno=216062",
     "https://www.aitimes.com/news/articleView.html?idxno=216075",
-    "https://www.aitimes.com/news/articleView.html?idxno=216078"
+    "https://www.aitimes.com/news/articleView.html?idxno=216078",
+    "https://www.aitimes.com/news/articleView.html?idxno=216081",
+    "https://discuss.pytorch.kr/t/agentworld/12131",
+    "https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122"
 ]
