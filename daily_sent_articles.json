@@ -1,13 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215716",
-    "https://www.aitimes.com/news/articleView.html?idxno=215729",
-    "https://www.aitimes.com/news/articleView.html?idxno=215726",
-    "https://discuss.pytorch.kr/t/clm-contrastive-lm-jev/12013",
-    "https://discuss.pytorch.kr/t/topic/12034",
-    "https://discuss.pytorch.kr/t/liquid-ai-vlm-2-66-3-13-lfm2-5-vl-3b-dspark/12019",
-    "https://discuss.pytorch.kr/t/cloudflare-sdlc-adlc/12021",
-    "https://discuss.pytorch.kr/t/ai-workers-inquiry-2026-ai-pdf-36p/12022",
-    "https://www.aitimes.com/news/articleView.html?idxno=215778",
     "https://www.aitimes.com/news/articleView.html?idxno=215761",
     "https://www.aitimes.com/news/articleView.html?idxno=215759",
     "https://www.aitimes.com/news/articleView.html?idxno=215749",
@@ -98,5 +89,14 @@
     "https://discuss.pytorch.kr/t/darwin-27b-ztc/12132",
     "https://discuss.pytorch.kr/t/agentworld/12131",
     "https://discuss.pytorch.kr/t/jeff-code-0-8b-qwen3-8-27b-32-pi/12122",
-    "https://discuss.pytorch.kr/t/loopcd-apple/12094"
+    "https://discuss.pytorch.kr/t/loopcd-apple/12094",
+    "https://www.aitimes.com/news/articleView.html?idxno=216106",
+    "https://www.aitimes.com/news/articleView.html?idxno=216105",
+    "https://www.aitimes.com/news/articleView.html?idxno=216104",
+    "https://www.aitimes.com/news/articleView.html?idxno=216103",
+    "https://www.aitimes.com/news/articleView.html?idxno=216095",
+    "https://discuss.pytorch.kr/t/hunk-diff/12123",
+    "https://discuss.pytorch.kr/t/liquid-ai-d1-3b-d1-omni-600m/12130",
+    "https://discuss.pytorch.kr/t/jev-5-1-ztc/12136",
+    "https://discuss.pytorch.kr/t/google-nber-133-ai/12134"
 ]
