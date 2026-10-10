@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216005",
     "https://www.aitimes.com/news/articleView.html?idxno=216007",
     "https://www.aitimes.com/news/articleView.html?idxno=215993",
     "https://www.aitimes.com/news/articleView.html?idxno=215999",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216110",
     "https://www.aitimes.com/news/articleView.html?idxno=216107",
     "https://www.aitimes.com/news/articleView.html?idxno=216113",
-    "https://www.aitimes.com/news/articleView.html?idxno=216108"
+    "https://www.aitimes.com/news/articleView.html?idxno=216108",
+    "https://discuss.pytorch.kr/t/vllm-omni/12128"
 ]
