@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216034",
     "https://www.aitimes.com/news/articleView.html?idxno=216030",
     "https://www.aitimes.com/news/articleView.html?idxno=216041",
     "https://www.aitimes.com/news/articleView.html?idxno=216031",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/ai-5/12154",
     "https://discuss.pytorch.kr/t/2026-10-05-11-ai-ml/12155",
     "https://discuss.pytorch.kr/t/rea-ghidra-ida-mcp/12150",
-    "https://www.aitimes.com/news/articleView.html?idxno=216139"
+    "https://www.aitimes.com/news/articleView.html?idxno=216139",
+    "https://discuss.pytorch.kr/t/guidellm-v0-8-0-slo-feat-vllm/12149"
 ]
