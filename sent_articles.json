@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216109",
-    "https://www.aitimes.com/news/articleView.html?idxno=216057",
     "https://www.aitimes.com/news/articleView.html?idxno=216066",
     "https://www.aitimes.com/news/articleView.html?idxno=216111",
     "https://www.aitimes.com/news/articleView.html?idxno=216112",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/meta-muse-wonder-1-claude-opus-5-5-2/12171",
     "https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171",
     "https://discuss.pytorch.kr/t/vercel-6-eve-100/12139",
-    "https://www.aitimes.com/news/articleView.html?idxno=216220"
+    "https://www.aitimes.com/news/articleView.html?idxno=216220",
+    "https://www.aitimes.com/news/articleView.html?idxno=216183",
+    "https://discuss.pytorch.kr/t/replayssm-ssm-nvidia/12174"
 ]
