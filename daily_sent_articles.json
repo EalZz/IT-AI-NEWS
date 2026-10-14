@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=215942",
-    "https://www.aitimes.com/news/articleView.html?idxno=215941",
-    "https://www.aitimes.com/news/articleView.html?idxno=215940",
-    "https://www.aitimes.com/news/articleView.html?idxno=215693",
-    "https://www.aitimes.com/news/articleView.html?idxno=215932",
-    "https://discuss.pytorch.kr/t/nvidia-vss-3-3-ai-vlm-feat-adaptive-evs/12077",
-    "https://discuss.pytorch.kr/t/autosynthdata-servicenow-feat-enterpriseops-gym/12083",
-    "https://www.aitimes.com/news/articleView.html?idxno=215688",
-    "https://www.aitimes.com/news/articleView.html?idxno=215945",
-    "https://www.aitimes.com/news/articleView.html?idxno=215949",
     "https://www.aitimes.com/news/articleView.html?idxno=215946",
     "https://www.aitimes.com/news/articleView.html?idxno=215951",
     "https://discuss.pytorch.kr/t/2026-09-28-10-04-ai-ml/12093",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171",
     "https://discuss.pytorch.kr/t/a16z-state-of-markets-ii-2026-ai-pdf-90p/12142",
     "https://discuss.pytorch.kr/t/topic/12170",
-    "https://discuss.pytorch.kr/t/nvidiaaiday-seoul-2026/12168"
+    "https://discuss.pytorch.kr/t/nvidiaaiday-seoul-2026/12168",
+    "https://www.aitimes.com/news/articleView.html?idxno=216242",
+    "https://www.aitimes.com/news/articleView.html?idxno=216244",
+    "https://www.aitimes.com/news/articleView.html?idxno=216253",
+    "https://www.aitimes.com/news/articleView.html?idxno=216246",
+    "https://www.aitimes.com/news/articleView.html?idxno=216260",
+    "https://discuss.pytorch.kr/t/juud-engine-strata-cpu-rtx-4090/12187",
+    "https://discuss.pytorch.kr/t/ai2-gpu-gpu-p90-2-30/12164",
+    "https://discuss.pytorch.kr/t/rsi-anything/12175",
+    "https://discuss.pytorch.kr/t/ai-datumo-eval-33/12185",
+    "https://discuss.pytorch.kr/t/npu-vkore-46m-npu/12184"
 ]
