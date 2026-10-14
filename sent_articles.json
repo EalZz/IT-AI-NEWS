@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216119",
-    "https://www.aitimes.com/news/articleView.html?idxno=216120",
-    "https://www.aitimes.com/news/articleView.html?idxno=216086",
-    "https://www.aitimes.com/news/articleView.html?idxno=216118",
-    "https://www.aitimes.com/news/articleView.html?idxno=216110",
-    "https://www.aitimes.com/news/articleView.html?idxno=216107",
     "https://www.aitimes.com/news/articleView.html?idxno=216113",
     "https://www.aitimes.com/news/articleView.html?idxno=216108",
     "https://discuss.pytorch.kr/t/vllm-omni/12128",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216237",
     "https://www.aitimes.com/news/articleView.html?idxno=216234",
     "https://www.aitimes.com/news/articleView.html?idxno=216240",
-    "https://discuss.pytorch.kr/t/awesome-reverse-engineering-mcp/12172"
+    "https://discuss.pytorch.kr/t/awesome-reverse-engineering-mcp/12172",
+    "https://www.aitimes.com/news/articleView.html?idxno=216252",
+    "https://www.aitimes.com/news/articleView.html?idxno=216248",
+    "https://www.aitimes.com/news/articleView.html?idxno=216247",
+    "https://www.aitimes.com/news/articleView.html?idxno=216245",
+    "https://www.aitimes.com/news/articleView.html?idxno=216231",
+    "https://discuss.pytorch.kr/t/npu-vkore-46m-npu/12184"
 ]
