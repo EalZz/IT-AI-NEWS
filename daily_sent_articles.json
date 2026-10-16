@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/sql-db-46/12105",
-    "https://discuss.pytorch.kr/t/openai-tibo-28/12103",
-    "https://discuss.pytorch.kr/t/topic/12099",
-    "https://discuss.pytorch.kr/t/jev-reranking-llm/12091",
-    "https://discuss.pytorch.kr/t/translate-book-arxiv-arxiv-claude-code/12097",
-    "https://www.aitimes.com/news/articleView.html?idxno=215987",
-    "https://www.aitimes.com/news/articleView.html?idxno=215998",
-    "https://www.aitimes.com/news/articleView.html?idxno=215993",
-    "https://www.aitimes.com/news/articleView.html?idxno=215999",
-    "https://www.aitimes.com/news/articleView.html?idxno=216002",
     "https://discuss.pytorch.kr/t/rsi-recursive-self-improvement-2-2/12069",
     "https://discuss.pytorch.kr/t/rsi-recursive-self-improvement-1-2/12068",
     "https://discuss.pytorch.kr/t/agentcraft-claude-minecraft/12101",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/dmis-lm-32k-ultrabert/12199",
     "https://discuss.pytorch.kr/t/studentsim-ai-microsoft/12173",
     "https://discuss.pytorch.kr/t/ai/12192",
-    "https://discuss.pytorch.kr/t/nvidia-ai-day-seoul-pytorchkr/12194"
+    "https://discuss.pytorch.kr/t/nvidia-ai-day-seoul-pytorchkr/12194",
+    "https://www.aitimes.com/news/articleView.html?idxno=216327",
+    "https://www.aitimes.com/news/articleView.html?idxno=216337",
+    "https://www.aitimes.com/news/articleView.html?idxno=216350",
+    "https://www.aitimes.com/news/articleView.html?idxno=216332",
+    "https://www.aitimes.com/news/articleView.html?idxno=216330",
+    "https://discuss.pytorch.kr/t/strata-12gb-pc-125b-qwen3-8-flash-next/12189",
+    "https://discuss.pytorch.kr/t/digup-embeddinggemma-2-pdf-macos-spotlight/12205",
+    "https://discuss.pytorch.kr/t/vlm-cpu-rag-feat-pymupdf-pro/12211",
+    "https://discuss.pytorch.kr/t/meta-mac-studio-816b-muse-spark-open-feat-mlx/12209",
+    "https://discuss.pytorch.kr/t/ai-dlc-claude-code-codex-feat-aws/12204"
 ]
