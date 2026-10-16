@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216195",
-    "https://www.aitimes.com/news/articleView.html?idxno=216192",
     "https://www.aitimes.com/news/articleView.html?idxno=216184",
     "https://www.aitimes.com/news/articleView.html?idxno=216189",
     "https://www.aitimes.com/news/articleView.html?idxno=216203",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216319",
     "https://www.aitimes.com/news/articleView.html?idxno=216324",
     "https://www.aitimes.com/news/articleView.html?idxno=216334",
-    "https://www.aitimes.com/news/articleView.html?idxno=216321"
+    "https://www.aitimes.com/news/articleView.html?idxno=216321",
+    "https://www.aitimes.com/news/articleView.html?idxno=216313",
+    "https://discuss.pytorch.kr/t/vlm-cpu-rag-feat-pymupdf-pro/12211"
 ]
