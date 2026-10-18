@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216266",
     "https://www.aitimes.com/news/articleView.html?idxno=216242",
     "https://www.aitimes.com/news/articleView.html?idxno=216244",
     "https://discuss.pytorch.kr/t/ai2-gpu-gpu-p90-2-30/12164",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216317",
     "https://www.aitimes.com/news/articleView.html?idxno=216373",
     "https://www.aitimes.com/news/articleView.html?idxno=216378",
-    "https://www.aitimes.com/news/articleView.html?idxno=216376"
+    "https://www.aitimes.com/news/articleView.html?idxno=216376",
+    "https://discuss.pytorch.kr/t/pie-kv-llm-feat-sosp-2025/12197"
 ]
