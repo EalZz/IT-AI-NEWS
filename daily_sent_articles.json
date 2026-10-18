@@ -1,13 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216033",
-    "https://discuss.pytorch.kr/t/octop-ai-feat-tencent/12124",
-    "https://discuss.pytorch.kr/t/crafting-apps-adobe-7-rust-7/12119",
-    "https://discuss.pytorch.kr/t/google-embeddinggemma-embeddinggemma-2/12118",
-    "https://discuss.pytorch.kr/t/pymupdf-vs-docling/12120",
-    "https://discuss.pytorch.kr/t/reflection-ai-23b-501b-beam/12112",
-    "https://www.aitimes.com/news/articleView.html?idxno=216076",
-    "https://www.aitimes.com/news/articleView.html?idxno=216080",
-    "https://www.aitimes.com/news/articleView.html?idxno=216073",
     "https://www.aitimes.com/news/articleView.html?idxno=216087",
     "https://www.aitimes.com/news/articleView.html?idxno=216071",
     "https://discuss.pytorch.kr/t/anthropic-cyber-verification-program-3-mythos-5-1/12133",
@@ -98,5 +89,14 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216364",
     "https://discuss.pytorch.kr/t/1t-llm-api-10-31-mango-inference/12222",
     "https://discuss.pytorch.kr/t/mai-base-2-microsoft-ai-deepseek-v4-pro-base-4-12-2-8t-moe/12210",
-    "https://discuss.pytorch.kr/t/vllm-sglang-red-hat-pagedattention-radixattention/12212"
+    "https://discuss.pytorch.kr/t/vllm-sglang-red-hat-pagedattention-radixattention/12212",
+    "https://www.aitimes.com/news/articleView.html?idxno=216380",
+    "https://www.aitimes.com/news/articleView.html?idxno=216379",
+    "https://www.aitimes.com/news/articleView.html?idxno=216375",
+    "https://www.aitimes.com/news/articleView.html?idxno=216371",
+    "https://www.aitimes.com/news/articleView.html?idxno=216369",
+    "https://discuss.pytorch.kr/t/2026-10-12-18-ai-ml/12236",
+    "https://discuss.pytorch.kr/t/bespoke-labs-9b-nimble/12196",
+    "https://discuss.pytorch.kr/t/llm-api/12226",
+    "https://discuss.pytorch.kr/t/pie-kv-llm-feat-sosp-2025/12197"
 ]
