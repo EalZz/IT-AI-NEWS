@@ -1,7 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/vlm-cpu-rag-feat-pymupdf-pro/12211",
-    "https://www.aitimes.com/news/articleView.html?idxno=216333",
-    "https://www.aitimes.com/news/articleView.html?idxno=216347",
     "https://www.aitimes.com/news/articleView.html?idxno=216330",
     "https://www.aitimes.com/news/articleView.html?idxno=216349",
     "https://www.aitimes.com/news/articleView.html?idxno=216341",
@@ -98,5 +95,8 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216396",
     "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248",
     "https://discuss.pytorch.kr/t/anthropic-27-9-6-pdf-20p/12227",
-    "https://www.aitimes.com/news/articleView.html?idxno=216342"
+    "https://www.aitimes.com/news/articleView.html?idxno=216342",
+    "https://www.aitimes.com/news/articleView.html?idxno=216430",
+    "https://www.aitimes.com/news/articleView.html?idxno=216424",
+    "https://discuss.pytorch.kr/t/traceway-llm-ai/12232"
 ]
