@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216103",
-    "https://www.aitimes.com/news/articleView.html?idxno=216095",
-    "https://discuss.pytorch.kr/t/hunk-diff/12123",
-    "https://discuss.pytorch.kr/t/liquid-ai-d1-3b-d1-omni-600m/12130",
-    "https://discuss.pytorch.kr/t/jev-5-1-ztc/12136",
-    "https://discuss.pytorch.kr/t/google-nber-133-ai/12134",
-    "https://www.aitimes.com/news/articleView.html?idxno=216122",
-    "https://www.aitimes.com/news/articleView.html?idxno=216107",
-    "https://www.aitimes.com/news/articleView.html?idxno=216113",
-    "https://www.aitimes.com/news/articleView.html?idxno=216108",
     "https://www.aitimes.com/news/articleView.html?idxno=216118",
     "https://discuss.pytorch.kr/t/vllm-omni/12128",
     "https://discuss.pytorch.kr/t/leviathan-grep/12138",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/ai-git-orke/12246",
     "https://discuss.pytorch.kr/t/physical-ai-rl-vla-physical-ai/12243",
     "https://discuss.pytorch.kr/t/2030-ai-ai-pdf-16p/12228",
-    "https://discuss.pytorch.kr/t/apigoto-openai-python-sdk-base-url/12241"
+    "https://discuss.pytorch.kr/t/apigoto-openai-python-sdk-base-url/12241",
+    "https://www.aitimes.com/news/articleView.html?idxno=216438",
+    "https://www.aitimes.com/news/articleView.html?idxno=216444",
+    "https://www.aitimes.com/news/articleView.html?idxno=216450",
+    "https://www.aitimes.com/news/articleView.html?idxno=216452",
+    "https://www.aitimes.com/news/articleView.html?idxno=216447",
+    "https://discuss.pytorch.kr/t/helion-vllm/12249",
+    "https://discuss.pytorch.kr/t/llm-externalization-2-2/12178",
+    "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177",
+    "https://discuss.pytorch.kr/t/traceway-llm-ai/12232",
+    "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248"
 ]
