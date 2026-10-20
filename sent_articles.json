@@ -1,9 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216278",
-    "https://www.aitimes.com/news/articleView.html?idxno=216314",
-    "https://www.aitimes.com/news/articleView.html?idxno=216318",
-    "https://www.aitimes.com/news/articleView.html?idxno=216353",
-    "https://www.aitimes.com/news/articleView.html?idxno=216361",
     "https://www.aitimes.com/news/articleView.html?idxno=216357",
     "https://www.aitimes.com/news/articleView.html?idxno=216355",
     "https://discuss.pytorch.kr/t/vllm-sglang-red-hat-pagedattention-radixattention/12212",
@@ -98,5 +93,10 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216439",
     "https://www.aitimes.com/news/articleView.html?idxno=216453",
     "https://www.aitimes.com/news/articleView.html?idxno=216434",
-    "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177"
+    "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177",
+    "https://www.aitimes.com/news/articleView.html?idxno=216450",
+    "https://www.aitimes.com/news/articleView.html?idxno=216452",
+    "https://www.aitimes.com/news/articleView.html?idxno=216447",
+    "https://www.aitimes.com/news/articleView.html?idxno=216440",
+    "https://www.aitimes.com/news/articleView.html?idxno=216436"
 ]
