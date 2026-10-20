@@ -1,5 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/vllm-sglang-red-hat-pagedattention-radixattention/12212",
     "https://www.aitimes.com/news/articleView.html?idxno=216359",
     "https://www.aitimes.com/news/articleView.html?idxno=216362",
     "https://www.aitimes.com/news/articleView.html?idxno=216354",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216440",
     "https://www.aitimes.com/news/articleView.html?idxno=216436",
     "https://www.aitimes.com/news/articleView.html?idxno=216438",
-    "https://www.aitimes.com/news/articleView.html?idxno=216444"
+    "https://www.aitimes.com/news/articleView.html?idxno=216444",
+    "https://discuss.pytorch.kr/t/llm-externalization-2-2/12178"
 ]
