@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216118",
-    "https://discuss.pytorch.kr/t/vllm-omni/12128",
-    "https://discuss.pytorch.kr/t/leviathan-grep/12138",
-    "https://www.aitimes.com/news/articleView.html?idxno=216136",
-    "https://www.aitimes.com/news/articleView.html?idxno=216135",
-    "https://www.aitimes.com/news/articleView.html?idxno=216134",
-    "https://www.aitimes.com/news/articleView.html?idxno=216133",
-    "https://www.aitimes.com/news/articleView.html?idxno=216132",
-    "https://discuss.pytorch.kr/t/2026-10-05-11-ai-ml/12155",
-    "https://discuss.pytorch.kr/t/ai-5/12154",
     "https://discuss.pytorch.kr/t/llm-as-jev-llm-jev/12129",
     "https://discuss.pytorch.kr/t/witan-mcp/12147",
     "https://discuss.pytorch.kr/t/2026-ai-10-25-17/12145",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/llm-externalization-2-2/12178",
     "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177",
     "https://discuss.pytorch.kr/t/traceway-llm-ai/12232",
-    "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248"
+    "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248",
+    "https://www.aitimes.com/news/articleView.html?idxno=216500",
+    "https://www.aitimes.com/news/articleView.html?idxno=216499",
+    "https://www.aitimes.com/news/articleView.html?idxno=216470",
+    "https://www.aitimes.com/news/articleView.html?idxno=216488",
+    "https://www.aitimes.com/news/articleView.html?idxno=216486",
+    "https://discuss.pytorch.kr/t/google-willow-40/12229",
+    "https://discuss.pytorch.kr/t/trillion-agent-ai-hackathon-2026/12262",
+    "https://discuss.pytorch.kr/t/gitai-rebase-git-anthropic-scion/12235",
+    "https://discuss.pytorch.kr/t/tinytorch-pytorch-import/12251",
+    "https://discuss.pytorch.kr/t/harness-feat-google/12231"
 ]
