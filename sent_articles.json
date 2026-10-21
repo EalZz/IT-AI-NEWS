@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216358",
     "https://www.aitimes.com/news/articleView.html?idxno=216352",
     "https://www.aitimes.com/news/articleView.html?idxno=216363",
     "https://www.aitimes.com/news/articleView.html?idxno=216364",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/llm-externalization-2-2/12178",
     "https://discuss.pytorch.kr/t/helion-vllm/12249",
     "https://www.aitimes.com/news/articleView.html?idxno=216432",
-    "https://discuss.pytorch.kr/t/harness-feat-google/12231"
+    "https://discuss.pytorch.kr/t/harness-feat-google/12231",
+    "https://discuss.pytorch.kr/t/tinytorch-pytorch-import/12251"
 ]
