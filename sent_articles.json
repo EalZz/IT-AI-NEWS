@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216340",
-    "https://discuss.pytorch.kr/t/claudemy-2-claude-code/12234",
-    "https://www.aitimes.com/news/articleView.html?idxno=216393",
-    "https://www.aitimes.com/news/articleView.html?idxno=216388",
-    "https://www.aitimes.com/news/articleView.html?idxno=216391",
-    "https://www.aitimes.com/news/articleView.html?idxno=216389",
     "https://www.aitimes.com/news/articleView.html?idxno=216401",
     "https://www.aitimes.com/news/articleView.html?idxno=216395",
     "https://www.aitimes.com/news/articleView.html?idxno=216390",
@@ -98,5 +92,11 @@
     "https://discuss.pytorch.kr/t/torchtpu/12265",
     "https://discuss.pytorch.kr/t/deepinfer-deepseek-v4-1-flash/12256",
     "https://www.aitimes.com/news/articleView.html?idxno=216345",
-    "https://www.aitimes.com/news/articleView.html?idxno=216518"
+    "https://www.aitimes.com/news/articleView.html?idxno=216518",
+    "https://www.aitimes.com/news/articleView.html?idxno=216508",
+    "https://www.aitimes.com/news/articleView.html?idxno=216510",
+    "https://www.aitimes.com/news/articleView.html?idxno=216512",
+    "https://www.aitimes.com/news/articleView.html?idxno=216513",
+    "https://www.aitimes.com/news/articleView.html?idxno=216509",
+    "https://discuss.pytorch.kr/t/pytorch-2-15-mac-gpu-mps-fp8-moe-5-6-5/12257"
 ]
