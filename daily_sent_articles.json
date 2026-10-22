@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/llm-as-jev-llm-jev/12129",
-    "https://discuss.pytorch.kr/t/witan-mcp/12147",
-    "https://discuss.pytorch.kr/t/2026-ai-10-25-17/12145",
-    "https://www.aitimes.com/news/articleView.html?idxno=216176",
-    "https://www.aitimes.com/news/articleView.html?idxno=216170",
-    "https://www.aitimes.com/news/articleView.html?idxno=216173",
-    "https://www.aitimes.com/news/articleView.html?idxno=216163",
-    "https://www.aitimes.com/news/articleView.html?idxno=216168",
-    "https://discuss.pytorch.kr/t/2-4/12166",
-    "https://discuss.pytorch.kr/t/microsoft-jev-api-microsoft-decision-1-1m-0-042/12140",
     "https://discuss.pytorch.kr/t/10-25-oracle-health-data-ai-2/12163",
     "https://discuss.pytorch.kr/t/oecd-25-ai-pdf-36p/12148",
     "https://discuss.pytorch.kr/t/guidellm-v0-8-0-slo-feat-vllm/12149",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/trillion-agent-ai-hackathon-2026/12262",
     "https://discuss.pytorch.kr/t/gitai-rebase-git-anthropic-scion/12235",
     "https://discuss.pytorch.kr/t/tinytorch-pytorch-import/12251",
-    "https://discuss.pytorch.kr/t/harness-feat-google/12231"
+    "https://discuss.pytorch.kr/t/harness-feat-google/12231",
+    "https://www.aitimes.com/news/articleView.html?idxno=216552",
+    "https://www.aitimes.com/news/articleView.html?idxno=216516",
+    "https://www.aitimes.com/news/articleView.html?idxno=216528",
+    "https://www.aitimes.com/news/articleView.html?idxno=216544",
+    "https://www.aitimes.com/news/articleView.html?idxno=216548",
+    "https://discuss.pytorch.kr/t/reap-rea-55-rea/12255",
+    "https://discuss.pytorch.kr/t/pymupdf-2-0-pip-install-pdf-llm-3/12271",
+    "https://discuss.pytorch.kr/t/pytorchkr-physical-ai/12269",
+    "https://discuss.pytorch.kr/t/geulpu-gpu-gguf/12268",
+    "https://discuss.pytorch.kr/t/pytorch-2-15-mac-gpu-mps-fp8-moe-5-6-5/12257"
 ]
