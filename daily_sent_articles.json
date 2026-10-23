@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/10-25-oracle-health-data-ai-2/12163",
-    "https://discuss.pytorch.kr/t/oecd-25-ai-pdf-36p/12148",
-    "https://discuss.pytorch.kr/t/guidellm-v0-8-0-slo-feat-vllm/12149",
-    "https://www.aitimes.com/news/articleView.html?idxno=216220",
-    "https://www.aitimes.com/news/articleView.html?idxno=216200",
-    "https://www.aitimes.com/news/articleView.html?idxno=216211",
-    "https://www.aitimes.com/news/articleView.html?idxno=216196",
-    "https://www.aitimes.com/news/articleView.html?idxno=216205",
-    "https://discuss.pytorch.kr/t/vercel-6-eve-100/12139",
-    "https://discuss.pytorch.kr/t/muse-wonder-meta-1-claude-opus-5-5/12171",
     "https://discuss.pytorch.kr/t/a16z-state-of-markets-ii-2026-ai-pdf-90p/12142",
     "https://discuss.pytorch.kr/t/topic/12170",
     "https://discuss.pytorch.kr/t/nvidiaaiday-seoul-2026/12168",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/pymupdf-2-0-pip-install-pdf-llm-3/12271",
     "https://discuss.pytorch.kr/t/pytorchkr-physical-ai/12269",
     "https://discuss.pytorch.kr/t/geulpu-gpu-gguf/12268",
-    "https://discuss.pytorch.kr/t/pytorch-2-15-mac-gpu-mps-fp8-moe-5-6-5/12257"
+    "https://discuss.pytorch.kr/t/pytorch-2-15-mac-gpu-mps-fp8-moe-5-6-5/12257",
+    "https://www.aitimes.com/news/articleView.html?idxno=216581",
+    "https://www.aitimes.com/news/articleView.html?idxno=216585",
+    "https://www.aitimes.com/news/articleView.html?idxno=216573",
+    "https://www.aitimes.com/news/articleView.html?idxno=216594",
+    "https://www.aitimes.com/news/articleView.html?idxno=216579",
+    "https://discuss.pytorch.kr/t/modular-mojo-max-cuda-ai/12266",
+    "https://discuss.pytorch.kr/t/kvcache-meetup-korea-kv/12285",
+    "https://discuss.pytorch.kr/t/hugging-face-apple-foundation-models-anylanguagemodel-1-0/12258",
+    "https://discuss.pytorch.kr/t/litellm-v1-107-0/12282",
+    "https://discuss.pytorch.kr/t/whatsapp-mcp-whatsapp-ai-mcp/12254"
 ]
