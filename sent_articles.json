@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216438",
-    "https://www.aitimes.com/news/articleView.html?idxno=216444",
     "https://discuss.pytorch.kr/t/llm-externalization-2-2/12178",
     "https://discuss.pytorch.kr/t/helion-vllm/12249",
     "https://www.aitimes.com/news/articleView.html?idxno=216432",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216585",
     "https://www.aitimes.com/news/articleView.html?idxno=216573",
     "https://www.aitimes.com/news/articleView.html?idxno=216594",
-    "https://www.aitimes.com/news/articleView.html?idxno=216579"
+    "https://www.aitimes.com/news/articleView.html?idxno=216579",
+    "https://discuss.pytorch.kr/t/modular-mojo-max-cuda-ai/12266",
+    "https://discuss.pytorch.kr/t/kvcache-meetup-korea-kv/12285"
 ]
