@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216417",
-    "https://www.aitimes.com/news/articleView.html?idxno=216396",
     "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248",
     "https://discuss.pytorch.kr/t/anthropic-27-9-6-pdf-20p/12227",
     "https://www.aitimes.com/news/articleView.html?idxno=216342",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216515",
     "https://discuss.pytorch.kr/t/aws-trainium-cuda-pytorch-torchneuron-feat-hugging-face/12259",
     "https://www.aitimes.com/news/articleView.html?idxno=216346",
-    "https://discuss.pytorch.kr/t/aaif-agent-skills-open-responses-openenv-opensandbox-10/12275"
+    "https://discuss.pytorch.kr/t/aaif-agent-skills-open-responses-openenv-opensandbox-10/12275",
+    "https://discuss.pytorch.kr/t/lafa-flow/12281",
+    "https://discuss.pytorch.kr/t/kv/12280"
 ]
