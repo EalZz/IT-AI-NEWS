@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216305",
-    "https://discuss.pytorch.kr/t/liquid-ai-2b-moe-lfm2-5-24b-a2b-feat-hermes-agent/12188",
-    "https://discuss.pytorch.kr/t/dmis-lm-32k-ultrabert/12199",
-    "https://discuss.pytorch.kr/t/studentsim-ai-microsoft/12173",
-    "https://discuss.pytorch.kr/t/ai/12192",
-    "https://discuss.pytorch.kr/t/nvidia-ai-day-seoul-pytorchkr/12194",
-    "https://www.aitimes.com/news/articleView.html?idxno=216327",
-    "https://www.aitimes.com/news/articleView.html?idxno=216337",
-    "https://www.aitimes.com/news/articleView.html?idxno=216350",
-    "https://www.aitimes.com/news/articleView.html?idxno=216332",
     "https://www.aitimes.com/news/articleView.html?idxno=216330",
     "https://discuss.pytorch.kr/t/strata-12gb-pc-125b-qwen3-8-flash-next/12189",
     "https://discuss.pytorch.kr/t/digup-embeddinggemma-2-pdf-macos-spotlight/12205",
@@ -98,5 +88,15 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216553",
     "https://www.aitimes.com/news/articleView.html?idxno=216620",
     "https://discuss.pytorch.kr/t/2026-10-19-25-ai-ml/12294",
-    "https://discuss.pytorch.kr/t/docker-kubernetes-api-opensandbox-aaif/12276"
+    "https://discuss.pytorch.kr/t/docker-kubernetes-api-opensandbox-aaif/12276",
+    "https://www.aitimes.com/news/articleView.html?idxno=216689",
+    "https://www.aitimes.com/news/articleView.html?idxno=216688",
+    "https://www.aitimes.com/news/articleView.html?idxno=216687",
+    "https://www.aitimes.com/news/articleView.html?idxno=216685",
+    "https://www.aitimes.com/news/articleView.html?idxno=216671",
+    "https://discuss.pytorch.kr/t/amd-advancing-ai-ai-devday-seoul-2026-11-4/12318",
+    "https://discuss.pytorch.kr/t/topic/12320",
+    "https://discuss.pytorch.kr/t/2026-k-opensource-ax-ai-10-28/12317",
+    "https://discuss.pytorch.kr/t/2026-ai-11-20/12314",
+    "https://discuss.pytorch.kr/t/jane-street-nvidia-mamba-2-triton-1-82-cutile/12261"
 ]
