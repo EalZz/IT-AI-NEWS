@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216330",
-    "https://discuss.pytorch.kr/t/strata-12gb-pc-125b-qwen3-8-flash-next/12189",
-    "https://discuss.pytorch.kr/t/digup-embeddinggemma-2-pdf-macos-spotlight/12205",
-    "https://discuss.pytorch.kr/t/vlm-cpu-rag-feat-pymupdf-pro/12211",
-    "https://discuss.pytorch.kr/t/meta-mac-studio-816b-muse-spark-open-feat-mlx/12209",
-    "https://discuss.pytorch.kr/t/ai-dlc-claude-code-codex-feat-aws/12204",
-    "https://www.aitimes.com/news/articleView.html?idxno=216368",
-    "https://www.aitimes.com/news/articleView.html?idxno=216367",
-    "https://www.aitimes.com/news/articleView.html?idxno=216366",
-    "https://www.aitimes.com/news/articleView.html?idxno=216365",
     "https://www.aitimes.com/news/articleView.html?idxno=216364",
     "https://discuss.pytorch.kr/t/1t-llm-api-10-31-mango-inference/12222",
     "https://discuss.pytorch.kr/t/mai-base-2-microsoft-ai-deepseek-v4-pro-base-4-12-2-8t-moe/12210",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/topic/12320",
     "https://discuss.pytorch.kr/t/2026-k-opensource-ax-ai-10-28/12317",
     "https://discuss.pytorch.kr/t/2026-ai-11-20/12314",
-    "https://discuss.pytorch.kr/t/jane-street-nvidia-mamba-2-triton-1-82-cutile/12261"
+    "https://discuss.pytorch.kr/t/jane-street-nvidia-mamba-2-triton-1-82-cutile/12261",
+    "https://www.aitimes.com/news/articleView.html?idxno=216712",
+    "https://www.aitimes.com/news/articleView.html?idxno=216711",
+    "https://www.aitimes.com/news/articleView.html?idxno=216729",
+    "https://www.aitimes.com/news/articleView.html?idxno=216723",
+    "https://www.aitimes.com/news/articleView.html?idxno=216717",
+    "https://discuss.pytorch.kr/t/durable-harness-claude-code-codex-pi-feat-vercel/12274",
+    "https://discuss.pytorch.kr/t/thinkingbox-training-db-2-8/12293",
+    "https://discuss.pytorch.kr/t/memento-llm/12309",
+    "https://discuss.pytorch.kr/t/step-code-stepfun-pi/12287",
+    "https://discuss.pytorch.kr/t/stt-6/12327"
 ]
