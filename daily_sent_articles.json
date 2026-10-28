@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216364",
-    "https://discuss.pytorch.kr/t/1t-llm-api-10-31-mango-inference/12222",
-    "https://discuss.pytorch.kr/t/mai-base-2-microsoft-ai-deepseek-v4-pro-base-4-12-2-8t-moe/12210",
-    "https://discuss.pytorch.kr/t/vllm-sglang-red-hat-pagedattention-radixattention/12212",
-    "https://www.aitimes.com/news/articleView.html?idxno=216380",
-    "https://www.aitimes.com/news/articleView.html?idxno=216379",
-    "https://www.aitimes.com/news/articleView.html?idxno=216375",
-    "https://www.aitimes.com/news/articleView.html?idxno=216371",
-    "https://www.aitimes.com/news/articleView.html?idxno=216369",
-    "https://discuss.pytorch.kr/t/2026-10-12-18-ai-ml/12236",
     "https://discuss.pytorch.kr/t/bespoke-labs-9b-nimble/12196",
     "https://discuss.pytorch.kr/t/llm-api/12226",
     "https://discuss.pytorch.kr/t/pie-kv-llm-feat-sosp-2025/12197",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/thinkingbox-training-db-2-8/12293",
     "https://discuss.pytorch.kr/t/memento-llm/12309",
     "https://discuss.pytorch.kr/t/step-code-stepfun-pi/12287",
-    "https://discuss.pytorch.kr/t/stt-6/12327"
+    "https://discuss.pytorch.kr/t/stt-6/12327",
+    "https://www.aitimes.com/news/articleView.html?idxno=216769",
+    "https://www.aitimes.com/news/articleView.html?idxno=216768",
+    "https://www.aitimes.com/news/articleView.html?idxno=216767",
+    "https://www.aitimes.com/news/articleView.html?idxno=216738",
+    "https://www.aitimes.com/news/articleView.html?idxno=216761",
+    "https://discuss.pytorch.kr/t/opengcua-python/12311",
+    "https://discuss.pytorch.kr/t/ibm-4-granite-timeseries-ensemble-r1/12321",
+    "https://discuss.pytorch.kr/t/day-trader-skill-python-2-claude/12307",
+    "https://discuss.pytorch.kr/t/nanbeige4-3-33b-3b-33b/12332",
+    "https://discuss.pytorch.kr/t/qwen3-0-6b-grpo-pytorch-11-feat-sebastian-raschka/12331"
 ]
