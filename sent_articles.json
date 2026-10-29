@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216652",
-    "https://www.aitimes.com/news/articleView.html?idxno=216670",
     "https://www.aitimes.com/news/articleView.html?idxno=216645",
     "https://discuss.pytorch.kr/t/corgi-claude-code-codex-feat-ghostty-herdr/12290",
     "https://discuss.pytorch.kr/t/npu-325m-0-b200-gpu/12304",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216768",
     "https://www.aitimes.com/news/articleView.html?idxno=216742",
     "https://discuss.pytorch.kr/t/liquid-ai-2b-lfm3-6/12338",
-    "https://www.aitimes.com/news/articleView.html?idxno=216584"
+    "https://www.aitimes.com/news/articleView.html?idxno=216584",
+    "https://www.aitimes.com/news/articleView.html?idxno=216772",
+    "https://discuss.pytorch.kr/t/openduet-claude-duet/12341"
 ]
