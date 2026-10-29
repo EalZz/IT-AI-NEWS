@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/bespoke-labs-9b-nimble/12196",
-    "https://discuss.pytorch.kr/t/llm-api/12226",
-    "https://discuss.pytorch.kr/t/pie-kv-llm-feat-sosp-2025/12197",
-    "https://www.aitimes.com/news/articleView.html?idxno=216418",
-    "https://www.aitimes.com/news/articleView.html?idxno=216417",
-    "https://www.aitimes.com/news/articleView.html?idxno=216410",
-    "https://www.aitimes.com/news/articleView.html?idxno=216413",
-    "https://www.aitimes.com/news/articleView.html?idxno=216403",
-    "https://discuss.pytorch.kr/t/leanrea-rea-mcp-207-8kb-rea/12233",
-    "https://discuss.pytorch.kr/t/ai-git-orke/12246",
     "https://discuss.pytorch.kr/t/physical-ai-rl-vla-physical-ai/12243",
     "https://discuss.pytorch.kr/t/2030-ai-ai-pdf-16p/12228",
     "https://discuss.pytorch.kr/t/apigoto-openai-python-sdk-base-url/12241",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/ibm-4-granite-timeseries-ensemble-r1/12321",
     "https://discuss.pytorch.kr/t/day-trader-skill-python-2-claude/12307",
     "https://discuss.pytorch.kr/t/nanbeige4-3-33b-3b-33b/12332",
-    "https://discuss.pytorch.kr/t/qwen3-0-6b-grpo-pytorch-11-feat-sebastian-raschka/12331"
+    "https://discuss.pytorch.kr/t/qwen3-0-6b-grpo-pytorch-11-feat-sebastian-raschka/12331",
+    "https://www.aitimes.com/news/articleView.html?idxno=216823",
+    "https://www.aitimes.com/news/articleView.html?idxno=216822",
+    "https://www.aitimes.com/news/articleView.html?idxno=216821",
+    "https://www.aitimes.com/news/articleView.html?idxno=216776",
+    "https://www.aitimes.com/news/articleView.html?idxno=216820",
+    "https://discuss.pytorch.kr/t/recir-pytorch-gpu-tpu-meta/12343",
+    "https://discuss.pytorch.kr/t/tstack-pr-9-feat-theo-browne/12342",
+    "https://discuss.pytorch.kr/t/pytorch-2-15/12351",
+    "https://discuss.pytorch.kr/t/ai-agent-zet-vision-ai-engineer-image-decomposition-editing/12350",
+    "https://discuss.pytorch.kr/t/digital-human-koubo-renoise-ai-remotion/12340"
 ]
