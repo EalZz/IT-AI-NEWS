@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216719",
     "https://www.aitimes.com/news/articleView.html?idxno=216702",
     "https://www.aitimes.com/news/articleView.html?idxno=216723",
     "https://www.aitimes.com/news/articleView.html?idxno=216717",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216831",
     "https://discuss.pytorch.kr/t/claude-code-pr-2-40-feat-anthropic/12336",
     "https://discuss.pytorch.kr/t/thinkrail-pi-git-ide-feat-jetbrains/12334",
-    "https://www.aitimes.com/news/articleView.html?idxno=216835"
+    "https://www.aitimes.com/news/articleView.html?idxno=216835",
+    "https://discuss.pytorch.kr/t/vocabx-qwen3-4b-77/12322"
 ]
