@@ -1,11 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/llm-externalization-2-2/12178",
-    "https://discuss.pytorch.kr/t/llm-externalization-1-2/12177",
-    "https://discuss.pytorch.kr/t/traceway-llm-ai/12232",
-    "https://discuss.pytorch.kr/t/longharness-harmony-harness-harness/12248",
-    "https://www.aitimes.com/news/articleView.html?idxno=216500",
-    "https://www.aitimes.com/news/articleView.html?idxno=216499",
-    "https://www.aitimes.com/news/articleView.html?idxno=216470",
     "https://www.aitimes.com/news/articleView.html?idxno=216488",
     "https://www.aitimes.com/news/articleView.html?idxno=216486",
     "https://discuss.pytorch.kr/t/google-willow-40/12229",
@@ -98,5 +91,12 @@
     "https://discuss.pytorch.kr/t/vocabx-qwen3-4b-77/12322",
     "https://discuss.pytorch.kr/t/thinkrail-pi-git-ide-feat-jetbrains/12334",
     "https://discuss.pytorch.kr/t/claude-code-pr-2-40-feat-anthropic/12336",
-    "https://discuss.pytorch.kr/t/runway-praxis-1/12346"
+    "https://discuss.pytorch.kr/t/runway-praxis-1/12346",
+    "https://www.aitimes.com/news/articleView.html?idxno=216852",
+    "https://www.aitimes.com/news/articleView.html?idxno=216851",
+    "https://www.aitimes.com/news/articleView.html?idxno=216850",
+    "https://www.aitimes.com/news/articleView.html?idxno=216834",
+    "https://www.aitimes.com/news/articleView.html?idxno=216837",
+    "https://discuss.pytorch.kr/t/neuron-explorer-qwen3-5-4b/12310",
+    "https://discuss.pytorch.kr/t/openqodex-push-claude-code-codex/12335"
 ]
