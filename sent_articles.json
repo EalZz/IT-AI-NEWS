@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216757",
-    "https://www.aitimes.com/news/articleView.html?idxno=216740",
     "https://www.aitimes.com/news/articleView.html?idxno=216767",
     "https://www.aitimes.com/news/articleView.html?idxno=216738",
     "https://www.aitimes.com/news/articleView.html?idxno=216754",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216857",
     "https://www.aitimes.com/news/articleView.html?idxno=216863",
     "https://www.aitimes.com/news/articleView.html?idxno=216856",
-    "https://discuss.pytorch.kr/t/qwenputer-gated-deltanet-ram-risc-v-cpu/12365"
+    "https://discuss.pytorch.kr/t/qwenputer-gated-deltanet-ram-risc-v-cpu/12365",
+    "https://www.aitimes.com/news/articleView.html?idxno=216864",
+    "https://discuss.pytorch.kr/t/ai-feat-openai/12362"
 ]
