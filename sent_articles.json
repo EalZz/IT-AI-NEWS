@@ -1,8 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216781",
-    "https://www.aitimes.com/news/articleView.html?idxno=216783",
-    "https://www.aitimes.com/news/articleView.html?idxno=216789",
-    "https://www.aitimes.com/news/articleView.html?idxno=216784",
     "https://discuss.pytorch.kr/t/ai-agent-zet-computer-vision-ai-engineer/12350",
     "https://discuss.pytorch.kr/t/digital-human-koubo-renoise-ai-remotion/12340",
     "https://discuss.pytorch.kr/t/cpu-vs-vlm-pymupdf-gpt-6-astra/12348",
@@ -98,5 +94,9 @@
     "https://www.aitimes.com/news/articleView.html?idxno=216904",
     "https://www.aitimes.com/news/articleView.html?idxno=216897",
     "https://www.aitimes.com/news/articleView.html?idxno=216889",
-    "https://www.aitimes.com/news/articleView.html?idxno=216900"
+    "https://www.aitimes.com/news/articleView.html?idxno=216900",
+    "https://www.aitimes.com/news/articleView.html?idxno=216901",
+    "https://www.aitimes.com/news/articleView.html?idxno=216898",
+    "https://www.aitimes.com/news/articleView.html?idxno=216916",
+    "https://discuss.pytorch.kr/t/apple-api-anyspeechrecognizer-anydecisionmodel-feat-hugging-face/12369"
 ]
