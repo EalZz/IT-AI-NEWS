@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216594",
-    "https://www.aitimes.com/news/articleView.html?idxno=216579",
-    "https://discuss.pytorch.kr/t/modular-mojo-max-cuda-ai/12266",
-    "https://discuss.pytorch.kr/t/kvcache-meetup-korea-kv/12285",
-    "https://discuss.pytorch.kr/t/hugging-face-apple-foundation-models-anylanguagemodel-1-0/12258",
-    "https://discuss.pytorch.kr/t/litellm-v1-107-0/12282",
-    "https://discuss.pytorch.kr/t/whatsapp-mcp-whatsapp-ai-mcp/12254",
-    "https://www.aitimes.com/news/articleView.html?idxno=216618",
-    "https://www.aitimes.com/news/articleView.html?idxno=216616",
-    "https://www.aitimes.com/news/articleView.html?idxno=216615",
     "https://www.aitimes.com/news/articleView.html?idxno=216614",
     "https://www.aitimes.com/news/articleView.html?idxno=216613",
     "https://discuss.pytorch.kr/t/kimi-k3-1-pro-k3-33-api-3t-11-4/12289",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/ai-state-of-ai-2026-3-agi-2027-pdf-244p/12366",
     "https://discuss.pytorch.kr/t/kant-ai-physical-ai-robotics/12387",
     "https://discuss.pytorch.kr/t/apple-api-anyspeechrecognizer-anydecisionmodel-feat-hugging-face/12369",
-    "https://discuss.pytorch.kr/t/komos/12380"
+    "https://discuss.pytorch.kr/t/komos/12380",
+    "https://www.aitimes.com/news/articleView.html?idxno=216942",
+    "https://www.aitimes.com/news/articleView.html?idxno=216970",
+    "https://www.aitimes.com/news/articleView.html?idxno=216956",
+    "https://www.aitimes.com/news/articleView.html?idxno=216958",
+    "https://www.aitimes.com/news/articleView.html?idxno=216967",
+    "https://discuss.pytorch.kr/t/nvidia-mlip-1-7-tensor-core-fp32/12360",
+    "https://discuss.pytorch.kr/t/llm/12397",
+    "https://discuss.pytorch.kr/t/openai-pando-git-push-80-1pb-git-anthropic-scion/12394",
+    "https://discuss.pytorch.kr/t/2026-vllm-korea-meetup/12396",
+    "https://discuss.pytorch.kr/t/mistral-large-4-glm-5-3-1t-moe/12386"
 ]
