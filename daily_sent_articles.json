@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216614",
-    "https://www.aitimes.com/news/articleView.html?idxno=216613",
-    "https://discuss.pytorch.kr/t/kimi-k3-1-pro-k3-33-api-3t-11-4/12289",
-    "https://discuss.pytorch.kr/t/nvidia-4gb-vram-nemotron-3-5-bolt-e4b-feat-gemma-4/12291",
-    "https://discuss.pytorch.kr/t/anthropic-scion-3-git-mononoke/12273",
-    "https://discuss.pytorch.kr/t/openenv-aaif-trl-feat-hugging-face/12279",
-    "https://discuss.pytorch.kr/t/openai-aaif-open-responses-llm/12277",
-    "https://www.aitimes.com/news/articleView.html?idxno=216631",
-    "https://www.aitimes.com/news/articleView.html?idxno=216630",
-    "https://www.aitimes.com/news/articleView.html?idxno=216628",
     "https://www.aitimes.com/news/articleView.html?idxno=216553",
     "https://www.aitimes.com/news/articleView.html?idxno=216620",
     "https://discuss.pytorch.kr/t/2026-10-19-25-ai-ml/12294",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/llm/12397",
     "https://discuss.pytorch.kr/t/openai-pando-git-push-80-1pb-git-anthropic-scion/12394",
     "https://discuss.pytorch.kr/t/2026-vllm-korea-meetup/12396",
-    "https://discuss.pytorch.kr/t/mistral-large-4-glm-5-3-1t-moe/12386"
+    "https://discuss.pytorch.kr/t/mistral-large-4-glm-5-3-1t-moe/12386",
+    "https://www.aitimes.com/news/articleView.html?idxno=217024",
+    "https://www.aitimes.com/news/articleView.html?idxno=217023",
+    "https://www.aitimes.com/news/articleView.html?idxno=216984",
+    "https://www.aitimes.com/news/articleView.html?idxno=216989",
+    "https://www.aitimes.com/news/articleView.html?idxno=217019",
+    "https://discuss.pytorch.kr/t/11-21-ai-ai-on-edge/12409",
+    "https://discuss.pytorch.kr/t/tensorrt-edge-llm-dgx-spark-nemotron-3-5-lightning-dspark-1-7/12401",
+    "https://discuss.pytorch.kr/t/109m-jepa-72b-llm-feat-yann-lecun/12393",
+    "https://discuss.pytorch.kr/t/openai-lifeval-gpt/12392",
+    "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402"
 ]
