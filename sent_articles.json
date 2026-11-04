@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216851",
     "https://discuss.pytorch.kr/t/neuron-explorer-qwen3-5-4b/12310",
     "https://www.aitimes.com/news/articleView.html?idxno=216852",
     "https://www.aitimes.com/news/articleView.html?idxno=216854",
@@ -98,5 +97,6 @@
     "https://discuss.pytorch.kr/t/nvidia-mlip-1-7-tensor-core-fp32/12360",
     "https://www.aitimes.com/news/articleView.html?idxno=216936",
     "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402",
-    "https://www.aitimes.com/news/articleView.html?idxno=216788"
+    "https://www.aitimes.com/news/articleView.html?idxno=216788",
+    "https://discuss.pytorch.kr/t/openai-lifeval-gpt/12392"
 ]
