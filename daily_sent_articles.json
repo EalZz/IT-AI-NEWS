@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216553",
-    "https://www.aitimes.com/news/articleView.html?idxno=216620",
-    "https://discuss.pytorch.kr/t/2026-10-19-25-ai-ml/12294",
-    "https://discuss.pytorch.kr/t/docker-kubernetes-api-opensandbox-aaif/12276",
-    "https://www.aitimes.com/news/articleView.html?idxno=216689",
-    "https://www.aitimes.com/news/articleView.html?idxno=216688",
-    "https://www.aitimes.com/news/articleView.html?idxno=216687",
-    "https://www.aitimes.com/news/articleView.html?idxno=216685",
-    "https://www.aitimes.com/news/articleView.html?idxno=216671",
-    "https://discuss.pytorch.kr/t/amd-advancing-ai-ai-devday-seoul-2026-11-4/12318",
     "https://discuss.pytorch.kr/t/topic/12320",
     "https://discuss.pytorch.kr/t/2026-k-opensource-ax-ai-10-28/12317",
     "https://discuss.pytorch.kr/t/2026-ai-11-20/12314",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/tensorrt-edge-llm-dgx-spark-nemotron-3-5-lightning-dspark-1-7/12401",
     "https://discuss.pytorch.kr/t/109m-jepa-72b-llm-feat-yann-lecun/12393",
     "https://discuss.pytorch.kr/t/openai-lifeval-gpt/12392",
-    "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402"
+    "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402",
+    "https://www.aitimes.com/news/articleView.html?idxno=217074",
+    "https://www.aitimes.com/news/articleView.html?idxno=217043",
+    "https://www.aitimes.com/news/articleView.html?idxno=217071",
+    "https://www.aitimes.com/news/articleView.html?idxno=217051",
+    "https://www.aitimes.com/news/articleView.html?idxno=217070",
+    "https://discuss.pytorch.kr/t/700-isaac-sim-ncrc-2026/12420",
+    "https://discuss.pytorch.kr/t/weight-space-programming-gpt-6-astra-8-feat-mit-csail/12415",
+    "https://discuss.pytorch.kr/t/anatomy/12412",
+    "https://discuss.pytorch.kr/t/transformers-mic-feat-hugging-face/12411",
+    "https://discuss.pytorch.kr/t/google-antigravity-cheminformatics-skills-feat-rdkit-chembl/12413"
 ]
