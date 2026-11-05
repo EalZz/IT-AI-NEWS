@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=216934",
-    "https://www.aitimes.com/news/articleView.html?idxno=216931",
     "https://www.aitimes.com/news/articleView.html?idxno=216938",
     "https://discuss.pytorch.kr/t/mistral-large-4-glm-5-3-1t-moe/12386",
     "https://www.aitimes.com/news/articleView.html?idxno=216939",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217071",
     "https://discuss.pytorch.kr/t/weight-space-programming-gpt-6-astra-8-feat-mit-csail/12415",
     "https://discuss.pytorch.kr/t/700-isaac-sim-ncrc-2026/12420",
-    "https://www.aitimes.com/news/articleView.html?idxno=217074"
+    "https://www.aitimes.com/news/articleView.html?idxno=217074",
+    "https://www.aitimes.com/news/articleView.html?idxno=217042",
+    "https://discuss.pytorch.kr/t/llm-inference-handbook-pd-gpu-modular/12414"
 ]
