@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217009",
-    "https://www.aitimes.com/news/articleView.html?idxno=217010",
     "https://www.aitimes.com/news/articleView.html?idxno=217012",
     "https://www.aitimes.com/news/articleView.html?idxno=217008",
     "https://www.aitimes.com/news/articleView.html?idxno=217007",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217129",
     "https://www.aitimes.com/news/articleView.html?idxno=217130",
     "https://www.aitimes.com/news/articleView.html?idxno=217132",
-    "https://www.aitimes.com/news/articleView.html?idxno=217131"
+    "https://www.aitimes.com/news/articleView.html?idxno=217131",
+    "https://www.aitimes.com/news/articleView.html?idxno=217133",
+    "https://discuss.pytorch.kr/t/nvidia-cosmos-3-4-feat/12428"
 ]
