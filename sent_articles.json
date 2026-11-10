@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217081",
-    "https://www.aitimes.com/news/articleView.html?idxno=217100",
     "https://www.aitimes.com/news/articleView.html?idxno=217099",
     "https://www.aitimes.com/news/articleView.html?idxno=217095",
     "https://www.aitimes.com/news/articleView.html?idxno=217094",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217195",
     "https://www.aitimes.com/news/articleView.html?idxno=217194",
     "https://www.aitimes.com/news/articleView.html?idxno=217193",
-    "https://www.aitimes.com/news/articleView.html?idxno=217162"
+    "https://www.aitimes.com/news/articleView.html?idxno=217162",
+    "https://discuss.pytorch.kr/t/kant-ai-private-llm-infra/12462",
+    "https://discuss.pytorch.kr/t/toyblocks-allenai/12448"
 ]
