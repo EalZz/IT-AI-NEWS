@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217206",
     "https://www.aitimes.com/news/articleView.html?idxno=217204",
     "https://www.aitimes.com/news/articleView.html?idxno=217201",
     "https://www.aitimes.com/news/articleView.html?idxno=217200",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217332",
     "https://www.aitimes.com/news/articleView.html?idxno=217340",
     "https://www.aitimes.com/news/articleView.html?idxno=217309",
-    "https://www.aitimes.com/news/articleView.html?idxno=217327"
+    "https://www.aitimes.com/news/articleView.html?idxno=217327",
+    "https://discuss.pytorch.kr/t/vllm-router/12492"
 ]
