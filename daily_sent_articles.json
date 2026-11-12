@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/ai-feat-openai/12362",
-    "https://discuss.pytorch.kr/t/qwenputer-gated-deltanet-ram-risc-v-cpu/12365",
-    "https://www.aitimes.com/news/articleView.html?idxno=216922",
-    "https://www.aitimes.com/news/articleView.html?idxno=216912",
-    "https://www.aitimes.com/news/articleView.html?idxno=216893",
-    "https://www.aitimes.com/news/articleView.html?idxno=216891",
-    "https://www.aitimes.com/news/articleView.html?idxno=216913",
-    "https://discuss.pytorch.kr/t/meta-30b-cpu-npu-gpu-ram-rom-vikernel-v0-4/12390",
-    "https://discuss.pytorch.kr/t/ai-state-of-ai-2026-3-agi-2027-pdf-244p/12366",
-    "https://discuss.pytorch.kr/t/kant-ai-physical-ai-robotics/12387",
     "https://discuss.pytorch.kr/t/apple-api-anyspeechrecognizer-anydecisionmodel-feat-hugging-face/12369",
     "https://discuss.pytorch.kr/t/komos/12380",
     "https://www.aitimes.com/news/articleView.html?idxno=216942",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/11-16-11-23-ai/12480",
     "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-2-mythos-5-2-30-feat-opus-5-5/12478",
     "https://discuss.pytorch.kr/t/ai-ax-ai/12479",
-    "https://discuss.pytorch.kr/t/c-korea-2026-11/12477"
+    "https://discuss.pytorch.kr/t/c-korea-2026-11/12477",
+    "https://www.aitimes.com/news/articleView.html?idxno=217351",
+    "https://www.aitimes.com/news/articleView.html?idxno=217350",
+    "https://www.aitimes.com/news/articleView.html?idxno=217349",
+    "https://www.aitimes.com/news/articleView.html?idxno=217348",
+    "https://www.aitimes.com/news/articleView.html?idxno=217346",
+    "https://discuss.pytorch.kr/t/vllm-router/12492",
+    "https://discuss.pytorch.kr/t/solo-to-team-ai-4/12487",
+    "https://discuss.pytorch.kr/t/pytorch-day-korea-2026-instagram/12490",
+    "https://discuss.pytorch.kr/t/topic/12489",
+    "https://discuss.pytorch.kr/t/botpsy-2b-qwen3-5-0-8b-on-device-agent/12486"
 ]
