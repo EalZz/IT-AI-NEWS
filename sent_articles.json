@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217213",
-    "https://www.aitimes.com/news/articleView.html?idxno=217212",
     "https://www.aitimes.com/news/articleView.html?idxno=217237",
     "https://www.aitimes.com/news/articleView.html?idxno=217234",
     "https://discuss.pytorch.kr/t/reshard-nvidia-5-7/12447",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217348",
     "https://www.aitimes.com/news/articleView.html?idxno=217346",
     "https://www.aitimes.com/news/articleView.html?idxno=217352",
-    "https://www.aitimes.com/news/articleView.html?idxno=217310"
+    "https://www.aitimes.com/news/articleView.html?idxno=217310",
+    "https://www.aitimes.com/news/articleView.html?idxno=217353",
+    "https://discuss.pytorch.kr/t/alphagenome-2-eqtl-2-feat-google-deepmind/12491"
 ]
