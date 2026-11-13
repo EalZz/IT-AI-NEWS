@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/apple-api-anyspeechrecognizer-anydecisionmodel-feat-hugging-face/12369",
-    "https://discuss.pytorch.kr/t/komos/12380",
-    "https://www.aitimes.com/news/articleView.html?idxno=216942",
-    "https://www.aitimes.com/news/articleView.html?idxno=216970",
-    "https://www.aitimes.com/news/articleView.html?idxno=216956",
-    "https://www.aitimes.com/news/articleView.html?idxno=216958",
-    "https://www.aitimes.com/news/articleView.html?idxno=216967",
-    "https://discuss.pytorch.kr/t/nvidia-mlip-1-7-tensor-core-fp32/12360",
-    "https://discuss.pytorch.kr/t/llm/12397",
-    "https://discuss.pytorch.kr/t/openai-pando-git-push-80-1pb-git-anthropic-scion/12394",
     "https://discuss.pytorch.kr/t/2026-vllm-korea-meetup/12396",
     "https://discuss.pytorch.kr/t/mistral-large-4-glm-5-3-1t-moe/12386",
     "https://www.aitimes.com/news/articleView.html?idxno=217024",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/solo-to-team-ai-4/12487",
     "https://discuss.pytorch.kr/t/pytorch-day-korea-2026-instagram/12490",
     "https://discuss.pytorch.kr/t/topic/12489",
-    "https://discuss.pytorch.kr/t/botpsy-2b-qwen3-5-0-8b-on-device-agent/12486"
+    "https://discuss.pytorch.kr/t/botpsy-2b-qwen3-5-0-8b-on-device-agent/12486",
+    "https://www.aitimes.com/news/articleView.html?idxno=217394",
+    "https://www.aitimes.com/news/articleView.html?idxno=217360",
+    "https://www.aitimes.com/news/articleView.html?idxno=217361",
+    "https://www.aitimes.com/news/articleView.html?idxno=217367",
+    "https://www.aitimes.com/news/articleView.html?idxno=217380",
+    "https://discuss.pytorch.kr/t/tang-flashattention-rust/12502",
+    "https://discuss.pytorch.kr/t/global-weather-model-leaderboard/12506",
+    "https://discuss.pytorch.kr/t/hwp-markdown-opendockit-langchain-llamaindex-mcp/12505",
+    "https://discuss.pytorch.kr/t/arete-27b-sft-22-0-9-qwen3-8-27b-feat-nousresearch/12493",
+    "https://discuss.pytorch.kr/t/rtx-4090-vram/12500"
 ]
