@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217297",
     "https://www.aitimes.com/news/articleView.html?idxno=217271",
     "https://discuss.pytorch.kr/t/anthropic-claude-fable-5-2-mythos-5-2-30-feat-opus-5-5/12478",
     "https://discuss.pytorch.kr/t/ai-ax-ai/12479",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217411",
     "https://discuss.pytorch.kr/t/flashstates-llm-prefix-cache-vllm/12511",
     "https://www.aitimes.com/news/articleView.html?idxno=217412",
-    "https://discuss.pytorch.kr/t/gemm/12517"
+    "https://discuss.pytorch.kr/t/gemm/12517",
+    "https://www.aitimes.com/news/articleView.html?idxno=217413"
 ]
