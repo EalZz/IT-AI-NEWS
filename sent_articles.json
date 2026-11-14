@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217282",
     "https://www.aitimes.com/news/articleView.html?idxno=217284",
     "https://www.aitimes.com/news/articleView.html?idxno=217290",
     "https://discuss.pytorch.kr/t/c-korea-2026-11/12477",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217404",
     "https://www.aitimes.com/news/articleView.html?idxno=217399",
     "https://www.aitimes.com/news/articleView.html?idxno=217396",
-    "https://www.aitimes.com/news/articleView.html?idxno=217397"
+    "https://www.aitimes.com/news/articleView.html?idxno=217397",
+    "https://discuss.pytorch.kr/t/llama-cpp-3-v1-0-0-c-api-feat-ggml/12509"
 ]
