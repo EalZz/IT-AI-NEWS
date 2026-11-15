@@ -1,12 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/tensorrt-edge-llm-dgx-spark-nemotron-3-5-lightning-dspark-1-7/12401",
-    "https://discuss.pytorch.kr/t/109m-jepa-72b-llm-feat-yann-lecun/12393",
-    "https://discuss.pytorch.kr/t/openai-lifeval-gpt/12392",
-    "https://discuss.pytorch.kr/t/auto-ontology-db-ai-sql-nvidia/12402",
-    "https://www.aitimes.com/news/articleView.html?idxno=217074",
-    "https://www.aitimes.com/news/articleView.html?idxno=217043",
-    "https://www.aitimes.com/news/articleView.html?idxno=217071",
-    "https://www.aitimes.com/news/articleView.html?idxno=217051",
     "https://www.aitimes.com/news/articleView.html?idxno=217070",
     "https://discuss.pytorch.kr/t/700-isaac-sim-ncrc-2026/12420",
     "https://discuss.pytorch.kr/t/weight-space-programming-gpt-6-astra-8-feat-mit-csail/12415",
@@ -98,5 +90,13 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217407",
     "https://discuss.pytorch.kr/t/gemm/12517",
     "https://discuss.pytorch.kr/t/flashstates-llm-prefix-cache-vllm/12511",
-    "https://discuss.pytorch.kr/t/llama-cpp-3-v1-0-0-c-api-feat-ggml/12509"
+    "https://discuss.pytorch.kr/t/llama-cpp-3-v1-0-0-c-api-feat-ggml/12509",
+    "https://www.aitimes.com/news/articleView.html?idxno=217428",
+    "https://www.aitimes.com/news/articleView.html?idxno=217423",
+    "https://www.aitimes.com/news/articleView.html?idxno=217426",
+    "https://www.aitimes.com/news/articleView.html?idxno=217347",
+    "https://www.aitimes.com/news/articleView.html?idxno=217424",
+    "https://discuss.pytorch.kr/t/simready-isaac-sim-ur17g-feat-nvidia/12508",
+    "https://discuss.pytorch.kr/t/saltline-claude-fable-5-2-html-fps/12512",
+    "https://discuss.pytorch.kr/t/devvm-vm/12515"
 ]
