@@ -1,6 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/botpsy-2b-qwen3-5-0-8b-on-device-agent/12486",
-    "https://discuss.pytorch.kr/t/topic/12489",
     "https://www.aitimes.com/news/articleView.html?idxno=217319",
     "https://www.aitimes.com/news/articleView.html?idxno=217317",
     "https://www.aitimes.com/news/articleView.html?idxno=217316",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/saltline-claude-fable-5-2-html-fps/12512",
     "https://www.aitimes.com/news/articleView.html?idxno=217426",
     "https://www.aitimes.com/news/articleView.html?idxno=217347",
-    "https://www.aitimes.com/news/articleView.html?idxno=217424"
+    "https://www.aitimes.com/news/articleView.html?idxno=217424",
+    "https://www.aitimes.com/news/articleView.html?idxno=217423",
+    "https://discuss.pytorch.kr/t/simready-isaac-sim-ur17g-feat-nvidia/12508"
 ]
