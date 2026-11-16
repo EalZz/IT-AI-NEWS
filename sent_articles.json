@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217321",
-    "https://www.aitimes.com/news/articleView.html?idxno=217329",
-    "https://www.aitimes.com/news/articleView.html?idxno=217342",
-    "https://www.aitimes.com/news/articleView.html?idxno=217332",
-    "https://www.aitimes.com/news/articleView.html?idxno=217340",
-    "https://www.aitimes.com/news/articleView.html?idxno=217309",
     "https://www.aitimes.com/news/articleView.html?idxno=217327",
     "https://discuss.pytorch.kr/t/vllm-router/12492",
     "https://www.aitimes.com/news/articleView.html?idxno=217351",
@@ -98,5 +92,11 @@
     "https://discuss.pytorch.kr/t/microsoft-to-3d-trellis-2-179-lora/12510",
     "https://www.aitimes.com/news/articleView.html?idxno=217449",
     "https://discuss.pytorch.kr/t/agentbaton-haiku-5-5-4b/12532",
-    "https://www.aitimes.com/news/articleView.html?idxno=217444"
+    "https://www.aitimes.com/news/articleView.html?idxno=217444",
+    "https://www.aitimes.com/news/articleView.html?idxno=217443",
+    "https://www.aitimes.com/news/articleView.html?idxno=217458",
+    "https://www.aitimes.com/news/articleView.html?idxno=217453",
+    "https://www.aitimes.com/news/articleView.html?idxno=217457",
+    "https://www.aitimes.com/news/articleView.html?idxno=217450",
+    "https://discuss.pytorch.kr/t/haru-4b-4-000-feat-qwen3-5-meanflow/12533"
 ]
