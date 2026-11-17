@@ -1,7 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217372",
-    "https://www.aitimes.com/news/articleView.html?idxno=217376",
-    "https://www.aitimes.com/news/articleView.html?idxno=217370",
     "https://www.aitimes.com/news/articleView.html?idxno=217378",
     "https://discuss.pytorch.kr/t/rtx-4090-vram/12500",
     "https://discuss.pytorch.kr/t/ai-ax-ai/12499",
@@ -98,5 +95,8 @@
     "https://discuss.pytorch.kr/t/openai-chatgpt-wallet-pro/12538",
     "https://www.aitimes.com/news/articleView.html?idxno=217281",
     "https://discuss.pytorch.kr/t/11-24-aws-ai/12546",
-    "https://discuss.pytorch.kr/t/mcp/12545"
+    "https://discuss.pytorch.kr/t/mcp/12545",
+    "https://www.aitimes.com/news/articleView.html?idxno=217473",
+    "https://www.aitimes.com/news/articleView.html?idxno=217362",
+    "https://discuss.pytorch.kr/t/gpu-glm-5-3-753b-dgx-station-2-vllm/12537"
 ]
