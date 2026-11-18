@@ -1,8 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217411",
-    "https://discuss.pytorch.kr/t/flashstates-llm-prefix-cache-vllm/12511",
-    "https://www.aitimes.com/news/articleView.html?idxno=217412",
-    "https://discuss.pytorch.kr/t/gemm/12517",
     "https://www.aitimes.com/news/articleView.html?idxno=217413",
     "https://www.aitimes.com/news/articleView.html?idxno=217414",
     "https://discuss.pytorch.kr/t/devvm-vm/12515",
@@ -98,5 +94,9 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217482",
     "https://discuss.pytorch.kr/t/sevren-10b-a1b-embla-1-feat-embla-metal/12556",
     "https://www.aitimes.com/news/articleView.html?idxno=217283",
-    "https://discuss.pytorch.kr/t/pytorch-day-korea-2026-d-day/12561"
+    "https://discuss.pytorch.kr/t/pytorch-day-korea-2026-d-day/12561",
+    "https://www.aitimes.com/news/articleView.html?idxno=217517",
+    "https://discuss.pytorch.kr/t/personal-agent-protocol-1-0-sierra-meta-ai/12554",
+    "https://discuss.pytorch.kr/t/ai-3-11-24/12567",
+    "https://discuss.pytorch.kr/t/ai-agent-5-11-22/12566"
 ]
