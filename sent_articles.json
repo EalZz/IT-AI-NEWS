@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217450",
-    "https://discuss.pytorch.kr/t/haru-4b-4-000-feat-qwen3-5-meanflow/12533",
     "https://www.aitimes.com/news/articleView.html?idxno=217446",
     "https://www.aitimes.com/news/articleView.html?idxno=217452",
     "https://www.aitimes.com/news/articleView.html?idxno=217460",
@@ -98,5 +96,7 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217546",
     "https://discuss.pytorch.kr/t/devin-devin-apps/12555",
     "https://www.aitimes.com/news/articleView.html?idxno=217285",
-    "https://discuss.pytorch.kr/t/optimind/12580"
+    "https://discuss.pytorch.kr/t/optimind/12580",
+    "https://www.aitimes.com/news/articleView.html?idxno=217555",
+    "https://discuss.pytorch.kr/t/nvidia-cublas-tensor-core-fp64-dgemm-5-5-feat-ozaki-ii-2m/12539"
 ]
