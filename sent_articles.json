@@ -1,10 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217446",
-    "https://www.aitimes.com/news/articleView.html?idxno=217452",
-    "https://www.aitimes.com/news/articleView.html?idxno=217460",
-    "https://www.aitimes.com/news/articleView.html?idxno=217461",
-    "https://www.aitimes.com/news/articleView.html?idxno=217455",
-    "https://www.aitimes.com/news/articleView.html?idxno=217462",
     "https://www.aitimes.com/news/articleView.html?idxno=217447",
     "https://www.aitimes.com/news/articleView.html?idxno=217445",
     "https://www.aitimes.com/news/articleView.html?idxno=217459",
@@ -98,5 +92,11 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217285",
     "https://discuss.pytorch.kr/t/optimind/12580",
     "https://www.aitimes.com/news/articleView.html?idxno=217555",
-    "https://discuss.pytorch.kr/t/nvidia-cublas-tensor-core-fp64-dgemm-5-5-feat-ozaki-ii-2m/12539"
+    "https://discuss.pytorch.kr/t/nvidia-cublas-tensor-core-fp64-dgemm-5-5-feat-ozaki-ii-2m/12539",
+    "https://www.aitimes.com/news/articleView.html?idxno=217564",
+    "https://www.aitimes.com/news/articleView.html?idxno=217552",
+    "https://www.aitimes.com/news/articleView.html?idxno=217559",
+    "https://www.aitimes.com/news/articleView.html?idxno=217547",
+    "https://www.aitimes.com/news/articleView.html?idxno=217560",
+    "https://discuss.pytorch.kr/t/topic/12581"
 ]
