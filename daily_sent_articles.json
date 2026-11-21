@@ -1,11 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/2027-2027chatgpt/12468",
-    "https://discuss.pytorch.kr/t/reshard-nvidia-5-7/12447",
-    "https://discuss.pytorch.kr/t/4b-agentbaton/12464",
-    "https://discuss.pytorch.kr/t/kant-ai-private-llm-infra/12462",
-    "https://www.aitimes.com/news/articleView.html?idxno=217297",
-    "https://www.aitimes.com/news/articleView.html?idxno=217271",
-    "https://www.aitimes.com/news/articleView.html?idxno=217274",
     "https://www.aitimes.com/news/articleView.html?idxno=217278",
     "https://www.aitimes.com/news/articleView.html?idxno=217294",
     "https://discuss.pytorch.kr/t/ai/12481",
@@ -98,5 +91,12 @@
     "https://discuss.pytorch.kr/t/radixark-1-200-qwen3-8-27b-daisyrose-27b-feat-miles/12588",
     "https://discuss.pytorch.kr/t/dsa-6-llm/12589",
     "https://discuss.pytorch.kr/t/pytorch-pytorch-deepdive/12593",
-    "https://discuss.pytorch.kr/t/receipts/12592"
+    "https://discuss.pytorch.kr/t/receipts/12592",
+    "https://www.aitimes.com/news/articleView.html?idxno=217653",
+    "https://www.aitimes.com/news/articleView.html?idxno=217650",
+    "https://www.aitimes.com/news/articleView.html?idxno=217649",
+    "https://www.aitimes.com/news/articleView.html?idxno=217648",
+    "https://www.aitimes.com/news/articleView.html?idxno=217644",
+    "https://discuss.pytorch.kr/t/topic/12600",
+    "https://discuss.pytorch.kr/t/nvidia-daqiri-2026-11-500gb-gpu-feat-berkeley-lab/12595"
 ]
