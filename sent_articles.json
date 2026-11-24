@@ -1,6 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217646",
-    "https://www.aitimes.com/news/articleView.html?idxno=217641",
     "https://www.aitimes.com/news/articleView.html?idxno=217643",
     "https://www.aitimes.com/news/articleView.html?idxno=217644",
     "https://www.aitimes.com/news/articleView.html?idxno=217648",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/2026-5-k-water-ai/12639",
     "https://www.aitimes.com/news/articleView.html?idxno=217729",
     "https://www.aitimes.com/news/articleView.html?idxno=217751",
-    "https://www.aitimes.com/news/articleView.html?idxno=217728"
+    "https://www.aitimes.com/news/articleView.html?idxno=217728",
+    "https://discuss.pytorch.kr/t/deepcrossattention-dca-3-feat-google/12635",
+    "https://discuss.pytorch.kr/t/2-ai-ai-know-how-weeks/12641"
 ]
