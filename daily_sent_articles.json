@@ -1,14 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217409",
-    "https://www.aitimes.com/news/articleView.html?idxno=217407",
-    "https://discuss.pytorch.kr/t/gemm/12517",
-    "https://discuss.pytorch.kr/t/flashstates-llm-prefix-cache-vllm/12511",
-    "https://discuss.pytorch.kr/t/llama-cpp-3-v1-0-0-c-api-feat-ggml/12509",
-    "https://www.aitimes.com/news/articleView.html?idxno=217428",
-    "https://www.aitimes.com/news/articleView.html?idxno=217423",
-    "https://www.aitimes.com/news/articleView.html?idxno=217426",
-    "https://www.aitimes.com/news/articleView.html?idxno=217347",
-    "https://www.aitimes.com/news/articleView.html?idxno=217424",
     "https://discuss.pytorch.kr/t/simready-isaac-sim-ur17g-feat-nvidia/12508",
     "https://discuss.pytorch.kr/t/saltline-claude-fable-5-2-html-fps/12512",
     "https://discuss.pytorch.kr/t/devvm-vm/12515",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/deepcrossattention-dca-3-feat-google/12635",
     "https://discuss.pytorch.kr/t/2-ai-ai-know-how-weeks/12641",
     "https://discuss.pytorch.kr/t/2026-5-k-water-ai/12639",
-    "https://discuss.pytorch.kr/t/12-03-chatgpt-3/12638"
+    "https://discuss.pytorch.kr/t/12-03-chatgpt-3/12638",
+    "https://www.aitimes.com/news/articleView.html?idxno=217786",
+    "https://www.aitimes.com/news/articleView.html?idxno=217758",
+    "https://www.aitimes.com/news/articleView.html?idxno=217763",
+    "https://www.aitimes.com/news/articleView.html?idxno=217785",
+    "https://www.aitimes.com/news/articleView.html?idxno=217778",
+    "https://discuss.pytorch.kr/t/mbzuai-llm-29b-pan-2/12642",
+    "https://discuss.pytorch.kr/t/2048-rsa-gcd-rsa/12650",
+    "https://discuss.pytorch.kr/t/vllm-gr-vllm/12648",
+    "https://discuss.pytorch.kr/t/cohere-ai-7/12633",
+    "https://discuss.pytorch.kr/t/ai2-robotrack/12634"
 ]
