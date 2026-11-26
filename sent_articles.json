@@ -1,5 +1,4 @@
 [
-    "https://www.aitimes.com/news/articleView.html?idxno=217727",
     "https://www.aitimes.com/news/articleView.html?idxno=217717",
     "https://www.aitimes.com/news/articleView.html?idxno=217719",
     "https://www.aitimes.com/news/articleView.html?idxno=217716",
@@ -98,5 +97,6 @@
     "https://www.aitimes.com/news/articleView.html?idxno=217834",
     "https://www.aitimes.com/news/articleView.html?idxno=217835",
     "https://www.aitimes.com/news/articleView.html?idxno=217833",
-    "https://discuss.pytorch.kr/t/12-05-dify-dify-new-agent-ai/12665"
+    "https://discuss.pytorch.kr/t/12-05-dify-dify-new-agent-ai/12665",
+    "https://discuss.pytorch.kr/t/prismml-fp16-90-5-93gb-ternary-bonsai-2-5-27b/12653"
 ]
