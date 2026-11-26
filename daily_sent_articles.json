@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/simready-isaac-sim-ur17g-feat-nvidia/12508",
-    "https://discuss.pytorch.kr/t/saltline-claude-fable-5-2-html-fps/12512",
-    "https://discuss.pytorch.kr/t/devvm-vm/12515",
-    "https://www.aitimes.com/news/articleView.html?idxno=217468",
-    "https://www.aitimes.com/news/articleView.html?idxno=217467",
-    "https://www.aitimes.com/news/articleView.html?idxno=217466",
-    "https://www.aitimes.com/news/articleView.html?idxno=217465",
-    "https://www.aitimes.com/news/articleView.html?idxno=217463",
-    "https://discuss.pytorch.kr/t/2026-11-09-15-ai-ml/12522",
-    "https://discuss.pytorch.kr/t/haru-4b-4-000-feat-qwen3-5-meanflow/12533",
     "https://discuss.pytorch.kr/t/agentbaton-haiku-5-5-4b/12532",
     "https://discuss.pytorch.kr/t/microsoft-to-3d-trellis-2-179-lora/12510",
     "https://discuss.pytorch.kr/t/xybench-allenai-llm/12507",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/2048-rsa-gcd-rsa/12650",
     "https://discuss.pytorch.kr/t/vllm-gr-vllm/12648",
     "https://discuss.pytorch.kr/t/cohere-ai-7/12633",
-    "https://discuss.pytorch.kr/t/ai2-robotrack/12634"
+    "https://discuss.pytorch.kr/t/ai2-robotrack/12634",
+    "https://www.aitimes.com/news/articleView.html?idxno=217838",
+    "https://www.aitimes.com/news/articleView.html?idxno=217837",
+    "https://www.aitimes.com/news/articleView.html?idxno=217834",
+    "https://www.aitimes.com/news/articleView.html?idxno=217835",
+    "https://www.aitimes.com/news/articleView.html?idxno=217833",
+    "https://discuss.pytorch.kr/t/prismml-fp16-90-5-93gb-ternary-bonsai-2-5-27b/12653",
+    "https://discuss.pytorch.kr/t/12-05-dify-dify-new-agent-ai/12665",
+    "https://discuss.pytorch.kr/t/phai-m1-ltx-2-5-cg/12661",
+    "https://discuss.pytorch.kr/t/rocket-microsoft-ai-mai-base-2/12654",
+    "https://discuss.pytorch.kr/t/hugging-face/12636"
 ]
