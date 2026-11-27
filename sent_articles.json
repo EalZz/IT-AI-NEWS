@@ -1,6 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/rl-qwen3-8-27b-lora/12610",
-    "https://www.aitimes.com/news/articleView.html?idxno=217725",
     "https://www.aitimes.com/news/articleView.html?idxno=217721",
     "https://www.aitimes.com/news/articleView.html?idxno=217718",
     "https://www.aitimes.com/news/articleView.html?idxno=217733",
@@ -98,5 +96,7 @@
     "https://discuss.pytorch.kr/t/prismml-fp16-90-5-93gb-ternary-bonsai-2-5-27b/12653",
     "https://www.aitimes.com/news/articleView.html?idxno=217838",
     "https://www.aitimes.com/news/articleView.html?idxno=217837",
-    "https://www.aitimes.com/news/articleView.html?idxno=217803"
+    "https://www.aitimes.com/news/articleView.html?idxno=217803",
+    "https://www.aitimes.com/news/articleView.html?idxno=217839",
+    "https://discuss.pytorch.kr/t/nari-labs-3-nariq-qwen3-8-27b-10gb-feat-llama-cpp/12652"
 ]
