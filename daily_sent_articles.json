@@ -1,14 +1,4 @@
 [
-    "https://discuss.pytorch.kr/t/agentbaton-haiku-5-5-4b/12532",
-    "https://discuss.pytorch.kr/t/microsoft-to-3d-trellis-2-179-lora/12510",
-    "https://discuss.pytorch.kr/t/xybench-allenai-llm/12507",
-    "https://www.aitimes.com/news/articleView.html?idxno=217513",
-    "https://www.aitimes.com/news/articleView.html?idxno=217512",
-    "https://www.aitimes.com/news/articleView.html?idxno=217511",
-    "https://www.aitimes.com/news/articleView.html?idxno=217484",
-    "https://www.aitimes.com/news/articleView.html?idxno=217492",
-    "https://discuss.pytorch.kr/t/qwen-api-2-4t-qwen4-max/12557",
-    "https://discuss.pytorch.kr/t/openmaic-ai-ai/12553",
     "https://discuss.pytorch.kr/t/pytorch-day-korea-2026-faq/12551",
     "https://discuss.pytorch.kr/t/pytorch-day-korea-2026/12548",
     "https://discuss.pytorch.kr/t/ai/12547",
@@ -98,5 +88,15 @@
     "https://discuss.pytorch.kr/t/12-05-dify-dify-new-agent-ai/12665",
     "https://discuss.pytorch.kr/t/phai-m1-ltx-2-5-cg/12661",
     "https://discuss.pytorch.kr/t/rocket-microsoft-ai-mai-base-2/12654",
-    "https://discuss.pytorch.kr/t/hugging-face/12636"
+    "https://discuss.pytorch.kr/t/hugging-face/12636",
+    "https://www.aitimes.com/news/articleView.html?idxno=217874",
+    "https://www.aitimes.com/news/articleView.html?idxno=217875",
+    "https://www.aitimes.com/news/articleView.html?idxno=217878",
+    "https://www.aitimes.com/news/articleView.html?idxno=217867",
+    "https://www.aitimes.com/news/articleView.html?idxno=217882",
+    "https://discuss.pytorch.kr/t/inkworks-3d/12676",
+    "https://discuss.pytorch.kr/t/12-09-ai/12679",
+    "https://discuss.pytorch.kr/t/12-08-ai-ready-lab-ai/12678",
+    "https://discuss.pytorch.kr/t/fast-anything-rust/12655",
+    "https://discuss.pytorch.kr/t/nari-labs-3-nariq-qwen3-8-27b-10gb-feat-llama-cpp/12652"
 ]
